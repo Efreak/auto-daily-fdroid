@@ -1,0 +1,22 @@
+FastHub:
+  git: https://github.com/k0shk0sh/FastHub
+  name: "FastHub (official)"
+  description: |
+    Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
+    
+    FastHub is not and never will be included in FDroid official repos. Please see the Readme for FastHub-RE for an explanation
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories: 
+    - Internet
+
+FastHub-RE:
+  git: https://github.com/LightDestory/FastHub-RE
+  name: "FastHub Re(vival)"
+  description: This fork aim to attempt the revival of the awesome FastHub application. The code base is based on a set of changes done on the original FastHub repository by thermatk.
+
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories: 
+    - Internet
