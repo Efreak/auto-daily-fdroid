@@ -1,5 +1,5 @@
 ## note
-This repo is a clone of [xarantolus/fdroid](https://github.com/xarantolus/fdroid), filtered (via git-filter-repo's clean-ignore filter) to remove all app-specific commits
+This repo is a clone of [xarantolus/fdroid](https://github.com/xarantolus/fdroid), filtered (via git-filter-repo's clean-ignore filter) to remove all app-specific commits. A modification has been made to the metascoop go program to only fetch 5 releases from each repo. You can get a clean copy of this repo (without apks or metadata) at [efreak/fdroid-action](https://github.com/efreak/fdroid-action), however it's not guaranteed to be up to date with xaranolus' code.
 
 # fdroid
 This repository hosts an [F-Droid](https://f-droid.org/) repo for the following apps. This allows you to install and update apps very easily.
