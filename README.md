@@ -2,7 +2,7 @@
 This repo is a clone of [xarantolus/fdroid](https://github.com/xarantolus/fdroid), filtered (via git-filter-repo's clean-ignore filter) to remove all app-specific commits
 
 # fdroid
-This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This allows you to install and update apps very easily.
+This repository hosts an [F-Droid](https://f-droid.org/) repo for the following apps. This allows you to install and update apps very easily.
 
 ### Apps
 
