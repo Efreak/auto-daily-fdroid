@@ -1,0 +1,29 @@
+**Implemented enhancements:**
+
+- Handle Issues and Prs search urls [\#1394](https://github.com/k0shk0sh/FastHub/issues/1394)
+- Sharing repo/wiki pages [\#1375](https://github.com/k0shk0sh/FastHub/issues/1375)
+- 'Backup' creates a json file that is greyed out when trying to restore [\#1372](https://github.com/k0shk0sh/FastHub/issues/1372)
+- Allow to pin searches [\#1371](https://github.com/k0shk0sh/FastHub/issues/1371)
+- Click Feeds button when in same view to scroll to top [\#1360](https://github.com/k0shk0sh/FastHub/issues/1360)
+- Copy line specific urls [\#1352](https://github.com/k0shk0sh/FastHub/issues/1352)
+
+**Fixed bugs:**
+
+- View issues with embedded image crashes the app [\#1392](https://github.com/k0shk0sh/FastHub/issues/1392)
+- Opening Label links not working properly. [\#1389](https://github.com/k0shk0sh/FastHub/issues/1389)
+- Opening issue \#448 on openhab/openhab.android crashes app [\#1280](https://github.com/k0shk0sh/FastHub/issues/1280)
+
+**Closed issues:**
+
+- \[ poll \] Make some of GitHub terms translatable [\#1329](https://github.com/k0shk0sh/FastHub/issues/1329)
+
+**Merged pull requests:**
+
+- Updated Russian translation [\#1386](https://github.com/k0shk0sh/FastHub/pull/1386) ([dedepete](https://github.com/dedepete))
+- Reduce the boilerplate in making a Kotlin class parcelable [\#1374](https://github.com/k0shk0sh/FastHub/pull/1374) ([veyndan](https://github.com/veyndan))
+- Add Portuguese \(Portugal\) language [\#1361](https://github.com/k0shk0sh/FastHub/pull/1361) ([KcNirvana](https://github.com/KcNirvana))
+- Update french [\#1348](https://github.com/k0shk0sh/FastHub/pull/1348) ([ptt-homme](https://github.com/ptt-homme))
+- fix typos in russian translation [\#1343](https://github.com/k0shk0sh/FastHub/pull/1343) ([olshevskiy87](https://github.com/olshevskiy87))
+- Update korean strings for 4.6.0 [\#1341](https://github.com/k0shk0sh/FastHub/pull/1341) ([cozyplanes](https://github.com/cozyplanes))
+
+[Full Changelog](https://github.com/k0shk0sh/FastHub/compare/4.6.0...4.6.1)

@@ -1,0 +1,3 @@
+- Added metadata of user to bottom menu.
+- Overrode back button to shrink the story screen instead of returning on tablet.
+- Improved scrolling performance of story screen.

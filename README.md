@@ -9,8 +9,9 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for the following 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/xarantolus/notality"><img src="fdroid/repo/icons/io.github.xarantolus.notality.8.png" alt="Notality icon" width="36px" height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android. | 1.7.0 (8) |
-| <a href="https://github.com/xarantolus/rockit"><img src="fdroid/repo/icons/" alt="Rock It! icon" width="36px" height="36px"></a> | [**Rock It!**](https://github.com/xarantolus/rockit) | Rock It! is an app that helps you stay informed on all things space | 0.8.0 (12) |
+| <a href="https://github.com/k0shk0sh/FastHub"><img src="fdroid/repo/icons/com.fastaccess.github.461.png" alt="FastHub (official) icon" width="36px" height="36px"></a> | [**FastHub (official)**](https://github.com/k0shk0sh/FastHub) | FastHub the ultimate GitHub client for Android. | 4.6.1 (461) |
+| <a href="https://github.com/LightDestory/FastHub-RE"><img src="fdroid/repo/icons/" alt="FastHub Re(vival) icon" width="36px" height="36px"></a> | [**FastHub Re(vival)**](https://github.com/LightDestory/FastHub-RE) | Revival Attempt for FastHub the ultimate GitHub client for Android. | 4.7.7 (477) |
+| <a href="https://github.com/Livinglist/Hacki"><img src="fdroid/repo/icons/" alt="Hacki icon" width="36px" height="36px"></a> | [**Hacki**](https://github.com/Livinglist/Hacki) | A simple noiseless Hacker News client made with Flutter that is just enough. | 0.2.17 (56) |
 <!-- end apps table -->
 
 ### How to use

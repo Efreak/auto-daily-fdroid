@@ -1,0 +1,15 @@
+AuthorName: k0shk0sh
+Categories:
+    - Internet
+CurrentVersion: 4.6.1
+CurrentVersionCode: 461
+Description: |
+    Yet another open-source GitHub client app but unlike any other app, FastHub was built from scratch.
+
+    FastHub is not and never will be included in FDroid official repos. Please see the Readme for FastHub-RE for an explanation
+IssueTracker: ""
+License: GPL-3.0
+Name: FastHub (official)
+SourceCode: https://github.com/k0shk0sh/FastHub
+Summary: FastHub the ultimate GitHub client for Android.
+WebSite: ""

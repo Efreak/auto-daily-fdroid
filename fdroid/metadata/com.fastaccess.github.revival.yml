@@ -1,0 +1,12 @@
+AuthorName: LightDestory
+Categories:
+    - Internet
+CurrentVersion: 4.7.7
+CurrentVersionCode: 477
+Description: This fork aim to attempt the revival of the awesome FastHub application. The code base is based on a set of changes done on the original FastHub repository by thermatk.
+IssueTracker: ""
+License: GPL-3.0
+Name: FastHub Re(vival)
+SourceCode: https://github.com/LightDestory/FastHub-RE
+Summary: Revival Attempt for FastHub the ultimate GitHub client for Android.
+WebSite: ""
