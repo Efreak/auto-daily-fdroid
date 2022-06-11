@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1654984780000,
+    "timestamp": 1654985863000,
     "version": 20001,
     "name": "Efreak Repo",
     "icon": "icon.png",
@@ -12,6 +12,41 @@
     "uninstall": []
   },
   "apps": [
+    {
+      "antiFeatures": [
+        "UpstreamNonFree",
+        "NonFreeNet"
+      ],
+      "authorEmail": "fastaccessapps@gmail.com",
+      "authorName": "k0shk0sh",
+      "categories": [
+        "Internet",
+        "Development"
+      ],
+      "suggestedVersionName": "4.6.1",
+      "suggestedVersionCode": "461",
+      "description": "<b>Warning:</b> Upstream deleted fdroid flavor with some strange reasoning.\nLocked/deleted comments, general attitude suggest FastHub is gone forever.\nYou could try its fork https://f-droid.org/packages/com.fastaccess.github.libre or\nFastHub-Revival instead (FastHub-Revival is not (yet?) in fdroid).\n\nYet another open-source GitHub client app but unlike any other app, FastHub was\nbuilt from scratch.\n\n<b>Features</b>\n\n<i>App</i>\n\n* Two login types (Basic Auth) or via (Browser)\n* Themes mode\n* Offline-mode\n* Markdown and code highlighting support\n* Notifications overview and \"Mark all as read\"\n* Search users/orgs, repos, issues/prs & code.\n* Pinned Repos\n\n<i>Repositories</i>\n\n* Search Repos\n* Browse and search Repos\n* See your public, private and forked Repos\n* Filter Branches and Commits\n* Watch, star and fork Repos\n* Download releases, files and branches\n\n<i>Issues and Pull Requests</i>\n\n* Search Issues/PRs\n* Filter Issues/PRs\n* Open/close Issues/PRs\n* Comment on Issues/PRs\n* Manage Issue/PR comments\n* React to comments with reactions\n* Edit Issues/PRs\n* Lock/unlock conversation in Issues/PRs\n* Assign people and add Labels and Milestones to Issues/PRs\n* Manage Milestones\n* Merge PRs\n* PRs reviews\n* PRs statuses\n\n<i>Commits and Gists</i>\n\n* Search Code/Gists\n* View Gists and their files\n* Comment on Commits/Gists\n* Manage Commit/Gist comments\n* Create/Delete Gists\n\n<i>Orgs</i>\n\n* Overview\n* Feeds\n* Teams & Teams repos\n* Repos\n\n<i>Users</i>\n\n* Follow/unfollow users\n* Search Users, Repos, Issues,Pull Requests and Code\n\n<i>Much more...</i>\n\n* FastHub is actively developed. More features will come!\n",
+      "issueTracker": "https://github.com/k0shk0sh/FastHub/issues",
+      "license": "GPL-3.0",
+      "name": "FastHub (official)",
+      "sourceCode": "https://github.com/k0shk0sh/FastHub",
+      "summary": "FastHub the ultimate GitHub client for Android.",
+      "added": 1654985823000,
+      "icon": "com.fastaccess.github.461.png",
+      "packageName": "com.fastaccess.github",
+      "lastUpdated": 1654985827000,
+      "localized": {
+        "en-US": {
+          "phoneScreenshots": [
+            "first.png",
+            "fourth.png",
+            "sec.png",
+            "third.png"
+          ],
+          "whatsNew": "**Implemented enhancements:**\n\n- Handle Issues and Prs search urls [\\#1394](https://github.com/k0shk0sh/FastHub/issues/1394)\n- Sharing repo/wiki pages [\\#1375](https://github.com/k0shk0sh/FastHub/issues/1375)\n- 'Backup' creates a json file that is greyed out when trying to restore [\\#1372](https://github.com/k0shk0sh/FastHub/issues/1372)\n- Allow to pin searches [\\#1371](https://github.com/k0shk0sh/FastHub/issues/1371)\n- Click Feeds button when in same view to scroll to top [\\#1360](https://githu"
+        }
+      }
+    },
     {
       "antiFeatures": [
         "NonFreeNet"
@@ -29,9 +64,9 @@
       "name": "FastHub Re(vival)",
       "sourceCode": "https://github.com/LightDestory/FastHub-RE",
       "summary": "Revival Attempt for FastHub the ultimate GitHub client for Android.",
-      "added": 1654984745000,
+      "added": 1654985818000,
       "packageName": "com.fastaccess.github.revival",
-      "lastUpdated": 1654984748000,
+      "lastUpdated": 1654985822000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -55,9 +90,9 @@
       "name": "Hacki",
       "sourceCode": "https://github.com/Livinglist/Hacki",
       "summary": "A simple noiseless Hacker News client made with Flutter that is just enough.",
-      "added": 1654984749000,
+      "added": 1654985828000,
       "packageName": "com.jiaqifeng.hacki",
-      "lastUpdated": 1654984754000,
+      "lastUpdated": 1654985833000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -96,9 +131,219 @@
     }
   ],
   "packages": {
+    "com.fastaccess.github": [
+      {
+        "added": 1654985827000,
+        "apkName": "FastHub_4.6.1.apk",
+        "hash": "f871445094b419fb2aba611293a49cb3d5eaa6435910476080b3c1fcd5d9338b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.fastaccess.github",
+        "sig": "64762f03f1aafb39d6c4ac383c7b3ed7",
+        "signer": "ed02f9499e7a49062aafaff9bf67ce8b5b9281ad6d2eb24ad4c687f52114f2b0",
+        "size": 7343324,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.fastaccess.github.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 461,
+        "versionName": "4.6.1"
+      },
+      {
+        "added": 1654985826000,
+        "apkName": "FastHub_4.5.7.apk",
+        "hash": "dd89fcf780cec81c9b9d727be6d9a01e41ef4a26dcd3ee8e04ba8aa2b4906a41",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.fastaccess.github",
+        "sig": "64762f03f1aafb39d6c4ac383c7b3ed7",
+        "signer": "ed02f9499e7a49062aafaff9bf67ce8b5b9281ad6d2eb24ad4c687f52114f2b0",
+        "size": 8260922,
+        "targetSdkVersion": 27,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.fastaccess.github.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 457,
+        "versionName": "4.5.7"
+      },
+      {
+        "added": 1654985825000,
+        "apkName": "FastHub_4.5.1.apk",
+        "hash": "7a029f53f5004b76b5c63a745d67816dc13fedde747d42949a929701c0e9de79",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.fastaccess.github",
+        "sig": "64762f03f1aafb39d6c4ac383c7b3ed7",
+        "signer": "ed02f9499e7a49062aafaff9bf67ce8b5b9281ad6d2eb24ad4c687f52114f2b0",
+        "size": 8161200,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.fastaccess.github.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 451,
+        "versionName": "4.5.1"
+      },
+      {
+        "added": 1654985823000,
+        "apkName": "FastHub_4.4.2.apk",
+        "hash": "ce5622d81451aa1fda460ba30490702a4f17d8a614cc7bf6752751f2d6f200d9",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.fastaccess.github",
+        "sig": "64762f03f1aafb39d6c4ac383c7b3ed7",
+        "signer": "ed02f9499e7a49062aafaff9bf67ce8b5b9281ad6d2eb24ad4c687f52114f2b0",
+        "size": 7446426,
+        "targetSdkVersion": 26,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.fastaccess.github.permission.C2D_MESSAGE",
+            null
+          ]
+        ],
+        "versionCode": 442,
+        "versionName": "4.4.2"
+      }
+    ],
     "com.fastaccess.github.revival": [
       {
-        "added": 1654984748000,
+        "added": 1654985822000,
         "apkName": "FastHub-RE_4.7.7.apk",
         "hash": "fa69846e62f72eb7df7969d6ce9a6465f4ce902c9828f2860abb28202b17b86c",
         "hashType": "sha256",
@@ -152,7 +397,7 @@
         "versionName": "4.7.7"
       },
       {
-        "added": 1654984747000,
+        "added": 1654985821000,
         "apkName": "FastHub-RE_4.7.6.apk",
         "hash": "5d5a45a1e5985a643b4060c17aed276197c8821b9fbe04e89e37932fbfff9ec8",
         "hashType": "sha256",
@@ -206,7 +451,7 @@
         "versionName": "4.7.6"
       },
       {
-        "added": 1654984746000,
+        "added": 1654985819000,
         "apkName": "FastHub-RE_4.7.5.apk",
         "hash": "53d3cf88d811f7214c85cd61504fc8a32f4474e3cb30d0ca732d612ecbe88e11",
         "hashType": "sha256",
@@ -260,7 +505,7 @@
         "versionName": "4.7.5"
       },
       {
-        "added": 1654984745000,
+        "added": 1654985818000,
         "apkName": "FastHub-RE_4.7.4.apk",
         "hash": "d4a99f463f9dd67bf5b490ba0b2ba91f2c0eddab97c4ad0f531b378747813e7c",
         "hashType": "sha256",
@@ -298,7 +543,7 @@
     ],
     "com.jiaqifeng.hacki": [
       {
-        "added": 1654984754000,
+        "added": 1654985833000,
         "apkName": "Hacki_v0.2.17.apk",
         "hash": "43353bdcf0fd2df60aa4d5f6876fde7f3f17393ea00143e9c62db037f5b7698b",
         "hashType": "sha256",
@@ -351,7 +596,7 @@
         "versionName": "0.2.17"
       },
       {
-        "added": 1654984753000,
+        "added": 1654985832000,
         "apkName": "Hacki_v0.2.16.apk",
         "hash": "4aee4e3631fbfda581d6a5809be3709c5f100e7302c4d4363b27d20a84957c25",
         "hashType": "sha256",
@@ -404,7 +649,7 @@
         "versionName": "0.2.16"
       },
       {
-        "added": 1654984752000,
+        "added": 1654985831000,
         "apkName": "Hacki_v0.2.15.apk",
         "hash": "49b50c1681fc7ec7cd4d60b1fbd700b5266ab630c28636d0d171e35321ccea14",
         "hashType": "sha256",
@@ -457,7 +702,7 @@
         "versionName": "0.2.15"
       },
       {
-        "added": 1654984750000,
+        "added": 1654985830000,
         "apkName": "Hacki_v0.2.14.apk",
         "hash": "3bd50a92f3fcc1369b02ce88e850974b909b5f7bb1a030a893e5a0f05cc279ca",
         "hashType": "sha256",
@@ -510,7 +755,7 @@
         "versionName": "0.2.14"
       },
       {
-        "added": 1654984749000,
+        "added": 1654985828000,
         "apkName": "Hacki_v0.2.13.apk",
         "hash": "313180bddcf0075749dfc57e48863ff1d6a51ec58276faa99feba61dd548261d",
         "hashType": "sha256",

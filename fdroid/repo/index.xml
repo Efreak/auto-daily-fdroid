@@ -1,9 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1654984780" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1654985863" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.
 Included apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually.</description>
 	</repo>
+	<application id="com.fastaccess.github">
+		<id>com.fastaccess.github</id>
+		<added>2022-06-11</added>
+		<lastupdated>2022-06-11</lastupdated>
+		<name>FastHub (official)</name>
+		<summary>FastHub the ultimate GitHub client for Android.</summary>
+		<icon>com.fastaccess.github.461.png</icon>
+		<desc>&lt;b&gt;Warning:&lt;/b&gt; Upstream deleted fdroid flavor with some strange reasoning.
+Locked/deleted comments, general attitude suggest FastHub is gone forever.
+You could try its fork https://f-droid.org/packages/com.fastaccess.github.libre or
+FastHub-Revival instead (FastHub-Revival is not (yet?) in fdroid).
+
+Yet another open-source GitHub client app but unlike any other app, FastHub was
+built from scratch.
+
+&lt;b&gt;Features&lt;/b&gt;
+
+&lt;i&gt;App&lt;/i&gt;
+
+* Two login types (Basic Auth) or via (Browser)
+* Themes mode
+* Offline-mode
+* Markdown and code highlighting support
+* Notifications overview and &quot;Mark all as read&quot;
+* Search users/orgs, repos, issues/prs &amp; code.
+* Pinned Repos
+
+&lt;i&gt;Repositories&lt;/i&gt;
+
+* Search Repos
+* Browse and search Repos
+* See your public, private and forked Repos
+* Filter Branches and Commits
+* Watch, star and fork Repos
+* Download releases, files and branches
+
+&lt;i&gt;Issues and Pull Requests&lt;/i&gt;
+
+* Search Issues/PRs
+* Filter Issues/PRs
+* Open/close Issues/PRs
+* Comment on Issues/PRs
+* Manage Issue/PR comments
+* React to comments with reactions
+* Edit Issues/PRs
+* Lock/unlock conversation in Issues/PRs
+* Assign people and add Labels and Milestones to Issues/PRs
+* Manage Milestones
+* Merge PRs
+* PRs reviews
+* PRs statuses
+
+&lt;i&gt;Commits and Gists&lt;/i&gt;
+
+* Search Code/Gists
+* View Gists and their files
+* Comment on Commits/Gists
+* Manage Commit/Gist comments
+* Create/Delete Gists
+
+&lt;i&gt;Orgs&lt;/i&gt;
+
+* Overview
+* Feeds
+* Teams &amp; Teams repos
+* Repos
+
+&lt;i&gt;Users&lt;/i&gt;
+
+* Follow/unfollow users
+* Search Users, Repos, Issues,Pull Requests and Code
+
+&lt;i&gt;Much more...&lt;/i&gt;
+
+* FastHub is actively developed. More features will come!
+</desc>
+		<license>GPL-3.0</license>
+		<categories>Internet,Development</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/k0shk0sh/FastHub</source>
+		<tracker>https://github.com/k0shk0sh/FastHub/issues</tracker>
+		<author>k0shk0sh</author>
+		<email>fastaccessapps@gmail.com</email>
+		<marketversion>4.6.1</marketversion>
+		<marketvercode>461</marketvercode>
+		<antifeatures>UpstreamNonFree,NonFreeNet</antifeatures>
+		<package>
+			<version>4.6.1</version>
+			<versioncode>461</versioncode>
+			<apkname>FastHub_4.6.1.apk</apkname>
+			<hash type="sha256">f871445094b419fb2aba611293a49cb3d5eaa6435910476080b3c1fcd5d9338b</hash>
+			<size>7343324</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2022-06-11</added>
+			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+		</package>
+		<package>
+			<version>4.5.7</version>
+			<versioncode>457</versioncode>
+			<apkname>FastHub_4.5.7.apk</apkname>
+			<hash type="sha256">dd89fcf780cec81c9b9d727be6d9a01e41ef4a26dcd3ee8e04ba8aa2b4906a41</hash>
+			<size>8260922</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2022-06-11</added>
+			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+		</package>
+		<package>
+			<version>4.5.1</version>
+			<versioncode>451</versioncode>
+			<apkname>FastHub_4.5.1.apk</apkname>
+			<hash type="sha256">7a029f53f5004b76b5c63a745d67816dc13fedde747d42949a929701c0e9de79</hash>
+			<size>8161200</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2022-06-11</added>
+			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+		</package>
+		<package>
+			<version>4.4.2</version>
+			<versioncode>442</versioncode>
+			<apkname>FastHub_4.4.2.apk</apkname>
+			<hash type="sha256">ce5622d81451aa1fda460ba30490702a4f17d8a614cc7bf6752751f2d6f200d9</hash>
+			<size>7446426</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>26</targetSdkVersion>
+			<added>2022-06-11</added>
+			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
+		</package>
+	</application>
 	<application id="com.fastaccess.github.revival">
 		<id>com.fastaccess.github.revival</id>
 		<added>2022-06-11</added>
