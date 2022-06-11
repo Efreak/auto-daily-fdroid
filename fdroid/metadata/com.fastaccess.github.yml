@@ -1,15 +1,14 @@
 AntiFeatures:
-  - UpstreamNonFree
-  - NonFreeNet
-Categories:
-  - Development
-License: GPL-3.0-only
-AuthorName: Fast Access
+    - UpstreamNonFree
+    - NonFreeNet
 AuthorEmail: fastaccessapps@gmail.com
-SourceCode: https://github.com/k0shk0sh/FastHub
-IssueTracker: https://github.com/k0shk0sh/FastHub/issues
-Summary: A GitHub client app built from ground up
-Description: |-
+AuthorName: k0shk0sh
+Categories:
+    - Internet
+    - Development
+CurrentVersion: 4.6.1
+CurrentVersionCode: 461
+Description: |
     <b>Warning:</b> Upstream deleted fdroid flavor with some strange reasoning.
     Locked/deleted comments, general attitude suggest FastHub is gone forever.
     You could try its fork https://f-droid.org/packages/com.fastaccess.github.libre or
@@ -78,3 +77,8 @@ Description: |-
     <i>Much more...</i>
 
     * FastHub is actively developed. More features will come!
+IssueTracker: https://github.com/k0shk0sh/FastHub/issues
+License: GPL-3.0
+Name: FastHub (official)
+SourceCode: https://github.com/k0shk0sh/FastHub
+Summary: FastHub the ultimate GitHub client for Android.
