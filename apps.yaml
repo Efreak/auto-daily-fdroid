@@ -25,7 +25,8 @@ Hacki:
   git: https://github.com/Livinglist/Hacki
   name: "Hacki"
   summary: A simple noiseless Hacker News client made with Flutter that is just enough.
-  description: Features:
+  description: |-
+    Features:
     * Log in using your Hacker News account.
     * Browse stories from various categories.
     * Search for stories.
