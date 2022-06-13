@@ -1,0 +1,22 @@
+AuthorName: ArizArmeidi
+Categories:
+    - Entertainment
+    - Internet
+CurrentVersion: 1.0.0
+CurrentVersionCode: 2001
+Description: |-
+    Features
+
+    Search Anime and Manga
+    Find Top, Upcoming, and Ongoing Anime or Manga
+    Anime Recommendation
+    Detailed Info About Each Anime
+    Option to Open Each Page on MyAnimeList For a More Detailed Info
+    (Not Working Currently) Add Anime or Manga to Saved List
+    Possibly more features
+IssueTracker: ""
+License: MIT
+Name: AnimSearch
+SourceCode: https://github.com/ArizArmeidi/AnimSearch
+Summary: Anime and Manga search app. created using Flutter and Jikan API
+WebSite: ""

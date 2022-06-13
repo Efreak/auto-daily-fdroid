@@ -1,0 +1,29 @@
+AuthorName: Suwayomi
+Categories:
+    - Internet
+CurrentVersion: 0.2.3
+CurrentVersionCode: 1
+Description: |-
+    A free and open source manga reader based on Flutter to read manga from a Tachidesk-Server instance.
+
+    Tachidesk-Sorayomi need to connect with an already hosted server.
+
+    Tachidesk-Sorayomi supports Linux, Windows, MacOS, Web, iOS and Android.
+    Is this application usable? Should I test it?
+
+    Here is a list of current features for interaction with Tachidesk-Sorayomi:
+
+      * Managing installed Extensions.
+      * Interaction with your library.
+      * Browsing installed sources.
+      * Viewing manga and chapters.
+      * Reading, downloading, and managing chapters.
+      * Viewing chapter updates
+
+    Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.
+IssueTracker: ""
+License: MPL-2.0
+Name: Tachiyomi-Sorayami
+SourceCode: https://github.com/Suwayomi/Tachidesk-Sorayomi
+Summary: A free and open source manga reader based on Flutter to read manga from a Tac...
+WebSite: ""

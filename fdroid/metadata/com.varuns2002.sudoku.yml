@@ -1,0 +1,30 @@
+AuthorName: VarunS2002
+Categories:
+    - Games
+CurrentVersion: 2.4.0
+CurrentVersionCode: 2040
+Description: |-
+    Features
+    *  Generates a New Game when you start the app
+    *  Clicking a box displays a dialog with buttons 1-9 to input in the box
+    *  Clickable buttons will initially have no number and will turn red after the first click
+    *  Long pressing a button will erase your input
+    *  After completely solving the grid, if the solution is correct it will alert you that you successfully solved the Sudoku
+    *  The numbers in all the clickable buttons will turn blue if the solution is correct (This will also happen if you click Show Solution)
+    *  4 different difficulty levels to choose from :
+      *  Beginner - 18 empty squares
+      *  Easy - 27 empty squares
+      *  Medium - 36 empty squares
+      *  Hard - 54 empty squares
+    *  New Game
+    *  Restart Game
+    *  Show Solution
+    *  Dark and Light theme
+    *  Various Accent Colors to choose from
+    *  Material Design
+IssueTracker: ""
+License: GPL-3.0
+Name: Flutter-Sudoku
+SourceCode: https://github.com/VarunS2002/Flutter-Sudoku
+Summary: This is a fully fledged Sudoku game written in Dart using Flutter.
+WebSite: ""

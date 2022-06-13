@@ -1,0 +1,31 @@
+AuthorName: amangautam1
+Categories:
+    - Multimedia
+CurrentVersion: 1.0 beta
+CurrentVersionCode: 2006
+Description: |-
+    Flutter Music Player
+
+    A complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.
+
+    You can download app from releases Music Player.
+
+    Please star the repo up, if you like the work.
+
+    Features
+      * Play local songs
+      * Beautiful screens
+      * Sqlite database support
+      * Search songs, Songs suggestions
+      * Top tracks, Recent songs, Random song
+      * Album view, Artist view
+      * Playing queue, Shuffle, Add to favourites
+      * Play/pause, Next/prev
+      * Themes (dark/light), Custom font, Animations
+      * Landscape mode
+IssueTracker: ""
+License: MIT
+Name: Flutter Music Player
+SourceCode: https://github.com/amangautam1/flutter-musicplayer
+Summary: A complete music player in flutter with cool UI and design.
+WebSite: ""

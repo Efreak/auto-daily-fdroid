@@ -1,0 +1,22 @@
+Bug fixed. The last seconds of some music did not update.
+
+<table>
+<tr>
+<th>Home Screen Picture</th>
+<th> Structural Picture</th>
+<tr>
+<tr>
+<td width="200px"> 
+
+![Screenshot_1648062030](https://user-images.githubusercontent.com/61885011/159776128-5895eb5a-e07b-40f9-abe2-10a31894c3fd.png) 
+
+</td>
+<td width="200px"> 
+
+![Screenshot_1648062047](https://user-images.githubusercontent.com/61885011/159776162-3e3f80b1-b9e6-47e5-8a55-1388c74932e5.png) 
+
+</td>
+</tr>
+</table>
+
+

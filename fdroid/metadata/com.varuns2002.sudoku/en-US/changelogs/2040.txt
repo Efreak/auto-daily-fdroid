@@ -1,0 +1,25 @@
+- Ability to long press a square to erase your input
+- Added option to change the accent color
+    - Available colors:
+        - Cyan
+        - Blue
+        - Indigo
+        - Violet
+        - Purple
+        - Pink
+        - Red
+        - Orange
+        - Green
+    - Unsolved squares color is set to Orange if accent color is Red
+    - Default is Blue
+- Version number in About window is now a hyperlink to the releases page of this project on GitHub
+- Added proper support and released installer for Windows
+    - Hides default Desktop Title Bar
+    - AppBar (Sudoku Title Bar) can be used to drag the window
+    - AppBar (Sudoku Title Bar) can be double-tapped to maximise or restore the window
+- Set theme based on device theme on first run (Android, iOS and Web)
+- Made native splashscreen dark and added app icon (Android, iOS and Web)
+- Updated app name, description and name displayed in link previews
+- Added screenshots to be displayed when installing as a PWA
+- Fixed issue where game wouldn't end even after correctly solving it
+- Fixed issue where game would have multiple solutions

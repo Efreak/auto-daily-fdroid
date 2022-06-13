@@ -1,13 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1654985863" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1655110149" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.
 Included apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually.</description>
 	</repo>
+	<application id="com.example.anim_search">
+		<id>com.example.anim_search</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>AnimSearch</name>
+		<summary>Anime and Manga search app. created using Flutter and Jikan API</summary>
+		<icon>com.example.anim_search.2001.png</icon>
+		<desc>Features
+
+Search Anime and Manga
+Find Top, Upcoming, and Ongoing Anime or Manga
+Anime Recommendation
+Detailed Info About Each Anime
+Option to Open Each Page on MyAnimeList For a More Detailed Info
+(Not Working Currently) Add Anime or Manga to Saved List
+Possibly more features</desc>
+		<license>MIT</license>
+		<categories>Entertainment,Internet</categories>
+		<category>Entertainment</category>
+		<web></web>
+		<source>https://github.com/ArizArmeidi/AnimSearch</source>
+		<tracker></tracker>
+		<author>ArizArmeidi</author>
+		<marketversion>1.0.0</marketversion>
+		<marketvercode>2001</marketvercode>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>2001</versioncode>
+			<apkname>AnimSearch_v1.0.apk</apkname>
+			<hash type="sha256">e4a1a8d732fd0049fe0f562c4bc885354511ea8618aca4d2e5e64f432b93b81a</hash>
+			<size>6638408</size>
+			<sdkver>19</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>cb9cfbaeb878d1943af7867a62c2c384</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.blackunicorn.buwa">
+		<id>com.blackunicorn.buwa</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Black Unicorn Wallpapers</name>
+		<summary>Sexy and beautiful wallpapers for your Android-powered device! :black_heart:</summary>
+		<icon>com.blackunicorn.buwa.4.png</icon>
+		<desc>No description available</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web></web>
+		<source>https://github.com/iamtheblackunicorn/Buwa</source>
+		<tracker></tracker>
+		<author>iamtheblackunicorn</author>
+		<marketversion>1.3.0</marketversion>
+		<marketvercode>4</marketvercode>
+		<package>
+			<version>1.3.0</version>
+			<versioncode>4</versioncode>
+			<apkname>Buwa_v.1.3.0.apk</apkname>
+			<hash type="sha256">0cad5156afd0b48b9161d6a9b79273c7a9343302eafccffcacba8cca3ee7dbed</hash>
+			<size>18769620</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>17317ffa12c61f45d3e4e03ca0b833e6</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,SET_WALLPAPER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+		<package>
+			<version>1.2.0</version>
+			<versioncode>3</versioncode>
+			<apkname>Buwa_v.1.2.0.apk</apkname>
+			<hash type="sha256">0630ce452ca4371d90f382cffb6257b1e64536e8b7b84104331c18fdd7a7b9c5</hash>
+			<size>18466666</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>17317ffa12c61f45d3e4e03ca0b833e6</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,SET_WALLPAPER</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="com.fastaccess.github">
 		<id>com.fastaccess.github</id>
-		<added>2022-06-11</added>
-		<lastupdated>2022-06-11</lastupdated>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
 		<name>FastHub (official)</name>
 		<summary>FastHub the ultimate GitHub client for Android.</summary>
 		<icon>com.fastaccess.github.461.png</icon>
@@ -99,7 +182,7 @@ built from scratch.
 			<size>7343324</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
@@ -111,7 +194,7 @@ built from scratch.
 			<size>8260922</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
@@ -123,7 +206,7 @@ built from scratch.
 			<size>8161200</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
@@ -135,15 +218,15 @@ built from scratch.
 			<size>7446426</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>26</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
 	</application>
 	<application id="com.fastaccess.github.revival">
 		<id>com.fastaccess.github.revival</id>
-		<added>2022-06-11</added>
-		<lastupdated>2022-06-11</lastupdated>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
 		<name>FastHub Re(vival)</name>
 		<summary>Revival Attempt for FastHub the ultimate GitHub client for Android.</summary>
 		<desc>This fork aim to attempt the revival of the awesome FastHub application. The code base is based on a set of changes done on the original FastHub repository by thermatk.
@@ -245,7 +328,7 @@ built from scratch.
 			<size>8903952</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>bf7523da929bda3668dbe1d3c643bde0</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -260,7 +343,7 @@ built from scratch.
 			<size>9057648</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>bf7523da929bda3668dbe1d3c643bde0</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -275,7 +358,7 @@ built from scratch.
 			<size>7995505</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>bf7523da929bda3668dbe1d3c643bde0</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -290,15 +373,174 @@ built from scratch.
 			<size>7782115</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>164294055c8fcd95e67f0daf51621a4e</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 		</package>
 	</application>
+	<application id="com.onedreamers.musicplayer">
+		<id>com.onedreamers.musicplayer</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Flutter Music Player</name>
+		<summary>A complete music player in flutter with cool UI and design.</summary>
+		<icon>com.onedreamers.musicplayer.2006.png</icon>
+		<desc>Flutter Music Player
+
+A complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.
+
+You can download app from releases Music Player.
+
+Please star the repo up, if you like the work.
+
+Features
+  * Play local songs
+  * Beautiful screens
+  * Sqlite database support
+  * Search songs, Songs suggestions
+  * Top tracks, Recent songs, Random song
+  * Album view, Artist view
+  * Playing queue, Shuffle, Add to favourites
+  * Play/pause, Next/prev
+  * Themes (dark/light), Custom font, Animations
+  * Landscape mode</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web></web>
+		<source>https://github.com/amangautam1/flutter-musicplayer</source>
+		<tracker></tracker>
+		<author>amangautam1</author>
+		<marketversion>1.0 beta</marketversion>
+		<marketvercode>2006</marketvercode>
+		<package>
+			<version>1.0 beta</version>
+			<versioncode>2006</versioncode>
+			<apkname>Flutter-MusicPlayer_v1.0_beta.apk</apkname>
+			<hash type="sha256">ef901d2659c4abbddfeb4e075dd7e549c51d0268974754e0fa10d201d3282c40</hash>
+			<size>9087776</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>4a94b5779241f7e67597eb4f2cca33a2</sig>
+			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.onedreamers.musicplayer.permission.C2D_MESSAGE</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="com.yourcompany.musicplayer">
+		<id>com.yourcompany.musicplayer</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Flutter Music Player</name>
+		<summary>A complete music player in flutter with cool UI and design.</summary>
+		<icon>com.yourcompany.musicplayer.5.png</icon>
+		<desc>Flutter Music Player
+
+A complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.
+
+You can download app from releases Music Player.
+
+Please star the repo up, if you like the work.
+
+Features
+  * Play local songs
+  * Beautiful screens
+  * Sqlite database support
+  * Search songs, Songs suggestions
+  * Top tracks, Recent songs, Random song
+  * Album view, Artist view
+  * Playing queue, Shuffle, Add to favourites
+  * Play/pause, Next/prev
+  * Themes (dark/light), Custom font, Animations
+  * Landscape mode</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web></web>
+		<source>https://github.com/amangautam1/flutter-musicplayer</source>
+		<tracker></tracker>
+		<author>amangautam1</author>
+		<marketversion>0.8</marketversion>
+		<marketvercode>5</marketvercode>
+		<package>
+			<version>0.8</version>
+			<versioncode>5</versioncode>
+			<apkname>Flutter-MusicPlayer_v0.9.apk</apkname>
+			<hash type="sha256">467fd84a96303b7355c51ec0af27e48fdbf656556869eabdc820dd35c6e89c73</hash>
+			<size>7954552</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>4a94b5779241f7e67597eb4f2cca33a2</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+		<package>
+			<version>0.3.0</version>
+			<versioncode>1</versioncode>
+			<apkname>grey_0.3.1.apk</apkname>
+			<hash type="sha256">be841df8bc4ef47f0ca6894fadc4f07fbda9dd0190fd7cc20629eba49e415080</hash>
+			<size>8251437</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>27</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>191b37c891a71b9ba4072bfcb840cf80</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE</permissions>
+			<uses-permission maxSdkVersion="17" name="android.permission.VIBRATE"/>
+			<nativecode>armeabi-v7a</nativecode>
+		</package>
+	</application>
+	<application id="com.varuns2002.sudoku">
+		<id>com.varuns2002.sudoku</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Flutter-Sudoku</name>
+		<summary>This is a fully fledged Sudoku game written in Dart using Flutter.</summary>
+		<icon>com.varuns2002.sudoku.2040.png</icon>
+		<desc>Features
+*  Generates a New Game when you start the app
+*  Clicking a box displays a dialog with buttons 1-9 to input in the box
+*  Clickable buttons will initially have no number and will turn red after the first click
+*  Long pressing a button will erase your input
+*  After completely solving the grid, if the solution is correct it will alert you that you successfully solved the Sudoku
+*  The numbers in all the clickable buttons will turn blue if the solution is correct (This will also happen if you click Show Solution)
+*  4 different difficulty levels to choose from :
+  *  Beginner - 18 empty squares
+  *  Easy - 27 empty squares
+  *  Medium - 36 empty squares
+  *  Hard - 54 empty squares
+*  New Game
+*  Restart Game
+*  Show Solution
+*  Dark and Light theme
+*  Various Accent Colors to choose from
+*  Material Design</desc>
+		<license>GPL-3.0</license>
+		<categories>Games</categories>
+		<category>Games</category>
+		<web></web>
+		<source>https://github.com/VarunS2002/Flutter-Sudoku</source>
+		<tracker></tracker>
+		<author>VarunS2002</author>
+		<marketversion>2.4.0</marketversion>
+		<marketvercode>2040</marketvercode>
+		<package>
+			<version>2.4.0</version>
+			<versioncode>2040</versioncode>
+			<apkname>FlutterSudoku_2.4.0.apk</apkname>
+			<hash type="sha256">84fe25f5bda258fa1032e0588fce06f31a670587711cc2be3e6740d36f7f757a</hash>
+			<size>17734883</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>ce05811236899a25b19f94137168ef32</sig>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
 	<application id="com.jiaqifeng.hacki">
 		<id>com.jiaqifeng.hacki</id>
-		<added>2022-06-11</added>
-		<lastupdated>2022-06-11</lastupdated>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
 		<name>Hacki</name>
 		<summary>A simple noiseless Hacker News client made with Flutter that is just enough.</summary>
 		<desc>Features:
@@ -337,7 +579,7 @@ built from scratch.
 			<size>63898934</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -350,7 +592,7 @@ built from scratch.
 			<size>63882482</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -363,7 +605,7 @@ built from scratch.
 			<size>63882482</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -376,7 +618,7 @@ built from scratch.
 			<size>63866098</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -389,9 +631,86 @@ built from scratch.
 			<size>63407290</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-06-11</added>
+			<added>2022-06-13</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.example.music_player_fluttter">
+		<id>com.example.music_player_fluttter</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Stream Music Player with GetX</name>
+		<summary>Listen to music online with a clean GetX MVC architecture</summary>
+		<icon>com.example.music_player_fluttter.1.png</icon>
+		<desc>No description available</desc>
+		<license>MIT</license>
+		<categories>Multimedia</categories>
+		<category>Multimedia</category>
+		<web></web>
+		<source>https://github.com/vellt/GetX-Stream-Music-Player-Flutter</source>
+		<tracker></tracker>
+		<author>vellt</author>
+		<marketversion>1.0.0</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>1.0.0</version>
+			<versioncode>1</versioncode>
+			<apkname>GetX-Stream_v0.0.3.apk</apkname>
+			<hash type="sha256">8fb5076f03908a81b86abb85a2ab99cbf2dd8cc54ec1bcd8bef64501c3cd78f8</hash>
+			<size>17765698</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>d20300317204feb429006efc37e2aa1e</sig>
+			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="com.suwayomi.tachidesk_sorayomi">
+		<id>com.suwayomi.tachidesk_sorayomi</id>
+		<added>2022-06-13</added>
+		<lastupdated>2022-06-13</lastupdated>
+		<name>Tachiyomi-Sorayami</name>
+		<summary>A free and open source manga reader based on Flutter to read manga from a Tac...</summary>
+		<desc>A free and open source manga reader based on Flutter to read manga from a Tachidesk-Server instance.
+
+Tachidesk-Sorayomi need to connect with an already hosted server.
+
+Tachidesk-Sorayomi supports Linux, Windows, MacOS, Web, iOS and Android.
+Is this application usable? Should I test it?
+
+Here is a list of current features for interaction with Tachidesk-Sorayomi:
+
+  * Managing installed Extensions.
+  * Interaction with your library.
+  * Browsing installed sources.
+  * Viewing manga and chapters.
+  * Reading, downloading, and managing chapters.
+  * Viewing chapter updates
+
+Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.</desc>
+		<license>MPL-2.0</license>
+		<categories>Internet</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/Suwayomi/Tachidesk-Sorayomi</source>
+		<tracker></tracker>
+		<author>Suwayomi</author>
+		<marketversion>0.2.3</marketversion>
+		<marketvercode>1</marketvercode>
+		<package>
+			<version>0.2.2</version>
+			<versioncode>1</versioncode>
+			<apkname>Tachiyomi-Sorayami_0.2.2.apk</apkname>
+			<hash type="sha256">b9460091c947f4c1b8dda4a5b76581a74698403c9c371a9c82b3d19e0a289227</hash>
+			<size>22903479</size>
+			<sdkver>16</sdkver>
+			<targetSdkVersion>31</targetSdkVersion>
+			<added>2022-06-13</added>
+			<sig>33c6e3a83e0f2c537d9a4ac46f4651a5</sig>
+			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
 		</package>
 	</application>

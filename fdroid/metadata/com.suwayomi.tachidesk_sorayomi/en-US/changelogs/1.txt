@@ -1,0 +1,6 @@
+## What's Changed
+* GetStorage container name Bug fixed by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/72
+* version bump to 0.2.3 by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/73
+
+
+**Full Changelog**: https://github.com/Suwayomi/Tachidesk-Sorayomi/compare/0.2.2...0.2.3
