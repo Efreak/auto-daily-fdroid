@@ -199,3 +199,121 @@ Hacki:
     * And more...
   categories: 
     - Internet
+
+Tachiyomi-Sorayami:
+  git: https://github.com/Suwayomi/Tachidesk-Sorayomi
+  name: Tachiyomi-Sorayami
+  summary: A FLOSS Flutter-based manga reader client for Tachidesk-Server
+  description: |-
+    A free and open source manga reader based on Flutter to read manga from a Tachidesk-Server instance.
+
+    Tachidesk-Sorayomi need to connect with an already hosted server.
+
+    Tachidesk-Sorayomi supports Linux, Windows, MacOS, Web, iOS and Android.
+    Is this application usable? Should I test it?
+
+    Here is a list of current features for interaction with Tachidesk-Sorayomi:
+
+      * Managing installed Extensions.
+      * Interaction with your library.
+      * Browsing installed sources.
+      * Viewing manga and chapters.
+      * Reading, downloading, and managing chapters.
+      * Viewing chapter updates
+
+    Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.
+  categories:
+    - Internet
+  IssueTracker: https://github.com/Suwayomi/Tachidesk-Sorayami/issues
+
+AnimSearch:
+  git: https://github.com/ArizArmeidi/AnimSearch
+  name: AnimSearch
+  categories:
+    - Entertainment
+    - Internet
+  summary: an App for searching Anime and Manga created with Flutter with data from Jikan API
+  description: |-
+    Features
+
+    Search Anime and Manga
+    Find Top, Upcoming, and Ongoing Anime or Manga
+    Anime Recommendation
+    Detailed Info About Each Anime
+    Option to Open Each Page on MyAnimeList For a More Detailed Info
+    (Not Working Currently) Add Anime or Manga to Saved List
+    Possibly more features
+
+FlutterSudoku:
+  git: https://github.com/VarunS2002/Flutter-Sudoku
+  name: Flutter-Sudoku
+  categories:
+    - Games
+  summary: This is a fully fledged Sudoku game written in Dart using Flutter
+  description: |-
+    Features
+    *  Generates a New Game when you start the app
+    *  Clicking a box displays a dialog with buttons 1-9 to input in the box
+    *  Clickable buttons will initially have no number and will turn red after the first click
+    *  Long pressing a button will erase your input
+    *  After completely solving the grid, if the solution is correct it will alert you that you successfully solved the Sudoku
+    *  The numbers in all the clickable buttons will turn blue if the solution is correct (This will also happen if you click Show Solution)
+    *  4 different difficulty levels to choose from :
+      *  Beginner - 18 empty squares
+      *  Easy - 27 empty squares
+      *  Medium - 36 empty squares
+      *  Hard - 54 empty squares
+    *  New Game
+    *  Restart Game
+    *  Show Solution
+    *  Dark and Light theme
+    *  Various Accent Colors to choose from
+    *  Material Design
+
+grey:
+  git: https://github.com/avirias/Grey
+  summary: material designed music player developed in Flutter
+  name: grey
+  categories:
+    - Multimedia
+
+Flutter-MusicPlayer:
+  git: https://github.com/amangautam1/flutter-musicplayer
+  summary: A complete music player in flutter with cool UI and design.
+  name: Flutter Music Player
+  categories:
+    - Multimedia
+  description: |-
+    Flutter Music Player
+
+    A complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.
+
+    You can download app from releases Music Player.
+
+    Please star the repo up, if you like the work.
+
+    Features
+      * Play local songs
+      * Beautiful screens
+      * Sqlite database support
+      * Search songs, Songs suggestions
+      * Top tracks, Recent songs, Random song
+      * Album view, Artist view
+      * Playing queue, Shuffle, Add to favourites
+      * Play/pause, Next/prev
+      * Themes (dark/light), Custom font, Animations
+      * Landscape mode
+
+GetX-Stream:
+  git: https://github.com/vellt/GetX-Stream-Music-Player-Flutter
+  name: Stream Music Player with GetX
+  summary: Listen to music online with a clean GetX MVC architecture
+  categories:
+    - Multimedia
+
+Buwa:
+  git: https://github.com/iamtheblackunicorn/Buwa
+  name: Black Unicorn Wallpapers
+  summary: Sexy and beautiful wallpapers for your Android-powered device!
+  categories:
+    - Multimedia
