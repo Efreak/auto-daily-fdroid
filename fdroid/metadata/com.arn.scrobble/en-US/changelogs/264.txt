@@ -1,0 +1,14 @@
+- Notifications now work in Windows 11
+- Auto skip or mute blocked tracks
+- Stonks indicators in charts
+- Months, years and custom date ranges for charts
+- Pinch to zoom/list view
+- Pictures in info view
+- Emoji flags for some countries in friends view
+- Shuffle artists and albums in I'm feeling lucky
+- Ignored tracks can be edited
+- Multiple fields in pattern edits
+- Removed wakelock permission
+- Bug fixes and translation updates
+
+Copied from Play Store what's new, may not be accurate for minor updates.

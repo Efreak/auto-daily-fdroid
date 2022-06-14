@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1655110149000,
+    "timestamp": 1655250165000,
     "version": 20001,
     "name": "Efreak Repo",
     "icon": "icon.png",
@@ -25,10 +25,10 @@
       "name": "AnimSearch",
       "sourceCode": "https://github.com/ArizArmeidi/AnimSearch",
       "summary": "Anime and Manga search app. created using Flutter and Jikan API",
-      "added": 1655110097000,
+      "added": 1655250097000,
       "icon": "com.example.anim_search.2001.png",
       "packageName": "com.example.anim_search",
-      "lastUpdated": 1655110097000
+      "lastUpdated": 1655250097000
     },
     {
       "authorName": "iamtheblackunicorn",
@@ -41,10 +41,10 @@
       "name": "Black Unicorn Wallpapers",
       "sourceCode": "https://github.com/iamtheblackunicorn/Buwa",
       "summary": "Sexy and beautiful wallpapers for your Android-powered device! :black_heart:",
-      "added": 1655110098000,
+      "added": 1655250098000,
       "icon": "com.blackunicorn.buwa.4.png",
       "packageName": "com.blackunicorn.buwa",
-      "lastUpdated": 1655110099000,
+      "lastUpdated": 1655250099000,
       "localized": {
         "en-US": {
           "whatsNew": "This update turns Black Unicorn Wallpapers into a precise and well-designed work of art! It is no longer simply a tool! The update includes another major visual overhaul, a new layout, a new font, and lots of new wallpapers!"
@@ -70,10 +70,10 @@
       "name": "FastHub (official)",
       "sourceCode": "https://github.com/k0shk0sh/FastHub",
       "summary": "FastHub the ultimate GitHub client for Android.",
-      "added": 1655110105000,
+      "added": 1655250105000,
       "icon": "com.fastaccess.github.461.png",
       "packageName": "com.fastaccess.github",
-      "lastUpdated": 1655110109000,
+      "lastUpdated": 1655250109000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -103,9 +103,9 @@
       "name": "FastHub Re(vival)",
       "sourceCode": "https://github.com/LightDestory/FastHub-RE",
       "summary": "Revival Attempt for FastHub the ultimate GitHub client for Android.",
-      "added": 1655110101000,
+      "added": 1655250100000,
       "packageName": "com.fastaccess.github.revival",
-      "lastUpdated": 1655110104000,
+      "lastUpdated": 1655250104000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -129,10 +129,10 @@
       "name": "Flutter Music Player",
       "sourceCode": "https://github.com/amangautam1/flutter-musicplayer",
       "summary": "A complete music player in flutter with cool UI and design.",
-      "added": 1655110110000,
+      "added": 1655250110000,
       "icon": "com.onedreamers.musicplayer.2006.png",
       "packageName": "com.onedreamers.musicplayer",
-      "lastUpdated": 1655110110000,
+      "lastUpdated": 1655250110000,
       "localized": {
         "en-US": {
           "whatsNew": "First beta version\nAlmost stable"
@@ -151,10 +151,10 @@
       "name": "Flutter Music Player",
       "sourceCode": "https://github.com/amangautam1/flutter-musicplayer",
       "summary": "A complete music player in flutter with cool UI and design.",
-      "added": 1655110110000,
+      "added": 1655250110000,
       "icon": "com.yourcompany.musicplayer.5.png",
       "packageName": "com.yourcompany.musicplayer",
-      "lastUpdated": 1655110121000,
+      "lastUpdated": 1655250122000,
       "localized": {
         "en-US": {
           "whatsNew": "A lot of Improvements and bug fixed."
@@ -173,10 +173,10 @@
       "name": "Flutter-Sudoku",
       "sourceCode": "https://github.com/VarunS2002/Flutter-Sudoku",
       "summary": "This is a fully fledged Sudoku game written in Dart using Flutter.",
-      "added": 1655110111000,
+      "added": 1655250111000,
       "icon": "com.varuns2002.sudoku.2040.png",
       "packageName": "com.varuns2002.sudoku",
-      "lastUpdated": 1655110111000,
+      "lastUpdated": 1655250111000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -202,9 +202,9 @@
       "name": "Hacki",
       "sourceCode": "https://github.com/Livinglist/Hacki",
       "summary": "A simple noiseless Hacker News client made with Flutter that is just enough.",
-      "added": 1655110114000,
+      "added": 1655250114000,
       "packageName": "com.jiaqifeng.hacki",
-      "lastUpdated": 1655110118000,
+      "lastUpdated": 1655250119000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -242,6 +242,27 @@
       }
     },
     {
+      "authorName": "kawaiiDango",
+      "categories": [
+        "Multimedia"
+      ],
+      "suggestedVersionName": "2.64 - 2022, Jun 01",
+      "suggestedVersionCode": "264",
+      "description": "* No ADs ever * Scrobbles to LastFM, LibreFM, GNU FM and Listenbrainz (A LastFM login is required for now) * Supports phones, TVs, tablets and Android desktops including Windows 11 * Interactive notification: View scrobble counts, love, cancel or block tracks directly from the notification * View track, album, artist, album artist and tag details * View scrobbles from a specific time such as last year, last month etc. * Edit or delete existing scrobbles. Remembers edits * Fix metadata such as \"Remastered\" or your own patterns with regex edits * Block artists, tracks etc and auto skip or mute when they play * Check what your friends are listening to and view their stats * Identify and scrobble a song from the microphone * Scrobble from AutoShazam and Pixel Now Playing * Import & export settings, edits and blocklists * View charts for a specific week, month, year or custom range, with change indicators * Charts are also available as a customizable home-screen widget * View scrobble count graphs for specific time periods * Get a random track, album or artist from your listening history * Search for a track, artist or album * Fetch albums and album artists from LastFM, if missing, before scrobbling * Get your top scrobble digests as a notification at the end of every week and month * Add or remove personal tags * Mix and match themes, supports Material You * Broadcast Intents for automation apps like Tasker * Show scrobble sources beside each scrobble and directly search in the app you scrobbled from * In-app update checker for devices without Play Store",
+      "license": "GPL-3.0",
+      "name": "Pano Scrobbler",
+      "sourceCode": "https://github.com/kawaiiDango/pScrobbler",
+      "summary": "A last.fm scrobbler and viewer for Android",
+      "added": 1655250123000,
+      "packageName": "com.arn.scrobble",
+      "lastUpdated": 1655250124000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "- Notifications now work in Windows 11\n- Auto skip or mute blocked tracks\n- Stonks indicators in charts\n- Months, years and custom date ranges for charts\n- Pinch to zoom/list view\n- Pictures in info view\n- Emoji flags for some countries in friends view\n- Shuffle artists and albums in I'm feeling lucky\n- Ignored tracks can be edited\n- Multiple fields in pattern edits\n- Removed wakelock permission\n- Bug fixes and translation updates\n\nCopied from Play Store what's new, may not be accurate for minor"
+        }
+      }
+    },
+    {
       "authorName": "vellt",
       "categories": [
         "Multimedia"
@@ -252,10 +273,10 @@
       "name": "Stream Music Player with GetX",
       "sourceCode": "https://github.com/vellt/GetX-Stream-Music-Player-Flutter",
       "summary": "Listen to music online with a clean GetX MVC architecture",
-      "added": 1655110112000,
+      "added": 1655250112000,
       "icon": "com.example.music_player_fluttter.1.png",
       "packageName": "com.example.music_player_fluttter",
-      "lastUpdated": 1655110113000,
+      "lastUpdated": 1655250113000,
       "localized": {
         "en-US": {
           "whatsNew": "Bug fixed. The last seconds of some music did not update.\n\n<table>\n<tr>\n<th>Home Screen Picture</th>\n<th> Structural Picture</th>\n<tr>\n<tr>\n<td width=\"200px\"> \n\n![Screenshot_1648062030](https://user-images.githubusercontent.com/61885011/159776128-5895eb5a-e07b-40f9-abe2-10a31894c3fd.png) \n\n</td>\n<td width=\"200px\"> \n\n![Screenshot_1648062047](https://user-images.githubusercontent.com/61885011/159776162-3e3f80b1-b9e6-47e5-8a55-1388c74932e5.png) \n\n</td>\n</tr>\n</table>\n\n\n"
@@ -274,9 +295,9 @@
       "name": "Tachiyomi-Sorayami",
       "sourceCode": "https://github.com/Suwayomi/Tachidesk-Sorayomi",
       "summary": "A free and open source manga reader based on Flutter to read manga from a Tac...",
-      "added": 1655110119000,
+      "added": 1655250120000,
       "packageName": "com.suwayomi.tachidesk_sorayomi",
-      "lastUpdated": 1655110120000,
+      "lastUpdated": 1655250121000,
       "localized": {
         "en-US": {
           "whatsNew": "## What's Changed\n* GetStorage container name Bug fixed by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/72\n* version bump to 0.2.3 by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/73\n\n\n**Full Changelog**: https://github.com/Suwayomi/Tachidesk-Sorayomi/compare/0.2.2...0.2.3"
@@ -285,9 +306,111 @@
     }
   ],
   "packages": {
+    "com.arn.scrobble": [
+      {
+        "added": 1655250124000,
+        "apkName": "pScrobbler_264.apk",
+        "hash": "940eda8e02375db1af90d5065cdaf722c5ce2fbc5ff7a697fc568ff3258ca6b3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.arn.scrobble",
+        "sig": "0fa119f1a45a03857a90b9bbf731ace9",
+        "signer": "8a6321649487dbaa6c80c07e6de60f4793b7f2c632a183cdcb10b2c856edbe58",
+        "size": 4099843,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.arn.scrobble.MY_AWESOME_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 264,
+        "versionName": "2.64 - 2022, Jun 01"
+      },
+      {
+        "added": 1655250123000,
+        "apkName": "pScrobbler_261.apk",
+        "hash": "75271176fdc68e2b349b906bea0732f624994ddcbc4cbd07820c9defcd3f3d1b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.arn.scrobble",
+        "sig": "0fa119f1a45a03857a90b9bbf731ace9",
+        "signer": "8a6321649487dbaa6c80c07e6de60f4793b7f2c632a183cdcb10b2c856edbe58",
+        "size": 4090127,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "com.arn.scrobble.MY_AWESOME_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 261,
+        "versionName": "2.61 - 2022, May 22"
+      }
+    ],
     "com.blackunicorn.buwa": [
       {
-        "added": 1655110099000,
+        "added": 1655250099000,
         "apkName": "Buwa_v.1.3.0.apk",
         "hash": "0cad5156afd0b48b9161d6a9b79273c7a9343302eafccffcacba8cca3ee7dbed",
         "hashType": "sha256",
@@ -320,7 +443,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1655110098000,
+        "added": 1655250098000,
         "apkName": "Buwa_v.1.2.0.apk",
         "hash": "0630ce452ca4371d90f382cffb6257b1e64536e8b7b84104331c18fdd7a7b9c5",
         "hashType": "sha256",
@@ -355,7 +478,7 @@
     ],
     "com.example.anim_search": [
       {
-        "added": 1655110097000,
+        "added": 1655250097000,
         "apkName": "AnimSearch_v1.0.apk",
         "hash": "e4a1a8d732fd0049fe0f562c4bc885354511ea8618aca4d2e5e64f432b93b81a",
         "hashType": "sha256",
@@ -380,7 +503,7 @@
     ],
     "com.example.music_player_fluttter": [
       {
-        "added": 1655110112000,
+        "added": 1655250112000,
         "apkName": "GetX-Stream_v0.0.3.apk",
         "hash": "8fb5076f03908a81b86abb85a2ab99cbf2dd8cc54ec1bcd8bef64501c3cd78f8",
         "hashType": "sha256",
@@ -405,7 +528,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1655110113000,
+        "added": 1655250113000,
         "apkName": "GetX-Stream_v0.0.4.apk",
         "hash": "da4924e9a6f02a228ba33adac4ea785307a97e2435fe50a46ab1766bb0bb572c",
         "hashType": "sha256",
@@ -432,7 +555,7 @@
     ],
     "com.fastaccess.github": [
       {
-        "added": 1655110109000,
+        "added": 1655250109000,
         "apkName": "FastHub_4.6.1.apk",
         "hash": "f871445094b419fb2aba611293a49cb3d5eaa6435910476080b3c1fcd5d9338b",
         "hashType": "sha256",
@@ -484,7 +607,7 @@
         "versionName": "4.6.1"
       },
       {
-        "added": 1655110108000,
+        "added": 1655250108000,
         "apkName": "FastHub_4.5.7.apk",
         "hash": "dd89fcf780cec81c9b9d727be6d9a01e41ef4a26dcd3ee8e04ba8aa2b4906a41",
         "hashType": "sha256",
@@ -536,7 +659,7 @@
         "versionName": "4.5.7"
       },
       {
-        "added": 1655110107000,
+        "added": 1655250106000,
         "apkName": "FastHub_4.5.1.apk",
         "hash": "7a029f53f5004b76b5c63a745d67816dc13fedde747d42949a929701c0e9de79",
         "hashType": "sha256",
@@ -588,7 +711,7 @@
         "versionName": "4.5.1"
       },
       {
-        "added": 1655110105000,
+        "added": 1655250105000,
         "apkName": "FastHub_4.4.2.apk",
         "hash": "ce5622d81451aa1fda460ba30490702a4f17d8a614cc7bf6752751f2d6f200d9",
         "hashType": "sha256",
@@ -642,7 +765,7 @@
     ],
     "com.fastaccess.github.revival": [
       {
-        "added": 1655110104000,
+        "added": 1655250104000,
         "apkName": "FastHub-RE_4.7.7.apk",
         "hash": "fa69846e62f72eb7df7969d6ce9a6465f4ce902c9828f2860abb28202b17b86c",
         "hashType": "sha256",
@@ -696,7 +819,7 @@
         "versionName": "4.7.7"
       },
       {
-        "added": 1655110103000,
+        "added": 1655250103000,
         "apkName": "FastHub-RE_4.7.6.apk",
         "hash": "5d5a45a1e5985a643b4060c17aed276197c8821b9fbe04e89e37932fbfff9ec8",
         "hashType": "sha256",
@@ -750,7 +873,7 @@
         "versionName": "4.7.6"
       },
       {
-        "added": 1655110102000,
+        "added": 1655250101000,
         "apkName": "FastHub-RE_4.7.5.apk",
         "hash": "53d3cf88d811f7214c85cd61504fc8a32f4474e3cb30d0ca732d612ecbe88e11",
         "hashType": "sha256",
@@ -804,7 +927,7 @@
         "versionName": "4.7.5"
       },
       {
-        "added": 1655110101000,
+        "added": 1655250100000,
         "apkName": "FastHub-RE_4.7.4.apk",
         "hash": "d4a99f463f9dd67bf5b490ba0b2ba91f2c0eddab97c4ad0f531b378747813e7c",
         "hashType": "sha256",
@@ -842,7 +965,7 @@
     ],
     "com.jiaqifeng.hacki": [
       {
-        "added": 1655110118000,
+        "added": 1655250119000,
         "apkName": "Hacki_v0.2.17.apk",
         "hash": "43353bdcf0fd2df60aa4d5f6876fde7f3f17393ea00143e9c62db037f5b7698b",
         "hashType": "sha256",
@@ -895,7 +1018,7 @@
         "versionName": "0.2.17"
       },
       {
-        "added": 1655110117000,
+        "added": 1655250118000,
         "apkName": "Hacki_v0.2.16.apk",
         "hash": "4aee4e3631fbfda581d6a5809be3709c5f100e7302c4d4363b27d20a84957c25",
         "hashType": "sha256",
@@ -948,7 +1071,7 @@
         "versionName": "0.2.16"
       },
       {
-        "added": 1655110116000,
+        "added": 1655250116000,
         "apkName": "Hacki_v0.2.15.apk",
         "hash": "49b50c1681fc7ec7cd4d60b1fbd700b5266ab630c28636d0d171e35321ccea14",
         "hashType": "sha256",
@@ -1001,7 +1124,7 @@
         "versionName": "0.2.15"
       },
       {
-        "added": 1655110115000,
+        "added": 1655250115000,
         "apkName": "Hacki_v0.2.14.apk",
         "hash": "3bd50a92f3fcc1369b02ce88e850974b909b5f7bb1a030a893e5a0f05cc279ca",
         "hashType": "sha256",
@@ -1054,7 +1177,7 @@
         "versionName": "0.2.14"
       },
       {
-        "added": 1655110114000,
+        "added": 1655250114000,
         "apkName": "Hacki_v0.2.13.apk",
         "hash": "313180bddcf0075749dfc57e48863ff1d6a51ec58276faa99feba61dd548261d",
         "hashType": "sha256",
@@ -1109,7 +1232,7 @@
     ],
     "com.onedreamers.musicplayer": [
       {
-        "added": 1655110110000,
+        "added": 1655250110000,
         "apkName": "Flutter-MusicPlayer_v1.0_beta.apk",
         "hash": "ef901d2659c4abbddfeb4e075dd7e549c51d0268974754e0fa10d201d3282c40",
         "hashType": "sha256",
@@ -1162,7 +1285,7 @@
     ],
     "com.suwayomi.tachidesk_sorayomi": [
       {
-        "added": 1655110119000,
+        "added": 1655250120000,
         "apkName": "Tachiyomi-Sorayami_0.2.2.apk",
         "hash": "b9460091c947f4c1b8dda4a5b76581a74698403c9c371a9c82b3d19e0a289227",
         "hashType": "sha256",
@@ -1191,7 +1314,7 @@
         "versionName": "0.2.2"
       },
       {
-        "added": 1655110120000,
+        "added": 1655250121000,
         "apkName": "Tachiyomi-Sorayami_0.2.3.apk",
         "hash": "cdecd059ef3b47979444dbb3908f4d78b03c26a97042f34d429334c768b2b8d9",
         "hashType": "sha256",
@@ -1222,7 +1345,7 @@
     ],
     "com.varuns2002.sudoku": [
       {
-        "added": 1655110111000,
+        "added": 1655250111000,
         "apkName": "FlutterSudoku_2.4.0.apk",
         "hash": "84fe25f5bda258fa1032e0588fce06f31a670587711cc2be3e6740d36f7f757a",
         "hashType": "sha256",
@@ -1243,7 +1366,7 @@
     ],
     "com.yourcompany.musicplayer": [
       {
-        "added": 1655110110000,
+        "added": 1655250110000,
         "apkName": "Flutter-MusicPlayer_v0.9.apk",
         "hash": "467fd84a96303b7355c51ec0af27e48fdbf656556869eabdc820dd35c6e89c73",
         "hashType": "sha256",
@@ -1278,7 +1401,7 @@
         "versionName": "0.8"
       },
       {
-        "added": 1655110121000,
+        "added": 1655250122000,
         "apkName": "grey_0.3.1.apk",
         "hash": "be841df8bc4ef47f0ca6894fadc4f07fbda9dd0190fd7cc20629eba49e415080",
         "hashType": "sha256",
