@@ -1,0 +1,6 @@
+- Added ability to launch Hacki using Hacker News links (Android only).
+- Added ability to open HTTP links (Android only) (Thanks to @Efreak).
+- Added support for Siri suggestions (iOS only).
+- Added share button.
+- Bugfixes.
+
