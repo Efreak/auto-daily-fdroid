@@ -354,3 +354,11 @@ pScrobbler:
     * Show scrobble sources beside each scrobble and directly search in the app you scrobbled from
     * In-app update checker for devices without Play Store
 
+WebDAV-Provider:
+  git: https://github.com/alexbakker/webdav-provider
+  name: WebDAV-Provider
+  summary: An Android app that can expose WebDAV storage to other apps through Android's Storage Access Framework (SAF)
+  categories:
+    - Internet
+  description: WebDAV Provider is an Android app that can expose WebDAV storage to other apps through Android's Storage Access Framework (SAF).
+
