@@ -230,7 +230,7 @@ AnimSearch:
   git: https://github.com/ArizArmeidi/AnimSearch
   name: AnimSearch
   categories:
-    - Entertainment
+    - Reading
     - Internet
   summary: an App for searching Anime and Manga created with Flutter with data from Jikan API
   description: |-
