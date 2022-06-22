@@ -1,0 +1,1 @@
+- You can now open and view comment thread in separate screen.
