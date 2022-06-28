@@ -1,0 +1,2 @@
+- Improved logging and error handling in some places.
+- Improved download speed for offline mode.
