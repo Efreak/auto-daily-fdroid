@@ -1,8 +1,8 @@
 AuthorName: Livinglist
 Categories:
     - Internet
-CurrentVersion: 0.2.26
-CurrentVersionCode: 68
+CurrentVersion: 0.2.27
+CurrentVersionCode: 69
 Description: |-
     Features:
     * Log in using your Hacker News account.
