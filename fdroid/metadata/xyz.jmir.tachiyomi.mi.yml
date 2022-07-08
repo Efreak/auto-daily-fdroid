@@ -16,9 +16,10 @@ Description: |-
         * Light and dark themes
         * Schedule updating your library for new chapters
         * Create backups locally to read offline or to your desired cloud service
-IssueTracker: ""
+IssueTracker: "https://github.com/jmir1/aniyomi/issues"
 License: Apache-2.0
 Name: Aniyomi
 SourceCode: https://github.com/jmir1/aniyomi
 Summary: Unofficial fork of Tachiyomi for anime
-WebSite: ""
+WebSite: "https://aniyomi.jmir.xyz/"
+Translation: "https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget"

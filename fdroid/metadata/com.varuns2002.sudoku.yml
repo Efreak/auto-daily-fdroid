@@ -22,9 +22,9 @@ Description: |-
     *  Dark and Light theme
     *  Various Accent Colors to choose from
     *  Material Design
-IssueTracker: ""
+IssueTracker: "https://github.com/VarunS2002/Flutter-Sudoku/issues"
 License: GPL-3.0
 Name: Flutter-Sudoku
 SourceCode: https://github.com/VarunS2002/Flutter-Sudoku
 Summary: This is a fully fledged Sudoku game written in Dart using Flutter.
-WebSite: ""
+WebSite: "https://sudoku-vs2002.web.app/"

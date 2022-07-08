@@ -49,9 +49,9 @@ Description: |-
         * Maintained hamburger navigation
         * Grid view corner rounding configuration
         * Manga recommendations
-IssueTracker: ""
+IssueTracker: "https://github.com/az4521/TachiyomiAZ/issues"
 License: Apache-2.0
 Name: TachiyomiAZ
 SourceCode: https://github.com/az4521/TachiyomiAZ
 Summary: Free and open source manga reader for Android
-WebSite: ""
+WebSite: "https://tachiyomi.org/forks/TachiyomiAZ"

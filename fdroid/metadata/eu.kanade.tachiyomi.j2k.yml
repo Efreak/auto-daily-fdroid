@@ -36,9 +36,9 @@ Description: |-
       * View all chapters right in the reader
       * A lot more Material Design You additions
       * Android 12 features such as automatic extension and app updates
-IssueTracker: ""
+IssueTracker: "https://github.com/Jays2Kings/tachiyomiJ2K/issues"
 License: Apache-2.0
 Name: TachiyomiJ2K
 SourceCode: https://github.com/Jays2Kings/tachiyomiJ2K
 Summary: Free and open source manga reader for Android
-WebSite: ""
+WebSite: "https://tachiyomi.org/forks/TachiyomiJ2K"

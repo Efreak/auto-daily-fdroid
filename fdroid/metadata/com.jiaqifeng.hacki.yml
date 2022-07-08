@@ -23,9 +23,12 @@ Description: |-
     * Synced favorites and pins across devices. (iOS only)
     * Launch from system share sheet.
     * And more...
-IssueTracker: ""
+IssueTracker: "https://github.com/Livinglist/Hacki/issues"
 License: GPL-3.0
 Name: Hacki
 SourceCode: https://github.com/Livinglist/Hacki
 Summary: A Hacker News client made with Flutter that is just enough.
 WebSite: ""
+AuthorWebSite: "https://livinglist.github.io/"
+Donate: "https://github.com/sponsors/Livinglist"
+Liberapay: jfeng_for_open_source
