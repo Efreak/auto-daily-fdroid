@@ -9,6 +9,7 @@ on:
 
 jobs:
   apps:
+    if: "!contains(github.event.commits[0].message, '[skip ci]')"
     name: "Generate repo from apps listing"
     runs-on: ubuntu-latest
 
