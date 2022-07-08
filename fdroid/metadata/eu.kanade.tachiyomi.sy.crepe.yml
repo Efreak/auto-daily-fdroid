@@ -6,7 +6,7 @@ Categories:
 CurrentVersion: 3.2.7
 CurrentVersionCode: 52
 Description: This is all I've got::Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not. No, I don't know what "Did or have not" means. There's a fork of this repo as well over at https://github.com/suhan-paradkar/Takoyomi but that one doesn't have releases...
-IssueTracker: "https://github.com/CrepeTF/Takoyomi/issues"
+IssueTracker: https://github.com/CrepeTF/Takoyomi/issues
 License: Apache-2.0
 Name: Takoyomi
 SourceCode: https://github.com/CrepeTF/Takoyomi

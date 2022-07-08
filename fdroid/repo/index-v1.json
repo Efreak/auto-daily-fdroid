@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1657316338000,
+    "timestamp": 1657323140000,
     "version": 20001,
     "name": "Efreak Repo",
     "icon": "icon.png",
@@ -26,9 +26,9 @@
       "name": "Animiru",
       "sourceCode": "https://github.com/Quickdesh/Animiru",
       "summary": "Unofficial fork of Tachiyomi for anime",
-      "added": 1657316220000,
+      "added": 1657323007000,
       "packageName": "xyz.Quickdev.Animiru.mi",
-      "lastUpdated": 1657316223000,
+      "lastUpdated": 1657323010000,
       "localized": {
         "en-US": {
           "whatsNew": "### Changes\n\n- Bunch of Player improvements\n    - Auto-Play option\n    - Fixed a lot of bugs regarding PiP and seeking\n    - Moved next and previous buttons to be next to Play button\n- Added ability to backup settings\n- FIxed a bug with playing externally not working\n- Fixed a bug causing multiple recent windows to be made\n- Lot of internal changes and cleanups in the code\n- Started the move to Compose and SQLDelight\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| Universal | "
@@ -45,14 +45,15 @@
       "suggestedVersionName": "1.0.0",
       "suggestedVersionCode": "2001",
       "description": "Features\n\nSearch Anime and Manga\nFind Top, Upcoming, and Ongoing Anime or Manga\nAnime Recommendation\nDetailed Info About Each Anime\nOption to Open Each Page on MyAnimeList For a More Detailed Info\n(Not Working Currently) Add Anime or Manga to Saved List\nPossibly more features",
+      "donate": "https://www.paypal.com/paypalme/arizarmeidi",
       "license": "MIT",
       "name": "AnimSearch",
       "sourceCode": "https://github.com/ArizArmeidi/AnimSearch",
       "summary": "Anime and Manga search app. created using Flutter and Jikan API",
-      "added": 1657316218000,
+      "added": 1657323004000,
       "icon": "com.example.anim_search.2001.png",
       "packageName": "com.example.anim_search",
-      "lastUpdated": 1657316218000
+      "lastUpdated": 1657323004000
     },
     {
       "authorName": "jmir1",
@@ -64,13 +65,16 @@
       "suggestedVersionName": "0.12.3.6",
       "suggestedVersionCode": "72",
       "description": "Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. Features include\nWatching anime from a variety of sources Everything you know and love about Tachiyomi\n    * Online reading from a variety of sources\n    * Local reading of downloaded content\n    * A configurable reader with multiple viewers, reading directions and other settings.\n    * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi\n    * Categories to organize your library\n    * Light and dark themes\n    * Schedule updating your library for new chapters\n    * Create backups locally to read offline or to your desired cloud service",
+      "issueTracker": "https://github.com/jmir1/aniyomi/issues",
       "license": "Apache-2.0",
       "name": "Aniyomi",
       "sourceCode": "https://github.com/jmir1/aniyomi",
       "summary": "Unofficial fork of Tachiyomi for anime",
-      "added": 1657316226000,
+      "translation": "https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget",
+      "webSite": "https://aniyomi.jmir.xyz/",
+      "added": 1657323013000,
       "packageName": "xyz.jmir.tachiyomi.mi",
-      "lastUpdated": 1657316229000,
+      "lastUpdated": 1657323017000,
       "localized": {
         "en-US": {
           "whatsNew": "changes:\n- many more bug fixes and other improvements\n- automatic tracker status change\n- tweaked theme colours\n- support for mpv as external player\n- fixed fullscreen mode in player for notch phones\n- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f\n| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd"
@@ -84,14 +88,15 @@
       ],
       "suggestedVersionName": "1.3.0",
       "suggestedVersionCode": "4",
+      "issueTracker": "https://github.com/iamtheblackunicorn/Buwa/issues",
       "license": "MIT",
       "name": "Black Unicorn Wallpapers",
       "sourceCode": "https://github.com/iamtheblackunicorn/Buwa",
       "summary": "Sexy and beautiful wallpapers for your Android-powered device! :black_heart:",
-      "added": 1657316230000,
+      "added": 1657323018000,
       "icon": "com.blackunicorn.buwa.4.png",
       "packageName": "com.blackunicorn.buwa",
-      "lastUpdated": 1657316231000,
+      "lastUpdated": 1657323019000,
       "localized": {
         "en-US": {
           "whatsNew": "This update turns Black Unicorn Wallpapers into a precise and well-designed work of art! It is no longer simply a tool! The update includes another major visual overhaul, a new layout, a new font, and lots of new wallpapers!"
@@ -117,10 +122,10 @@
       "name": "FastHub (official)",
       "sourceCode": "https://github.com/k0shk0sh/FastHub",
       "summary": "FastHub the ultimate GitHub client for Android.",
-      "added": 1657316234000,
+      "added": 1657323024000,
       "icon": "com.fastaccess.github.461.png",
       "packageName": "com.fastaccess.github",
-      "lastUpdated": 1657316236000,
+      "lastUpdated": 1657323025000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -150,9 +155,9 @@
       "name": "FastHub Re(vival)",
       "sourceCode": "https://github.com/LightDestory/FastHub-RE",
       "summary": "Revival Attempt for FastHub the ultimate GitHub client for Android.",
-      "added": 1657316232000,
+      "added": 1657323021000,
       "packageName": "com.fastaccess.github.revival",
-      "lastUpdated": 1657316233000,
+      "lastUpdated": 1657323022000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -172,14 +177,16 @@
       "suggestedVersionName": "1.0 beta",
       "suggestedVersionCode": "2006",
       "description": "Flutter Music Player\n\nA complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.\n\nYou can download app from releases Music Player.\n\nPlease star the repo up, if you like the work.\n\nFeatures\n  * Play local songs\n  * Beautiful screens\n  * Sqlite database support\n  * Search songs, Songs suggestions\n  * Top tracks, Recent songs, Random song\n  * Album view, Artist view\n  * Playing queue, Shuffle, Add to favourites\n  * Play/pause, Next/prev\n  * Themes (dark/light), Custom font, Animations\n  * Landscape mode",
+      "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GM7UXJDF3MDG",
+      "issueTracker": "https://github.com/amangautam1/flutter-musicplayer/issues",
       "license": "MIT",
       "name": "Flutter Music Player",
       "sourceCode": "https://github.com/amangautam1/flutter-musicplayer",
       "summary": "A complete music player in flutter with cool UI and design.",
-      "added": 1657316237000,
+      "added": 1657323027000,
       "icon": "com.onedreamers.musicplayer.2006.png",
       "packageName": "com.onedreamers.musicplayer",
-      "lastUpdated": 1657316237000,
+      "lastUpdated": 1657323027000,
       "localized": {
         "en-US": {
           "whatsNew": "First beta version\nAlmost stable"
@@ -194,14 +201,16 @@
       "suggestedVersionName": "0.8",
       "suggestedVersionCode": "5",
       "description": "Flutter Music Player\n\nA complete and open source music player designed in flutter. It is first complete music player designed in flutter. This app exploits Sqlite databse that enables faster loading of songs at startup. Only one time setup for loading songs is needed. This app comes with a lot of features and a more are coming soon.\n\nYou can download app from releases Music Player.\n\nPlease star the repo up, if you like the work.\n\nFeatures\n  * Play local songs\n  * Beautiful screens\n  * Sqlite database support\n  * Search songs, Songs suggestions\n  * Top tracks, Recent songs, Random song\n  * Album view, Artist view\n  * Playing queue, Shuffle, Add to favourites\n  * Play/pause, Next/prev\n  * Themes (dark/light), Custom font, Animations\n  * Landscape mode",
+      "donate": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GM7UXJDF3MDG",
+      "issueTracker": "https://github.com/amangautam1/flutter-musicplayer/issues",
       "license": "MIT",
       "name": "Flutter Music Player",
       "sourceCode": "https://github.com/amangautam1/flutter-musicplayer",
       "summary": "A complete music player in flutter with cool UI and design.",
-      "added": 1657316236000,
+      "added": 1657323026000,
       "icon": "com.yourcompany.musicplayer.5.png",
       "packageName": "com.yourcompany.musicplayer",
-      "lastUpdated": 1657316282000,
+      "lastUpdated": 1657323072000,
       "localized": {
         "en-US": {
           "whatsNew": "A lot of Improvements and bug fixed."
@@ -216,14 +225,16 @@
       "suggestedVersionName": "2.4.0",
       "suggestedVersionCode": "2040",
       "description": "Features\n*  Generates a New Game when you start the app\n*  Clicking a box displays a dialog with buttons 1-9 to input in the box\n*  Clickable buttons will initially have no number and will turn red after the first click\n*  Long pressing a button will erase your input\n*  After completely solving the grid, if the solution is correct it will alert you that you successfully solved the Sudoku\n*  The numbers in all the clickable buttons will turn blue if the solution is correct (This will also happen if you click Show Solution)\n*  4 different difficulty levels to choose from :\n  *  Beginner - 18 empty squares\n  *  Easy - 27 empty squares\n  *  Medium - 36 empty squares\n  *  Hard - 54 empty squares\n*  New Game\n*  Restart Game\n*  Show Solution\n*  Dark and Light theme\n*  Various Accent Colors to choose from\n*  Material Design",
+      "issueTracker": "https://github.com/VarunS2002/Flutter-Sudoku/issues",
       "license": "GPL-3.0",
       "name": "Flutter-Sudoku",
       "sourceCode": "https://github.com/VarunS2002/Flutter-Sudoku",
       "summary": "This is a fully fledged Sudoku game written in Dart using Flutter.",
-      "added": 1657316238000,
+      "webSite": "https://sudoku-vs2002.web.app/",
+      "added": 1657323028000,
       "icon": "com.varuns2002.sudoku.2040.png",
       "packageName": "com.varuns2002.sudoku",
-      "lastUpdated": 1657316238000,
+      "lastUpdated": 1657323028000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -239,19 +250,23 @@
     },
     {
       "authorName": "Livinglist",
+      "authorWebSite": "https://livinglist.github.io/",
       "categories": [
         "Internet"
       ],
       "suggestedVersionName": "0.2.29",
       "suggestedVersionCode": "72",
       "description": "Features:\n* Log in using your Hacker News account.\n* Browse stories from various categories.\n* Search for stories.\n* Submit stories.\n* Pin stories.\n* Mark stories as favorite.\n* Leave comments.\n* Collapse comments.\n* View parent comments without scrolling up.\n* View and participate in polls.\n* Browse comments and stories you have posted.\n* Vote on comments or stories.\n* Get in-app notification when there is new reply to your stories or comments.\n* Download stories and comments for offline reading.\n* Pick up where you left off.\n* Synced favorites and pins across devices. (iOS only)\n* Launch from system share sheet.\n* And more...",
+      "donate": "https://github.com/sponsors/Livinglist",
+      "issueTracker": "https://github.com/Livinglist/Hacki/issues",
+      "liberapay": "jfeng_for_open_source",
       "license": "GPL-3.0",
       "name": "Hacki",
       "sourceCode": "https://github.com/Livinglist/Hacki",
       "summary": "A Hacker News client made with Flutter that is just enough.",
-      "added": 1657316241000,
+      "added": 1657323031000,
       "packageName": "com.jiaqifeng.hacki",
-      "lastUpdated": 1657316248000,
+      "lastUpdated": 1657323032000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -306,9 +321,9 @@
       "name": "Pano Scrobbler",
       "sourceCode": "https://github.com/kawaiiDango/pScrobbler",
       "summary": "A last.fm scrobbler and viewer for Android",
-      "added": 1657316283000,
+      "added": 1657323073000,
       "packageName": "com.arn.scrobble",
-      "lastUpdated": 1657316285000,
+      "lastUpdated": 1657323074000,
       "localized": {
         "en-US": {
           "whatsNew": "- Notifications now work in Windows 11\n- Auto skip or mute blocked tracks\n- Stonks indicators in charts\n- Months, years and custom date ranges for charts\n- Pinch to zoom/list view\n- Pictures in info view\n- Emoji flags for some countries in friends view\n- Shuffle artists and albums in I'm feeling lucky\n- Ignored tracks can be edited\n- Multiple fields in pattern edits\n- Removed wakelock permission\n- Bug fixes and translation updates\n\nCopied from Play Store what's new, may not be accurate for minor"
@@ -324,14 +339,18 @@
       ],
       "suggestedVersionName": "2.0.0-2344",
       "suggestedVersionCode": "26",
+      "description": "Shosetsu is a light novel reader for android.\n\nFeatures include\n- Adding novels to your personal library from different catalogs;\n- Catalogs that feature scrapers for many websites (currently 4);\n- Daytime, nighttime and sepia reading modes;\n- Application-wide dark mode;\n- Compatible with all versions upwards of Android 5.1;\n- Backup and Restore (currently disabled);\n- Catalog migration (currently disabled);\n- Chapter update notifications for the novels in your personal library;\n- Built-in chapter download manager;\n- Chapter bookmarking;\n- The ability to change text size, coloring, indents and spacing.\n\n\nTechnical details\n- All chapters are retrieved by downloading an entire webpage, and scraping off the plain text, which is then turned into a string. Currently only plain text is supported.\n- Shosetsu is essentially a web scraper, which can expand its built-in catalog through the use of (shosetsu-extensions)[https://github.com/Doomsdayrs/shosetsu-extensions]. The bare minimum requirements for a new extension are for one to create a child class of ScrapeFormat, and fill in the abstract information, as well as tweak some of the other variables.\n- Shosetsu does not, in any way, own copyright over any of the novels present in its catalogs or extensions. All DMCA requests should be forwarded to the original source, as Shosetsu does not host anything. All data is scraped, saved to the users' devices and then displayed.\n\nCommunity::\n- Matrix:: https://matrix.to/#/#shosetsu:matrix.org\n- Discord:: https://discord.gg/ttSX7gB\n- Patreon:: https://patreon.com/doomsdayrs\n- Ko-Fi: https://ko-fi.com/doomsdayrs",
+      "donate": "https://ko-fi.com/doomsdayrs",
+      "issueTracker": "https://github.com/shosetsuorg/shosetsu/issues",
       "license": "GPL-3.0",
       "name": "Shosetsu Preview",
       "sourceCode": "https://github.com/shosetsuorg/shosetsu-preview",
       "summary": "Preview builds for shosetsu",
-      "added": 1657316255000,
+      "webSite": "https://shosetsu.app/",
+      "added": 1657323041000,
       "icon": "com.github.doomsdayrs.apps.shosetsu.debug.26.png",
       "packageName": "com.github.doomsdayrs.apps.shosetsu.debug",
-      "lastUpdated": 1657316257000,
+      "lastUpdated": 1657323043000,
       "localized": {
         "en-US": {
           "whatsNew": "r2344 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/e74a591cd26da170dfaa31a9b4bc671cd203f480\n\n**Release r2344**\n\n```\nNew:\n- Navigation rail for tablet\n- Add themed icon support\n- Reimplement fragments\n\nFixes:\n- Fixed novels not being faded out when already in the library\n\nMisc:\n- Update dependencies\n- Rearrange Backup view for better user clarity\n- Disable vertical paging\n- Disable volume scroll\n- Disable delete chapters on read\n- Use MenuProvider for menus\n```"
@@ -345,14 +364,15 @@
       ],
       "suggestedVersionName": "1.0.0",
       "suggestedVersionCode": "1",
+      "issueTracker": "https://github.com/vellt/GetX-Stream-Music-Player-Flutter/issues",
       "license": "MIT",
       "name": "Stream Music Player with GetX",
       "sourceCode": "https://github.com/vellt/GetX-Stream-Music-Player-Flutter",
       "summary": "Listen to music online with a clean GetX MVC architecture",
-      "added": 1657316239000,
+      "added": 1657323029000,
       "icon": "com.example.music_player_fluttter.1.png",
       "packageName": "com.example.music_player_fluttter",
-      "lastUpdated": 1657316240000,
+      "lastUpdated": 1657323030000,
       "localized": {
         "en-US": {
           "whatsNew": "Bug fixed. The last seconds of some music did not update.\n\n<table>\n<tr>\n<th>Home Screen Picture</th>\n<th> Structural Picture</th>\n<tr>\n<tr>\n<td width=\"200px\"> \n\n![Screenshot_1648062030](https://user-images.githubusercontent.com/61885011/159776128-5895eb5a-e07b-40f9-abe2-10a31894c3fd.png) \n\n</td>\n<td width=\"200px\"> \n\n![Screenshot_1648062047](https://user-images.githubusercontent.com/61885011/159776162-3e3f80b1-b9e6-47e5-8a55-1388c74932e5.png) \n\n</td>\n</tr>\n</table>\n\n\n"
@@ -369,13 +389,14 @@
       "suggestedVersionName": "0.2.3",
       "suggestedVersionCode": "1",
       "description": "A free and open source manga reader based on Flutter to read manga from a Tachidesk-Server instance.\n\nTachidesk-Sorayomi need to connect with an already hosted server.\n\nTachidesk-Sorayomi supports Linux, Windows, MacOS, Web, iOS and Android.\nIs this application usable? Should I test it?\n\nHere is a list of current features for interaction with Tachidesk-Sorayomi:\n\n  * Managing installed Extensions.\n  * Interaction with your library.\n  * Browsing installed sources.\n  * Viewing manga and chapters.\n  * Reading, downloading, and managing chapters.\n  * Viewing chapter updates\n\nKeep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.",
+      "issueTracker": "https://github.com/Suwayomi/Tachidesk-Sorayomi/issues",
       "license": "MPL-2.0",
       "name": "Tachiyomi-Sorayami",
       "sourceCode": "https://github.com/Suwayomi/Tachidesk-Sorayomi",
       "summary": "A free and open source manga reader based on Flutter to read manga from a Tac...",
-      "added": 1657316258000,
+      "added": 1657323044000,
       "packageName": "com.suwayomi.tachidesk_sorayomi",
-      "lastUpdated": 1657316259000,
+      "lastUpdated": 1657323045000,
       "localized": {
         "en-US": {
           "whatsNew": "## What's Changed\n* GetStorage container name Bug fixed by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/72\n* version bump to 0.2.3 by @DattatreyaReddy in https://github.com/Suwayomi/Tachidesk-Sorayomi/pull/73\n\n\n**Full Changelog**: https://github.com/Suwayomi/Tachidesk-Sorayomi/compare/0.2.2...0.2.3"
@@ -392,14 +413,16 @@
       "suggestedVersionName": "v8.7.0-AZ",
       "suggestedVersionCode": "8700",
       "description": "This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming \"soon\u2122\"\nSpecial Sources (integrated plus added features)::\n\n    * E-Hentai/ExHentai\n    * nHentai\n    * Hitomi.la\n    * 8Muses\n    * HBrowse\n    * Perv Eden\n\nDelegated Sources (Sources with added features if installed)::\n\n    * Puruin\n    * Tsumino\n    * HentaiCafe (Foolside)\n\nFrom EH::\n\n    * Save Searches for use later\n    * AutoScroll\n    * Boost Page (force redownload page)\n    * Page download thread customization\n    * Predownload the whole chapter while reading (Optional)\n    * Retry immediately instead of wating for the rest of the preloaded pages to finish downloading\n    * Customize image cache size (how much space Tachiyomi has available to store future pages)\n    * Sync your favorites with your EHentai/ExHentai account\n    * Batch import E-Hentai/ExHentai URLs (import single URLs by pasting them into the source search box)\n    * Automatic CAPTCHA solving\n\nFrom EH and fixed/changed::\n\n    * Auto Migration (Originally from EH, it was then improved in J2k, and we have reintegrated the J2k version)\n    * Merged Sources (Merge 2 or more versions of a manga to get chapters from all of them)\n    * App and notification lock with fingerprint and PIN unlock\n    * Fixed Tsumino and Hitomi\n    * Language filtering search options for nHentai\n    * Random bugfixes\n\nOriginal AZ Features::\n\n    * Maintained hamburger navigation\n    * Grid view corner rounding configuration\n    * Manga recommendations",
+      "issueTracker": "https://github.com/az4521/TachiyomiAZ/issues",
       "license": "Apache-2.0",
       "name": "TachiyomiAZ",
       "sourceCode": "https://github.com/az4521/TachiyomiAZ",
       "summary": "Free and open source manga reader for Android",
-      "added": 1657316261000,
+      "webSite": "https://tachiyomi.org/forks/TachiyomiAZ",
+      "added": 1657323048000,
       "icon": "eu.kanade.tachiyomi.az.8700.png",
       "packageName": "eu.kanade.tachiyomi.az",
-      "lastUpdated": 1657316263000,
+      "lastUpdated": 1657323050000,
       "localized": {
         "en-US": {
           "whatsNew": "This update adds support for 1.3 extlib, which Tachiyomi has migrated to. \nIf you couldn't install or update extensions, this fixes that.\n\n---\n\nMy wife left me, took the kids and the dog too, but the one thing she forgot to take was my ticket to the genre-defying, mindbending drama that is Morbius (2022). To say that the movie changed my life is an understatement. It was almost like when Dr. Michael Morbius said \"One small step for morb, one giant leap for morb-kind.\" he was speaking it directly"
@@ -416,13 +439,15 @@
       "suggestedVersionName": "1.5.5",
       "suggestedVersionCode": "93",
       "description": "TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi Features of Tachiyomi include::\n\n  * Online reading from a variety of sources\n  * Local reading of downloaded content\n  * A configurable reader with multiple viewers, reading directions and other settings.\n  * MyAnimeList, AniList, Kitsu, and Shikimori support\n  * Categories to organize your library\n  * Automatic light and dark themes\n  * Schedule updating your library for new chapters\n  * Create backups locally to read offline or to your desired cloud service\n\nPlus some new features in this fork such as::\n\n  * New Manga details screens, themed by their manga covers\n  * Combine 2 pages while reading into a single one for a better tablet experince\n  * Option for an expanded toolbar for easier one handed use\n  * Floating searchbar to easily start a search in youre library or while browsing\n  * Library redesigned as a single list view:: See categories listed in a vertical view, that can be collasped or expanded with a tap\n  * Staggered Library grid\n  * Drag & Drop Sorting in Library\n  * Dynamic Categories:: Group your library automatically by the tags, tracking status, source, and more\n  * New Recents page:: Providing quick access to newly added manga, new chapters, and to continue where you left on in a series\n  * New Themes\n  * Dynamic Shortcuts:: open the latest chapter of what you were last reading right from your homescreen\n  * New material snackbar:: Removing manga now auto deletes chapters and has an undo button in case you change your mind\n  * Batch Auto-Source Migration (taken from TachiyomiEH)\n  * Share sheets upgrade for Android 10\n  * View all chapters right in the reader\n  * A lot more Material Design You additions\n  * Android 12 features such as automatic extension and app updates",
+      "issueTracker": "https://github.com/Jays2Kings/tachiyomiJ2K/issues",
       "license": "Apache-2.0",
       "name": "TachiyomiJ2K",
       "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
       "summary": "Free and open source manga reader for Android",
-      "added": 1657316251000,
+      "webSite": "https://tachiyomi.org/forks/TachiyomiJ2K",
+      "added": 1657323036000,
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1657316269000,
+      "lastUpdated": 1657323056000,
       "localized": {
         "en-US": {
           "whatsNew": "**Note:** This release has builds separated by device's architecture, if you're on a version older than v1.4.5, you will need to manually download the universal apk from the release page\n  \n## Additions\n* Added MangaUpdates as a tracker (@ghostbear)\n* Option to sort updates by fetched time (@nzoba)\n* JpegXL support\n\n## Changes\n* Updated switches to Material 3\n* Long pressing add to/in library button to edit categories (@Saud-97)\n* Library filters now show up to 5 logged in trackers \n* Chapters d"
@@ -439,13 +464,15 @@
       "suggestedVersionName": "1.8.3",
       "suggestedVersionCode": "34",
       "description": "Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.\nFeatures of Tachiyomi (original) include::\n\n    * Online reading from a variety of sources\n    * Local reading of downloaded content\n    * A configurable reader with multiple viewers, reading directions and other settings.\n    * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi support\n    * Categories to organize your library\n    * Light and dark themes\n    * Schedule updating your library for new chapters\n    * Create backups locally to read offline or to your desired cloud service\n\nFeatures of TachiyomiSY include::\n\n    * Latest tab, store up to 5 sources where you can easily view the latest manga by viewing the tab\n    * Automatic webtoon detection, allowing the reader to switch to webtoon mode automatically when viewing one\n    * Manga recommendations, uses MAL and Anilist, as well as Neko Similar Manga for Mangadex manga (Thanks to Az, She11Shocked, Carlos, and Goldbattle)\n    * Lewd filter, hide the lewd manga in your library when you want to\n    * Tracking filter, filter your tracked manga so you can see them or see non-tracked manga, made by She11Shocked\n    * Search tracking status in library, made by She11Shocked\n    * Custom categories for sources, liked the pinned sources, but you can make your own versions and put any sources in them\n    * Manga info edit\n    * Manga Cover view + share and save\n    * Dynamic Categories, view the library in multiple ways\n    * Smart background for reading modes like LTR or Vertical, changes the background based on the page color\n    * Force disable webtoon zoom\n    * Continue reading button in library\n    * Hentai features enable/disable, in advanced settings\n    * Quick clean titles\n    * Source migration, migrate all your manga from one source to another\n    * Saving searches\n    * Autoscroll\n    * Page preload customization\n    * Customize image cache size\n    * Batch import of custom sources and featured extensions\n    * Automatic CAPTCHA solving\n    * Advanced source settings page, searching, enable/disable all\n    * Click tag for local search, long click tag for global search\n    * Merge multiple of the same manga from different sources\n    * Drag and drop library sorting\n    * Library search engine, includes exclude, quotes as absolute, and a bunch of other ways to search\n    * New E-Hentai/ExHentai features, such as language settings and watched list settings\n    * Enhanced views for internal and integrated sources\n    * Enhanced usability for internal and delegated sources\n\nCustom sources::\n\n    * E-Hentai/ExHentai\n\nAdditional features for some extensions, features include custom description, opening in app, batch add to library, and a bunch of other things based on the source::\n\n    * 8Muses (EroMuse)\n    * HBrowse\n    * HentaiCafe (inside Foolside)\n    * Hitomi.la\n    * Mangadex\n    * NHentai\n    * PervEden (EN and IT)\n    * Puruin\n    * Tsumino",
+      "issueTracker": "https://github.com/jobobby04/TachiyomiSY/issues",
       "license": "Apache-2.0",
       "name": "TachiyomiSY",
       "sourceCode": "https://github.com/jobobby04/TachiyomiSY",
       "summary": "Free and open source manga reader for Android",
-      "added": 1657316272000,
+      "webSite": "https://tachiyomi.org/forks/TachiyomiSY/",
+      "added": 1657323060000,
       "packageName": "eu.kanade.tachiyomi.sy",
-      "lastUpdated": 1657316276000,
+      "lastUpdated": 1657323064000,
       "localized": {
         "en-US": {
           "whatsNew": "## General\n* Based on Tachiyomi stable [0.13.4](https://github.com/tachiyomiorg/tachiyomi/releases/tag/v0.13.4)(from 0.13.3)\n\n## Translations\n* Added chinese simplified translation(By @Howard20181)"
@@ -462,13 +489,14 @@
       "suggestedVersionName": "3.2.7",
       "suggestedVersionCode": "52",
       "description": "This is all I've got::Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not. No, I don't know what \"Did or have not\" means. There's a fork of this repo as well over at https://github.com/suhan-paradkar/Takoyomi but that one doesn't have releases...",
+      "issueTracker": "https://github.com/CrepeTF/Takoyomi/issues",
       "license": "Apache-2.0",
       "name": "Takoyomi",
       "sourceCode": "https://github.com/CrepeTF/Takoyomi",
       "summary": "Free and open source manga reader for Android",
-      "added": 1657316278000,
+      "added": 1657323068000,
       "packageName": "eu.kanade.tachiyomi.sy.crepe",
-      "lastUpdated": 1657316281000,
+      "lastUpdated": 1657323071000,
       "localized": {
         "en-US": {
           "whatsNew": "**Takoyomi v3.2.7**\n\n**Changes:**\n- Added theme Kinda Purple\n- Added auto split downloaded tall images from upstream\n- Added missing margin for page options header\n- Update library update intervals"
@@ -479,7 +507,7 @@
   "packages": {
     "com.arn.scrobble": [
       {
-        "added": 1657316285000,
+        "added": 1657323074000,
         "apkName": "pScrobbler_267.apk",
         "hash": "35e37765a2d3f197eef9a7a92b7ba8192849623278d7b06eed3af79a84199b71",
         "hashType": "sha256",
@@ -529,7 +557,7 @@
         "versionName": "2.67 - 2022, Jun 22"
       },
       {
-        "added": 1657316284000,
+        "added": 1657323073000,
         "apkName": "pScrobbler_266.apk",
         "hash": "8dbb453956d8024d6d2ba5119ab4a4f29fee14302ea66128a62b59a4877afde0",
         "hashType": "sha256",
@@ -577,61 +605,11 @@
         ],
         "versionCode": 266,
         "versionName": "2.66 - 2022, Jun 21"
-      },
-      {
-        "added": 1657316283000,
-        "apkName": "pScrobbler_264.apk",
-        "hash": "940eda8e02375db1af90d5065cdaf722c5ce2fbc5ff7a697fc568ff3258ca6b3",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "com.arn.scrobble",
-        "sig": "0fa119f1a45a03857a90b9bbf731ace9",
-        "signer": "8a6321649487dbaa6c80c07e6de60f4793b7f2c632a183cdcb10b2c856edbe58",
-        "size": 4099843,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "android.permission.RECORD_AUDIO",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "com.arn.scrobble.MY_AWESOME_PERMISSION",
-            null
-          ]
-        ],
-        "versionCode": 264,
-        "versionName": "2.64 - 2022, Jun 01"
       }
     ],
     "com.blackunicorn.buwa": [
       {
-        "added": 1657316231000,
+        "added": 1657323019000,
         "apkName": "Buwa_v.1.3.0.apk",
         "hash": "0cad5156afd0b48b9161d6a9b79273c7a9343302eafccffcacba8cca3ee7dbed",
         "hashType": "sha256",
@@ -664,7 +642,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1657316230000,
+        "added": 1657323018000,
         "apkName": "Buwa_v.1.2.0.apk",
         "hash": "0630ce452ca4371d90f382cffb6257b1e64536e8b7b84104331c18fdd7a7b9c5",
         "hashType": "sha256",
@@ -699,7 +677,7 @@
     ],
     "com.example.anim_search": [
       {
-        "added": 1657316218000,
+        "added": 1657323004000,
         "apkName": "AnimSearch_v1.0.apk",
         "hash": "e4a1a8d732fd0049fe0f562c4bc885354511ea8618aca4d2e5e64f432b93b81a",
         "hashType": "sha256",
@@ -724,7 +702,7 @@
     ],
     "com.example.music_player_fluttter": [
       {
-        "added": 1657316239000,
+        "added": 1657323029000,
         "apkName": "GetX-Stream_v0.0.3.apk",
         "hash": "8fb5076f03908a81b86abb85a2ab99cbf2dd8cc54ec1bcd8bef64501c3cd78f8",
         "hashType": "sha256",
@@ -749,7 +727,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1657316240000,
+        "added": 1657323030000,
         "apkName": "GetX-Stream_v0.0.4.apk",
         "hash": "da4924e9a6f02a228ba33adac4ea785307a97e2435fe50a46ab1766bb0bb572c",
         "hashType": "sha256",
@@ -776,7 +754,7 @@
     ],
     "com.fastaccess.github": [
       {
-        "added": 1657316236000,
+        "added": 1657323025000,
         "apkName": "FastHub_4.6.1.apk",
         "hash": "f871445094b419fb2aba611293a49cb3d5eaa6435910476080b3c1fcd5d9338b",
         "hashType": "sha256",
@@ -828,7 +806,7 @@
         "versionName": "4.6.1"
       },
       {
-        "added": 1657316234000,
+        "added": 1657323024000,
         "apkName": "FastHub_4.5.7.apk",
         "hash": "dd89fcf780cec81c9b9d727be6d9a01e41ef4a26dcd3ee8e04ba8aa2b4906a41",
         "hashType": "sha256",
@@ -882,7 +860,7 @@
     ],
     "com.fastaccess.github.revival": [
       {
-        "added": 1657316233000,
+        "added": 1657323022000,
         "apkName": "FastHub-RE_4.7.7.apk",
         "hash": "fa69846e62f72eb7df7969d6ce9a6465f4ce902c9828f2860abb28202b17b86c",
         "hashType": "sha256",
@@ -936,7 +914,7 @@
         "versionName": "4.7.7"
       },
       {
-        "added": 1657316232000,
+        "added": 1657323021000,
         "apkName": "FastHub-RE_4.7.6.apk",
         "hash": "5d5a45a1e5985a643b4060c17aed276197c8821b9fbe04e89e37932fbfff9ec8",
         "hashType": "sha256",
@@ -992,7 +970,7 @@
     ],
     "com.github.doomsdayrs.apps.shosetsu.debug": [
       {
-        "added": 1657316255000,
+        "added": 1657323041000,
         "apkName": "ShosetsuPreview_r2308.apk",
         "hash": "1708f3cf0dd97e9e87b3e9bc75c234a3be6ac3479cdde1e43994d9b442dd4d01",
         "hashType": "sha256",
@@ -1054,7 +1032,7 @@
         "versionName": "2.0.0-2308"
       },
       {
-        "added": 1657316257000,
+        "added": 1657323043000,
         "apkName": "ShosetsuPreview_r2344.apk",
         "hash": "40df34c60beb4467be8834ffc439f7726b58a5fbb053d7719bcf452280267ff9",
         "hashType": "sha256",
@@ -1118,7 +1096,7 @@
     ],
     "com.jiaqifeng.hacki": [
       {
-        "added": 1657316248000,
+        "added": 1657323032000,
         "apkName": "Hacki_v0.2.29.apk",
         "hash": "05b1a3207f9822189915ac1dd9f9b01f1a5f17b8dc80021137ce839ee11c7537",
         "hashType": "sha256",
@@ -1171,7 +1149,7 @@
         "versionName": "0.2.29"
       },
       {
-        "added": 1657316247000,
+        "added": 1657323031000,
         "apkName": "Hacki_v0.2.28.apk",
         "hash": "e1890ae82cb7eb1abc03e8c6d37624f614471a93b780d24b192d5d44590b6e8f",
         "hashType": "sha256",
@@ -1222,329 +1200,11 @@
         ],
         "versionCode": 70,
         "versionName": "0.2.28"
-      },
-      {
-        "added": 1657316246000,
-        "apkName": "Hacki_v0.2.27.apk",
-        "hash": "a40de2c190b3b032176181e043ebec858da978cd89807f9f2df18d04baef5a6d",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 64078529,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 69,
-        "versionName": "0.2.27"
-      },
-      {
-        "added": 1657316245000,
-        "apkName": "Hacki_v0.2.26.apk",
-        "hash": "82d69cf5e4ead163d3cd27f08167153a2a1c4ba0558415eb5a4a3e440c028476",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 63996609,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 68,
-        "versionName": "0.2.26"
-      },
-      {
-        "added": 1657316244000,
-        "apkName": "Hacki_v0.2.24.apk",
-        "hash": "de07099a8382f7cf83a8109974784ca4e1a66739a76322992314dbf8c2b33ddb",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 63966105,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 66,
-        "versionName": "0.2.24"
-      },
-      {
-        "added": 1657316243000,
-        "apkName": "Hacki_v0.2.23.apk",
-        "hash": "46872ea37d77c72701cc5ab6182746b9eee93789ecd3fc009ebeb022af051443",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 63802265,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 65,
-        "versionName": "0.2.23"
-      },
-      {
-        "added": 1657316242000,
-        "apkName": "Hacki_v0.2.22.apk",
-        "hash": "394140371c1aeefd91ded7794e579cfa456a615135fdebc5e0fa7a5f47bdc49b",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 63802265,
-        "targetSdkVersion": 32,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 64,
-        "versionName": "0.2.22"
-      },
-      {
-        "added": 1657316241000,
-        "apkName": "Hacki_v0.2.21.apk",
-        "hash": "bfd69f07763a5281281fe7f8913b8de10d85caa36ab30a3ee7dc349ce8c61559",
-        "hashType": "sha256",
-        "minSdkVersion": 26,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "com.jiaqifeng.hacki",
-        "sig": "2c13e133d884af307fb8b208649a93a1",
-        "signer": "48130ef874a288a90d135f44149a8b77579e2f944deda1bfdfa79f747afb76eb",
-        "size": 63781613,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 63,
-        "versionName": "0.2.21"
       }
     ],
     "com.onedreamers.musicplayer": [
       {
-        "added": 1657316237000,
+        "added": 1657323027000,
         "apkName": "Flutter-MusicPlayer_v1.0_beta.apk",
         "hash": "ef901d2659c4abbddfeb4e075dd7e549c51d0268974754e0fa10d201d3282c40",
         "hashType": "sha256",
@@ -1597,7 +1257,7 @@
     ],
     "com.suwayomi.tachidesk_sorayomi": [
       {
-        "added": 1657316258000,
+        "added": 1657323044000,
         "apkName": "Tachiyomi-Sorayami_0.2.2.apk",
         "hash": "b9460091c947f4c1b8dda4a5b76581a74698403c9c371a9c82b3d19e0a289227",
         "hashType": "sha256",
@@ -1626,7 +1286,7 @@
         "versionName": "0.2.2"
       },
       {
-        "added": 1657316259000,
+        "added": 1657323045000,
         "apkName": "Tachiyomi-Sorayami_0.2.3.apk",
         "hash": "cdecd059ef3b47979444dbb3908f4d78b03c26a97042f34d429334c768b2b8d9",
         "hashType": "sha256",
@@ -1657,7 +1317,7 @@
     ],
     "com.varuns2002.sudoku": [
       {
-        "added": 1657316238000,
+        "added": 1657323028000,
         "apkName": "FlutterSudoku_2.4.0.apk",
         "hash": "84fe25f5bda258fa1032e0588fce06f31a670587711cc2be3e6740d36f7f757a",
         "hashType": "sha256",
@@ -1678,7 +1338,7 @@
     ],
     "com.yourcompany.musicplayer": [
       {
-        "added": 1657316236000,
+        "added": 1657323026000,
         "apkName": "Flutter-MusicPlayer_v0.9.apk",
         "hash": "467fd84a96303b7355c51ec0af27e48fdbf656556869eabdc820dd35c6e89c73",
         "hashType": "sha256",
@@ -1713,7 +1373,7 @@
         "versionName": "0.8"
       },
       {
-        "added": 1657316282000,
+        "added": 1657323072000,
         "apkName": "grey_0.3.1.apk",
         "hash": "be841df8bc4ef47f0ca6894fadc4f07fbda9dd0190fd7cc20629eba49e415080",
         "hashType": "sha256",
@@ -1746,7 +1406,7 @@
     ],
     "eu.kanade.tachiyomi.az": [
       {
-        "added": 1657316263000,
+        "added": 1657323050000,
         "apkName": "TachiyomiAZ_v8.7.0-AZ.apk",
         "hash": "7da354aefea4e0da084131fc6d91d7d0a0a03130644687bd839949e2bd3d01d5",
         "hashType": "sha256",
@@ -1839,7 +1499,7 @@
         "versionName": "v8.7.0-AZ"
       },
       {
-        "added": 1657316261000,
+        "added": 1657323048000,
         "apkName": "TachiyomiAZ_v8.6.8-AZ.apk",
         "hash": "82b82476b116e43da8f92621c5817c7c1c01a8f67cc2c755b2e2cda51cc16f6c",
         "hashType": "sha256",
@@ -1934,7 +1594,7 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1657316254000,
+        "added": 1657323039000,
         "apkName": "Neko_v1.5.5.apk",
         "hash": "606ad10e68cccbd96052c3cf698727cd5f51dc7e8697d0d8bd8962dbef025aab",
         "hashType": "sha256",
@@ -2045,7 +1705,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1657316269000,
+        "added": 1657323056000,
         "apkName": "TachiyomiJ2K_v1.5.5.apk",
         "hash": "606ad10e68cccbd96052c3cf698727cd5f51dc7e8697d0d8bd8962dbef025aab",
         "hashType": "sha256",
@@ -2156,7 +1816,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1657316251000,
+        "added": 1657323036000,
         "apkName": "Neko_v1.5.4.apk",
         "hash": "d65e028a0cfa4b3109c589f06eca1a7b763f5f8de782cf9e6d9c19bfa0748852",
         "hashType": "sha256",
@@ -2269,7 +1929,7 @@
         "versionName": "1.5.4"
       },
       {
-        "added": 1657316266000,
+        "added": 1657323053000,
         "apkName": "TachiyomiJ2K_v1.5.4.apk",
         "hash": "d65e028a0cfa4b3109c589f06eca1a7b763f5f8de782cf9e6d9c19bfa0748852",
         "hashType": "sha256",
@@ -2384,7 +2044,7 @@
     ],
     "eu.kanade.tachiyomi.sy": [
       {
-        "added": 1657316276000,
+        "added": 1657323064000,
         "apkName": "TachiyomiSY_1.8.3.apk",
         "hash": "783210badfc599bbf441d355d0b53edc54c51e1e721f28055b298439b541d07c",
         "hashType": "sha256",
@@ -2477,7 +2137,7 @@
         "versionName": "1.8.3"
       },
       {
-        "added": 1657316272000,
+        "added": 1657323060000,
         "apkName": "TachiyomiSY_1.8.2.apk",
         "hash": "b1ddc5c6dd9ba59f01a1c7bf496f7df4a7fa0b9ce9ddf1b9edad03ea765ec465",
         "hashType": "sha256",
@@ -2572,7 +2232,7 @@
     ],
     "eu.kanade.tachiyomi.sy.crepe": [
       {
-        "added": 1657316281000,
+        "added": 1657323071000,
         "apkName": "Takoyomi_3.2.7.apk",
         "hash": "0dd4d97d3b019d25837f6b75c0a64a21b03b837e5fa78bbc539ee16ed2013f5b",
         "hashType": "sha256",
@@ -2665,7 +2325,7 @@
         "versionName": "3.2.7"
       },
       {
-        "added": 1657316278000,
+        "added": 1657323068000,
         "apkName": "Takoyomi_3.2.6.apk",
         "hash": "b5f5a343eca97fb73c37203695f00d1937363edccfcf0294f7323287a9662cc8",
         "hashType": "sha256",
@@ -2760,7 +2420,7 @@
     ],
     "xyz.Quickdev.Animiru.mi": [
       {
-        "added": 1657316223000,
+        "added": 1657323010000,
         "apkName": "Animiru_v0.13.2.4.apk",
         "hash": "6262cc2ad541a7af73f3c8a4832522be60457734168fc6941105b8fb0f7b7463",
         "hashType": "sha256",
@@ -2847,7 +2507,7 @@
         "versionName": "0.13.2.4"
       },
       {
-        "added": 1657316220000,
+        "added": 1657323007000,
         "apkName": "Animiru_v0.13.0.4.apk",
         "hash": "d2115da88936e0277aef51dc3e5decf764a7399c6e0f079942f09bd9fb6bf16f",
         "hashType": "sha256",
@@ -2932,7 +2592,7 @@
     ],
     "xyz.jmir.tachiyomi.mi": [
       {
-        "added": 1657316229000,
+        "added": 1657323017000,
         "apkName": "Aniyomi_v0.12.3.6.apk",
         "hash": "086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5",
         "hashType": "sha256",
@@ -3023,7 +2683,7 @@
         "versionName": "0.12.3.6"
       },
       {
-        "added": 1657316226000,
+        "added": 1657323013000,
         "apkName": "Aniyomi_v0.12.3.5.apk",
         "hash": "9560ae5fd3e830199ab80b43e89f6645a679141b02768ac4d557861f3329ae19",
         "hashType": "sha256",

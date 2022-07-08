@@ -66,9 +66,9 @@ Description: |-
         * PervEden (EN and IT)
         * Puruin
         * Tsumino
-IssueTracker: "https://github.com/jobobby04/TachiyomiSY/issues"
+IssueTracker: https://github.com/jobobby04/TachiyomiSY/issues
 License: Apache-2.0
 Name: TachiyomiSY
 SourceCode: https://github.com/jobobby04/TachiyomiSY
 Summary: Free and open source manga reader for Android
-WebSite: "https://tachiyomi.org/forks/TachiyomiSY/"
+WebSite: https://tachiyomi.org/forks/TachiyomiSY/

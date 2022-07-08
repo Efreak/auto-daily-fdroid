@@ -3,7 +3,7 @@ Categories:
     - Multimedia
 CurrentVersion: 1.0.0
 CurrentVersionCode: 1
-IssueTracker: "https://github.com/vellt/GetX-Stream-Music-Player-Flutter/issues"
+IssueTracker: https://github.com/vellt/GetX-Stream-Music-Player-Flutter/issues
 License: MIT
 Name: Stream Music Player with GetX
 SourceCode: https://github.com/vellt/GetX-Stream-Music-Player-Flutter

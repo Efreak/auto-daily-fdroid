@@ -5,13 +5,6 @@ Categories:
     - Animanga
 CurrentVersion: 2.0.0-2344
 CurrentVersionCode: 26
-IssueTracker: "https://github.com/shosetsuorg/shosetsu/issues"
-License: GPL-3.0
-Name: Shosetsu Preview
-SourceCode: "https://github.com/shosetsuorg/shosetsu"
-Summary: A regularly updated light novel reader for android
-WebSite: "https://shosetsu.app/"
-Donate: "https://ko-fi.com/doomsdayrs"
 Description: |-
     Shosetsu is a light novel reader for android.
 
@@ -39,3 +32,10 @@ Description: |-
     - Discord:: https://discord.gg/ttSX7gB
     - Patreon:: https://patreon.com/doomsdayrs
     - Ko-Fi: https://ko-fi.com/doomsdayrs
+Donate: https://ko-fi.com/doomsdayrs
+IssueTracker: https://github.com/shosetsuorg/shosetsu/issues
+License: GPL-3.0
+Name: Shosetsu Preview
+SourceCode: https://github.com/shosetsuorg/shosetsu-preview
+Summary: Preview builds for shosetsu
+WebSite: https://shosetsu.app/

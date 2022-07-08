@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1657316338" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1657323140" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.
 Included apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually.</description>
 	</repo>
@@ -79,6 +79,7 @@ Possibly more features</desc>
 		<source>https://github.com/ArizArmeidi/AnimSearch</source>
 		<tracker></tracker>
 		<author>ArizArmeidi</author>
+		<donate>https://www.paypal.com/paypalme/arizarmeidi</donate>
 		<marketversion>1.0.0</marketversion>
 		<marketvercode>2001</marketvercode>
 		<package>
@@ -114,9 +115,9 @@ Watching anime from a variety of sources Everything you know and love about Tach
 		<license>Apache-2.0</license>
 		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
-		<web></web>
+		<web>https://aniyomi.jmir.xyz/</web>
 		<source>https://github.com/jmir1/aniyomi</source>
-		<tracker></tracker>
+		<tracker>https://github.com/jmir1/aniyomi/issues</tracker>
 		<author>jmir1</author>
 		<marketversion>0.12.3.6</marketversion>
 		<marketvercode>72</marketvercode>
@@ -160,7 +161,7 @@ Watching anime from a variety of sources Everything you know and love about Tach
 		<category>Multimedia</category>
 		<web></web>
 		<source>https://github.com/iamtheblackunicorn/Buwa</source>
-		<tracker></tracker>
+		<tracker>https://github.com/iamtheblackunicorn/Buwa/issues</tracker>
 		<author>iamtheblackunicorn</author>
 		<marketversion>1.3.0</marketversion>
 		<marketvercode>4</marketvercode>
@@ -462,8 +463,9 @@ Features
 		<category>Multimedia</category>
 		<web></web>
 		<source>https://github.com/amangautam1/flutter-musicplayer</source>
-		<tracker></tracker>
+		<tracker>https://github.com/amangautam1/flutter-musicplayer/issues</tracker>
 		<author>amangautam1</author>
+		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3GM7UXJDF3MDG</donate>
 		<marketversion>1.0 beta</marketversion>
 		<marketvercode>2006</marketvercode>
 		<package>
@@ -511,8 +513,9 @@ Features
 		<category>Multimedia</category>
 		<web></web>
 		<source>https://github.com/amangautam1/flutter-musicplayer</source>
-		<tracker></tracker>
+		<tracker>https://github.com/amangautam1/flutter-musicplayer/issues</tracker>
 		<author>amangautam1</author>
+		<donate>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3GM7UXJDF3MDG</donate>
 		<marketversion>0.8</marketversion>
 		<marketvercode>5</marketvercode>
 		<package>
@@ -571,9 +574,9 @@ Features
 		<license>GPL-3.0</license>
 		<categories>Games</categories>
 		<category>Games</category>
-		<web></web>
+		<web>https://sudoku-vs2002.web.app/</web>
 		<source>https://github.com/VarunS2002/Flutter-Sudoku</source>
-		<tracker></tracker>
+		<tracker>https://github.com/VarunS2002/Flutter-Sudoku/issues</tracker>
 		<author>VarunS2002</author>
 		<marketversion>2.4.0</marketversion>
 		<marketvercode>2040</marketvercode>
@@ -620,8 +623,9 @@ Features
 		<category>Internet</category>
 		<web></web>
 		<source>https://github.com/Livinglist/Hacki</source>
-		<tracker></tracker>
+		<tracker>https://github.com/Livinglist/Hacki/issues</tracker>
 		<author>Livinglist</author>
+		<donate>https://github.com/sponsors/Livinglist</donate>
 		<marketversion>0.2.29</marketversion>
 		<marketvercode>72</marketvercode>
 		<package>
@@ -645,84 +649,6 @@ Features
 			<size>64079121</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.27</version>
-			<versioncode>69</versioncode>
-			<apkname>Hacki_v0.2.27.apk</apkname>
-			<hash type="sha256">a40de2c190b3b032176181e043ebec858da978cd89807f9f2df18d04baef5a6d</hash>
-			<size>64078529</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.26</version>
-			<versioncode>68</versioncode>
-			<apkname>Hacki_v0.2.26.apk</apkname>
-			<hash type="sha256">82d69cf5e4ead163d3cd27f08167153a2a1c4ba0558415eb5a4a3e440c028476</hash>
-			<size>63996609</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.24</version>
-			<versioncode>66</versioncode>
-			<apkname>Hacki_v0.2.24.apk</apkname>
-			<hash type="sha256">de07099a8382f7cf83a8109974784ca4e1a66739a76322992314dbf8c2b33ddb</hash>
-			<size>63966105</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.23</version>
-			<versioncode>65</versioncode>
-			<apkname>Hacki_v0.2.23.apk</apkname>
-			<hash type="sha256">46872ea37d77c72701cc5ab6182746b9eee93789ecd3fc009ebeb022af051443</hash>
-			<size>63802265</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.22</version>
-			<versioncode>64</versioncode>
-			<apkname>Hacki_v0.2.22.apk</apkname>
-			<hash type="sha256">394140371c1aeefd91ded7794e579cfa456a615135fdebc5e0fa7a5f47bdc49b</hash>
-			<size>63802265</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>2c13e133d884af307fb8b208649a93a1</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-		<package>
-			<version>0.2.21</version>
-			<versioncode>63</versioncode>
-			<apkname>Hacki_v0.2.21.apk</apkname>
-			<hash type="sha256">bfd69f07763a5281281fe7f8913b8de10d85caa36ab30a3ee7dc349ce8c61559</hash>
-			<size>63781613</size>
-			<sdkver>26</sdkver>
-			<targetSdkVersion>30</targetSdkVersion>
 			<added>2022-07-08</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
@@ -797,19 +723,6 @@ Features
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,com.android.vending.BILLING,com.arn.scrobble.MY_AWESOME_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
 		</package>
-		<package>
-			<version>2.64 - 2022, Jun 01</version>
-			<versioncode>264</versioncode>
-			<apkname>pScrobbler_264.apk</apkname>
-			<hash type="sha256">940eda8e02375db1af90d5065cdaf722c5ce2fbc5ff7a697fc568ff3258ca6b3</hash>
-			<size>4099843</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-07-08</added>
-			<sig>0fa119f1a45a03857a90b9bbf731ace9</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,com.android.vending.BILLING,com.arn.scrobble.MY_AWESOME_PERMISSION</permissions>
-			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
-		</package>
 	</application>
 	<application id="com.github.doomsdayrs.apps.shosetsu.debug">
 		<id>com.github.doomsdayrs.apps.shosetsu.debug</id>
@@ -818,14 +731,40 @@ Features
 		<name>Shosetsu Preview</name>
 		<summary>Preview builds for shosetsu</summary>
 		<icon>com.github.doomsdayrs.apps.shosetsu.debug.26.png</icon>
-		<desc>No description available</desc>
+		<desc>Shosetsu is a light novel reader for android.
+
+Features include
+- Adding novels to your personal library from different catalogs;
+- Catalogs that feature scrapers for many websites (currently 4);
+- Daytime, nighttime and sepia reading modes;
+- Application-wide dark mode;
+- Compatible with all versions upwards of Android 5.1;
+- Backup and Restore (currently disabled);
+- Catalog migration (currently disabled);
+- Chapter update notifications for the novels in your personal library;
+- Built-in chapter download manager;
+- Chapter bookmarking;
+- The ability to change text size, coloring, indents and spacing.
+
+
+Technical details
+- All chapters are retrieved by downloading an entire webpage, and scraping off the plain text, which is then turned into a string. Currently only plain text is supported.
+- Shosetsu is essentially a web scraper, which can expand its built-in catalog through the use of (shosetsu-extensions)[https://github.com/Doomsdayrs/shosetsu-extensions]. The bare minimum requirements for a new extension are for one to create a child class of ScrapeFormat, and fill in the abstract information, as well as tweak some of the other variables.
+- Shosetsu does not, in any way, own copyright over any of the novels present in its catalogs or extensions. All DMCA requests should be forwarded to the original source, as Shosetsu does not host anything. All data is scraped, saved to the users' devices and then displayed.
+
+Community::
+- Matrix:: https://matrix.to/#/#shosetsu:matrix.org
+- Discord:: https://discord.gg/ttSX7gB
+- Patreon:: https://patreon.com/doomsdayrs
+- Ko-Fi: https://ko-fi.com/doomsdayrs</desc>
 		<license>GPL-3.0</license>
 		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
-		<web></web>
+		<web>https://shosetsu.app/</web>
 		<source>https://github.com/shosetsuorg/shosetsu-preview</source>
-		<tracker></tracker>
+		<tracker>https://github.com/shosetsuorg/shosetsu/issues</tracker>
 		<author>shosetsuorg</author>
+		<donate>https://ko-fi.com/doomsdayrs</donate>
 		<marketversion>2.0.0-2344</marketversion>
 		<marketvercode>26</marketvercode>
 		<package>
@@ -855,7 +794,7 @@ Features
 		<category>Multimedia</category>
 		<web></web>
 		<source>https://github.com/vellt/GetX-Stream-Music-Player-Flutter</source>
-		<tracker></tracker>
+		<tracker>https://github.com/vellt/GetX-Stream-Music-Player-Flutter/issues</tracker>
 		<author>vellt</author>
 		<marketversion>1.0.0</marketversion>
 		<marketvercode>1</marketvercode>
@@ -901,7 +840,7 @@ Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so
 		<category>Internet</category>
 		<web></web>
 		<source>https://github.com/Suwayomi/Tachidesk-Sorayomi</source>
-		<tracker></tracker>
+		<tracker>https://github.com/Suwayomi/Tachidesk-Sorayomi/issues</tracker>
 		<author>Suwayomi</author>
 		<marketversion>0.2.3</marketversion>
 		<marketvercode>1</marketvercode>
@@ -972,9 +911,9 @@ Original AZ Features::
 		<license>Apache-2.0</license>
 		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
-		<web></web>
+		<web>https://tachiyomi.org/forks/TachiyomiAZ</web>
 		<source>https://github.com/az4521/TachiyomiAZ</source>
-		<tracker></tracker>
+		<tracker>https://github.com/az4521/TachiyomiAZ/issues</tracker>
 		<author>az4521</author>
 		<marketversion>v8.7.0-AZ</marketversion>
 		<marketvercode>8700</marketvercode>
@@ -1044,9 +983,9 @@ Plus some new features in this fork such as::
 		<license>Apache-2.0</license>
 		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
-		<web></web>
+		<web>https://tachiyomi.org/forks/TachiyomiJ2K</web>
 		<source>https://github.com/Jays2Kings/tachiyomiJ2K</source>
-		<tracker></tracker>
+		<tracker>https://github.com/Jays2Kings/tachiyomiJ2K/issues</tracker>
 		<author>Jays2Kings</author>
 		<marketversion>1.5.5</marketversion>
 		<marketvercode>93</marketvercode>
@@ -1146,9 +1085,9 @@ Additional features for some extensions, features include custom description, op
 		<license>Apache-2.0</license>
 		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
-		<web></web>
+		<web>https://tachiyomi.org/forks/TachiyomiSY/</web>
 		<source>https://github.com/jobobby04/TachiyomiSY</source>
-		<tracker></tracker>
+		<tracker>https://github.com/jobobby04/TachiyomiSY/issues</tracker>
 		<author>jobobby04</author>
 		<marketversion>1.8.3</marketversion>
 		<marketvercode>34</marketvercode>
@@ -1191,7 +1130,7 @@ Additional features for some extensions, features include custom description, op
 		<category>Internet</category>
 		<web></web>
 		<source>https://github.com/CrepeTF/Takoyomi</source>
-		<tracker></tracker>
+		<tracker>https://github.com/CrepeTF/Takoyomi/issues</tracker>
 		<author>CrepeTF</author>
 		<marketversion>3.2.7</marketversion>
 		<marketvercode>52</marketvercode>

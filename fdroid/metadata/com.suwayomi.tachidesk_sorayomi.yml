@@ -23,7 +23,7 @@ Description: |-
       * Viewing chapter updates
 
     Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.
-IssueTracker: "https://github.com/Suwayomi/Tachidesk-Sorayomi/issues"
+IssueTracker: https://github.com/Suwayomi/Tachidesk-Sorayomi/issues
 License: MPL-2.0
 Name: Tachiyomi-Sorayami
 SourceCode: https://github.com/Suwayomi/Tachidesk-Sorayomi

@@ -15,10 +15,10 @@ Description: |-
     Option to Open Each Page on MyAnimeList For a More Detailed Info
     (Not Working Currently) Add Anime or Manga to Saved List
     Possibly more features
+Donate: https://www.paypal.com/paypalme/arizarmeidi
 IssueTracker: ""
 License: MIT
 Name: AnimSearch
 SourceCode: https://github.com/ArizArmeidi/AnimSearch
 Summary: Anime and Manga search app. created using Flutter and Jikan API
 WebSite: ""
-Donate: https://www.paypal.com/paypalme/arizarmeidi
