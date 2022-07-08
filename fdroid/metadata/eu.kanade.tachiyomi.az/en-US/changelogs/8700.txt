@@ -1,0 +1,7 @@
+This update adds support for 1.3 extlib, which Tachiyomi has migrated to. 
+If you couldn't install or update extensions, this fixes that.
+
+---
+
+My wife left me, took the kids and the dog too, but the one thing she forgot to take was my ticket to the genre-defying, mindbending drama that is Morbius (2022). To say that the movie changed my life is an understatement. It was almost like when Dr. Michael Morbius said "One small step for morb, one giant leap for morb-kind." he was speaking it directly into my ear and healing my wounded heart. 500/10 Michael Morbius is like the dad I never had. Thank you. Still miss the dog tho.
+

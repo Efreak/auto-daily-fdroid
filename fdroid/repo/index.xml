@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1657313386" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1657316338" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.
 Included apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually.</description>
 	</repo>
+	<application id="xyz.Quickdev.Animiru.mi">
+		<id>xyz.Quickdev.Animiru.mi</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>Animiru</name>
+		<summary>Unofficial fork of Tachiyomi for anime</summary>
+		<desc>Animiru is an unofficial fork of Aniyomi, which is yet another unofficial fork of the free and open source manga reader Tachiyomi Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
+Feature include everything you know and love about Tachiyomi but for anime::
+  * Watching anime from a variety of sources
+  * Local watching of downloaded content
+  * A configurable player with inbuilt PiP, Playback options and other settings.
+  * Tracker support:: MyAnimeList, AniList, Kitsu, Shikimori, and Bangumi
+  * Categories to organize your library
+  * Light and dark themes
+  * Schedule updating your library for new episodes
+  * Create backups locally to watch offline or to your desired cloud service</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/Quickdesh/Animiru</source>
+		<tracker></tracker>
+		<author>Quickdesh</author>
+		<marketversion>0.13.2.4</marketversion>
+		<marketvercode>81</marketvercode>
+		<package>
+			<version>0.13.2.4</version>
+			<versioncode>81</versioncode>
+			<apkname>Animiru_v0.13.2.4.apk</apkname>
+			<hash type="sha256">6262cc2ad541a7af73f3c8a4832522be60457734168fc6941105b8fb0f7b7463</hash>
+			<size>47368380</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>7a5c8b23ff2c19bff78f4a790bf59daa</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23,xyz.Quickdev.Animiru.mi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.13.0.4</version>
+			<versioncode>78</versioncode>
+			<apkname>Animiru_v0.13.0.4.apk</apkname>
+			<hash type="sha256">d2115da88936e0277aef51dc3e5decf764a7399c6e0f079942f09bd9fb6bf16f</hash>
+			<size>50006644</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>7a5c8b23ff2c19bff78f4a790bf59daa</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
 	<application id="com.example.anim_search">
 		<id>com.example.anim_search</id>
 		<added>2022-07-08</added>
@@ -21,7 +73,7 @@ Option to Open Each Page on MyAnimeList For a More Detailed Info
 (Not Working Currently) Add Anime or Manga to Saved List
 Possibly more features</desc>
 		<license>MIT</license>
-		<categories>Reading,Internet</categories>
+		<categories>Reading,Internet,Animanga</categories>
 		<category>Reading</category>
 		<web></web>
 		<source>https://github.com/ArizArmeidi/AnimSearch</source>
@@ -40,6 +92,58 @@ Possibly more features</desc>
 			<added>2022-07-08</added>
 			<sig>cb9cfbaeb878d1943af7867a62c2c384</sig>
 			<permissions>INTERNET</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+	</application>
+	<application id="xyz.jmir.tachiyomi.mi">
+		<id>xyz.jmir.tachiyomi.mi</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>Aniyomi</name>
+		<summary>Unofficial fork of Tachiyomi for anime</summary>
+		<desc>Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. Features include
+Watching anime from a variety of sources Everything you know and love about Tachiyomi
+    * Online reading from a variety of sources
+    * Local reading of downloaded content
+    * A configurable reader with multiple viewers, reading directions and other settings.
+    * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi
+    * Categories to organize your library
+    * Light and dark themes
+    * Schedule updating your library for new chapters
+    * Create backups locally to read offline or to your desired cloud service</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/jmir1/aniyomi</source>
+		<tracker></tracker>
+		<author>jmir1</author>
+		<marketversion>0.12.3.6</marketversion>
+		<marketvercode>72</marketvercode>
+		<package>
+			<version>0.12.3.6</version>
+			<versioncode>72</versioncode>
+			<apkname>Aniyomi_v0.12.3.6.apk</apkname>
+			<hash type="sha256">086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5</hash>
+			<size>42310783</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>da127967dcce8325af2d99ecd5364d87</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>0.12.3.5</version>
+			<versioncode>71</versioncode>
+			<apkname>Aniyomi_v0.12.3.5.apk</apkname>
+			<hash type="sha256">9560ae5fd3e830199ab80b43e89f6645a679141b02768ac4d557861f3329ae19</hash>
+			<size>41557119</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>da127967dcce8325af2d99ecd5364d87</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
@@ -716,7 +820,7 @@ Features
 		<icon>com.github.doomsdayrs.apps.shosetsu.debug.26.png</icon>
 		<desc>No description available</desc>
 		<license>GPL-3.0</license>
-		<categories>Internet,Multimedia</categories>
+		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
 		<web></web>
 		<source>https://github.com/shosetsuorg/shosetsu-preview</source>
@@ -793,7 +897,7 @@ Here is a list of current features for interaction with Tachidesk-Sorayomi:
 
 Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.</desc>
 		<license>MPL-2.0</license>
-		<categories>Internet</categories>
+		<categories>Internet,Multimedia,Animanga</categories>
 		<category>Internet</category>
 		<web></web>
 		<source>https://github.com/Suwayomi/Tachidesk-Sorayomi</source>
@@ -813,6 +917,309 @@ Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so
 			<sig>33c6e3a83e0f2c537d9a4ac46f4651a5</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.az">
+		<id>eu.kanade.tachiyomi.az</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>TachiyomiAZ</name>
+		<summary>Free and open source manga reader for Android</summary>
+		<icon>eu.kanade.tachiyomi.az.8700.png</icon>
+		<desc>This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming &quot;soon™&quot;
+Special Sources (integrated plus added features)::
+
+    * E-Hentai/ExHentai
+    * nHentai
+    * Hitomi.la
+    * 8Muses
+    * HBrowse
+    * Perv Eden
+
+Delegated Sources (Sources with added features if installed)::
+
+    * Puruin
+    * Tsumino
+    * HentaiCafe (Foolside)
+
+From EH::
+
+    * Save Searches for use later
+    * AutoScroll
+    * Boost Page (force redownload page)
+    * Page download thread customization
+    * Predownload the whole chapter while reading (Optional)
+    * Retry immediately instead of wating for the rest of the preloaded pages to finish downloading
+    * Customize image cache size (how much space Tachiyomi has available to store future pages)
+    * Sync your favorites with your EHentai/ExHentai account
+    * Batch import E-Hentai/ExHentai URLs (import single URLs by pasting them into the source search box)
+    * Automatic CAPTCHA solving
+
+From EH and fixed/changed::
+
+    * Auto Migration (Originally from EH, it was then improved in J2k, and we have reintegrated the J2k version)
+    * Merged Sources (Merge 2 or more versions of a manga to get chapters from all of them)
+    * App and notification lock with fingerprint and PIN unlock
+    * Fixed Tsumino and Hitomi
+    * Language filtering search options for nHentai
+    * Random bugfixes
+
+Original AZ Features::
+
+    * Maintained hamburger navigation
+    * Grid view corner rounding configuration
+    * Manga recommendations</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/az4521/TachiyomiAZ</source>
+		<tracker></tracker>
+		<author>az4521</author>
+		<marketversion>v8.7.0-AZ</marketversion>
+		<marketvercode>8700</marketvercode>
+		<package>
+			<version>v8.7.0-AZ</version>
+			<versioncode>8700</versioncode>
+			<apkname>TachiyomiAZ_v8.7.0-AZ.apk</apkname>
+			<hash type="sha256">7da354aefea4e0da084131fc6d91d7d0a0a03130644687bd839949e2bd3d01d5</hash>
+			<size>24698136</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>17a9272cf0980e407769c1b5608f4147</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>v8.6.8-AZ</version>
+			<versioncode>8680</versioncode>
+			<apkname>TachiyomiAZ_v8.6.8-AZ.apk</apkname>
+			<hash type="sha256">82b82476b116e43da8f92621c5817c7c1c01a8f67cc2c755b2e2cda51cc16f6c</hash>
+			<size>23780416</size>
+			<sdkver>21</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>17a9272cf0980e407769c1b5608f4147</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.j2k">
+		<id>eu.kanade.tachiyomi.j2k</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>TachiyomiJ2K</name>
+		<summary>Free and open source manga reader for Android</summary>
+		<desc>TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi Features of Tachiyomi include::
+
+  * Online reading from a variety of sources
+  * Local reading of downloaded content
+  * A configurable reader with multiple viewers, reading directions and other settings.
+  * MyAnimeList, AniList, Kitsu, and Shikimori support
+  * Categories to organize your library
+  * Automatic light and dark themes
+  * Schedule updating your library for new chapters
+  * Create backups locally to read offline or to your desired cloud service
+
+Plus some new features in this fork such as::
+
+  * New Manga details screens, themed by their manga covers
+  * Combine 2 pages while reading into a single one for a better tablet experince
+  * Option for an expanded toolbar for easier one handed use
+  * Floating searchbar to easily start a search in youre library or while browsing
+  * Library redesigned as a single list view:: See categories listed in a vertical view, that can be collasped or expanded with a tap
+  * Staggered Library grid
+  * Drag &amp; Drop Sorting in Library
+  * Dynamic Categories:: Group your library automatically by the tags, tracking status, source, and more
+  * New Recents page:: Providing quick access to newly added manga, new chapters, and to continue where you left on in a series
+  * New Themes
+  * Dynamic Shortcuts:: open the latest chapter of what you were last reading right from your homescreen
+  * New material snackbar:: Removing manga now auto deletes chapters and has an undo button in case you change your mind
+  * Batch Auto-Source Migration (taken from TachiyomiEH)
+  * Share sheets upgrade for Android 10
+  * View all chapters right in the reader
+  * A lot more Material Design You additions
+  * Android 12 features such as automatic extension and app updates</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/Jays2Kings/tachiyomiJ2K</source>
+		<tracker></tracker>
+		<author>Jays2Kings</author>
+		<marketversion>1.5.5</marketversion>
+		<marketvercode>93</marketvercode>
+		<package>
+			<version>1.5.5</version>
+			<versioncode>93</versioncode>
+			<apkname>Neko_v1.5.5.apk</apkname>
+			<hash type="sha256">606ad10e68cccbd96052c3cf698727cd5f51dc7e8697d0d8bd8962dbef025aab</hash>
+			<size>25695334</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
+		<package>
+			<version>1.5.4</version>
+			<versioncode>92</versioncode>
+			<apkname>Neko_v1.5.4.apk</apkname>
+			<hash type="sha256">d65e028a0cfa4b3109c589f06eca1a7b763f5f8de782cf9e6d9c19bfa0748852</hash>
+			<size>40404621</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.sy">
+		<id>eu.kanade.tachiyomi.sy</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>TachiyomiSY</name>
+		<summary>Free and open source manga reader for Android</summary>
+		<desc>Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.
+Features of Tachiyomi (original) include::
+
+    * Online reading from a variety of sources
+    * Local reading of downloaded content
+    * A configurable reader with multiple viewers, reading directions and other settings.
+    * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi support
+    * Categories to organize your library
+    * Light and dark themes
+    * Schedule updating your library for new chapters
+    * Create backups locally to read offline or to your desired cloud service
+
+Features of TachiyomiSY include::
+
+    * Latest tab, store up to 5 sources where you can easily view the latest manga by viewing the tab
+    * Automatic webtoon detection, allowing the reader to switch to webtoon mode automatically when viewing one
+    * Manga recommendations, uses MAL and Anilist, as well as Neko Similar Manga for Mangadex manga (Thanks to Az, She11Shocked, Carlos, and Goldbattle)
+    * Lewd filter, hide the lewd manga in your library when you want to
+    * Tracking filter, filter your tracked manga so you can see them or see non-tracked manga, made by She11Shocked
+    * Search tracking status in library, made by She11Shocked
+    * Custom categories for sources, liked the pinned sources, but you can make your own versions and put any sources in them
+    * Manga info edit
+    * Manga Cover view + share and save
+    * Dynamic Categories, view the library in multiple ways
+    * Smart background for reading modes like LTR or Vertical, changes the background based on the page color
+    * Force disable webtoon zoom
+    * Continue reading button in library
+    * Hentai features enable/disable, in advanced settings
+    * Quick clean titles
+    * Source migration, migrate all your manga from one source to another
+    * Saving searches
+    * Autoscroll
+    * Page preload customization
+    * Customize image cache size
+    * Batch import of custom sources and featured extensions
+    * Automatic CAPTCHA solving
+    * Advanced source settings page, searching, enable/disable all
+    * Click tag for local search, long click tag for global search
+    * Merge multiple of the same manga from different sources
+    * Drag and drop library sorting
+    * Library search engine, includes exclude, quotes as absolute, and a bunch of other ways to search
+    * New E-Hentai/ExHentai features, such as language settings and watched list settings
+    * Enhanced views for internal and integrated sources
+    * Enhanced usability for internal and delegated sources
+
+Custom sources::
+
+    * E-Hentai/ExHentai
+
+Additional features for some extensions, features include custom description, opening in app, batch add to library, and a bunch of other things based on the source::
+
+    * 8Muses (EroMuse)
+    * HBrowse
+    * HentaiCafe (inside Foolside)
+    * Hitomi.la
+    * Mangadex
+    * NHentai
+    * PervEden (EN and IT)
+    * Puruin
+    * Tsumino</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/jobobby04/TachiyomiSY</source>
+		<tracker></tracker>
+		<author>jobobby04</author>
+		<marketversion>1.8.3</marketversion>
+		<marketvercode>34</marketvercode>
+		<package>
+			<version>1.8.3</version>
+			<versioncode>34</versioncode>
+			<apkname>TachiyomiSY_1.8.3.apk</apkname>
+			<hash type="sha256">783210badfc599bbf441d355d0b53edc54c51e1e721f28055b298439b541d07c</hash>
+			<size>52673564</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>65c001ff0feaed4bd40f348755a0c50e</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>1.8.2</version>
+			<versioncode>33</versioncode>
+			<apkname>TachiyomiSY_1.8.2.apk</apkname>
+			<hash type="sha256">b1ddc5c6dd9ba59f01a1c7bf496f7df4a7fa0b9ce9ddf1b9edad03ea765ec465</hash>
+			<size>52587454</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>65c001ff0feaed4bd40f348755a0c50e</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+	</application>
+	<application id="eu.kanade.tachiyomi.sy.crepe">
+		<id>eu.kanade.tachiyomi.sy.crepe</id>
+		<added>2022-07-08</added>
+		<lastupdated>2022-07-08</lastupdated>
+		<name>Takoyomi</name>
+		<summary>Free and open source manga reader for Android</summary>
+		<desc>This is all I've got::Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not. No, I don't know what &quot;Did or have not&quot; means. There's a fork of this repo as well over at https://github.com/suhan-paradkar/Takoyomi but that one doesn't have releases...</desc>
+		<license>Apache-2.0</license>
+		<categories>Internet,Multimedia,Animanga</categories>
+		<category>Internet</category>
+		<web></web>
+		<source>https://github.com/CrepeTF/Takoyomi</source>
+		<tracker></tracker>
+		<author>CrepeTF</author>
+		<marketversion>3.2.7</marketversion>
+		<marketvercode>52</marketvercode>
+		<package>
+			<version>3.2.7</version>
+			<versioncode>52</versioncode>
+			<apkname>Takoyomi_3.2.7.apk</apkname>
+			<hash type="sha256">0dd4d97d3b019d25837f6b75c0a64a21b03b837e5fa78bbc539ee16ed2013f5b</hash>
+			<size>52771345</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>22ff682054b84d72a845bc48b8243638</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
+		</package>
+		<package>
+			<version>3.2.6</version>
+			<versioncode>51</versioncode>
+			<apkname>Takoyomi_3.2.6.apk</apkname>
+			<hash type="sha256">b5f5a343eca97fb73c37203695f00d1937363edccfcf0294f7323287a9662cc8</hash>
+			<size>52772360</size>
+			<sdkver>23</sdkver>
+			<targetSdkVersion>29</targetSdkVersion>
+			<added>2022-07-08</added>
+			<sig>22ff682054b84d72a845bc48b8243638</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
+			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
 		</package>
 	</application>
 </fdroid>

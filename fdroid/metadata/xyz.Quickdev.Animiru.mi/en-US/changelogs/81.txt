@@ -1,0 +1,35 @@
+### Changes
+
+- Bunch of Player improvements
+    - Auto-Play option
+    - Fixed a lot of bugs regarding PiP and seeking
+    - Moved next and previous buttons to be next to Play button
+- Added ability to backup settings
+- FIxed a bug with playing externally not working
+- Fixed a bug causing multiple recent windows to be made
+- Lot of internal changes and cleanups in the code
+- Started the move to Compose and SQLDelight
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | d146a06bd49b3999d4bb103e3901951881c09f87546519c89b223e8b3f84dfe6 |
+| arm64-v8a | 6262cc2ad541a7af73f3c8a4832522be60457734168fc6941105b8fb0f7b7463 |
+| armeabi-v7a | 5f27770e2841d1d968f1bff79e5d466acff2c11f7b458a79d8ab84366531eeb1 |
+| x86 | 8bf1f228d8c1509262cb7ff944dfbb5437701fc37cf2cba2b73169399368e227 |
+| x86_64 | e1116dcb4ab9cab84e24bacdc24df837c8ca633426282d4d70250707121daf3b |
+
+To find out the best version for you:-
+
+https://play.google.com/store/apps/details?id=ru.andr7e.deviceinfohw
+
+Download the app from the link above ^
+
+Open app ---> SOC tab ---> ABI/Supported ABI
+
+Install based on the values given in the above variant fields
+
+Universal will work regardless of the ABI

@@ -1,0 +1,5 @@
+## General
+* Based on Tachiyomi stable [0.13.4](https://github.com/tachiyomiorg/tachiyomi/releases/tag/v0.13.4)(from 0.13.3)
+
+## Translations
+* Added chinese simplified translation(By @Howard20181)

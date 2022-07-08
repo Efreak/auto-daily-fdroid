@@ -1,0 +1,24 @@
+AuthorName: Quickdesh
+Categories:
+    - Internet
+    - Multimedia
+    - Animanga
+CurrentVersion: 0.13.2.4
+CurrentVersionCode: 81
+Description: |-
+    Animiru is an unofficial fork of Aniyomi, which is yet another unofficial fork of the free and open source manga reader Tachiyomi Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
+    Feature include everything you know and love about Tachiyomi but for anime::
+      * Watching anime from a variety of sources
+      * Local watching of downloaded content
+      * A configurable player with inbuilt PiP, Playback options and other settings.
+      * Tracker support:: MyAnimeList, AniList, Kitsu, Shikimori, and Bangumi
+      * Categories to organize your library
+      * Light and dark themes
+      * Schedule updating your library for new episodes
+      * Create backups locally to watch offline or to your desired cloud service
+IssueTracker: ""
+License: Apache-2.0
+Name: Animiru
+SourceCode: https://github.com/Quickdesh/Animiru
+Summary: Unofficial fork of Tachiyomi for anime
+WebSite: ""

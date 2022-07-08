@@ -1,0 +1,40 @@
+**Note:** This release has builds separated by device's architecture, if you're on a version older than v1.4.5, you will need to manually download the universal apk from the release page
+  
+## Additions
+* Added MangaUpdates as a tracker (@ghostbear)
+* Option to sort updates by fetched time (@nzoba)
+* JpegXL support
+
+## Changes
+* Updated switches to Material 3
+* Long pressing add to/in library button to edit categories (@Saud-97)
+* Library filters now show up to 5 logged in trackers 
+* Chapters downloaded will now show as downloaded, even if chapter's casing later changes
+* Recents Grouped/All now shows fetched time alongside updated time
+* While searching in single category mode, all categories will now show while searching (@Saud-97)
+* Updated Arabic language flag (@Saud-97)
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fix changing cropping in reader hiding the reader menu
+* Fixed updating kitsu chapter progress
+* Fixed Android 13 back button closing the app unintentionally
+* Fixed crashes in webview
+* Fixed category hopper not working with default categories
+* Fixed not being able to manually update categories excluded from global updates
+* Fixed self-hosted sources (like Komga) crashing when trying to download
+* Fixes to library badge in RTL locales
+* Fixed webview crashes
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.5.4...v1.5.5
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | f157db3dfb80e082be7662f0a8ddeaa667589e497832555c7311fbaaa3a959fe
+| arm64-v8a | 606ad10e68cccbd96052c3cf698727cd5f51dc7e8697d0d8bd8962dbef025aab
+| armeabi-v7a | f7f9adea4433a67ae97b8b5ef89b972eeb224cc0619e0d3236f690543468efab
+| x86 | c16493c1cb906ba391ab418ab3236dc5865dc35e62747c7cb4b7d76a8cd1d024 |

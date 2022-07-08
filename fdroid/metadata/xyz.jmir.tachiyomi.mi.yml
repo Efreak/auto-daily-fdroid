@@ -1,0 +1,24 @@
+AuthorName: jmir1
+Categories:
+    - Internet
+    - Multimedia
+    - Animanga
+CurrentVersion: 0.12.3.6
+CurrentVersionCode: 72
+Description: |-
+    Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. Features include
+    Watching anime from a variety of sources Everything you know and love about Tachiyomi
+        * Online reading from a variety of sources
+        * Local reading of downloaded content
+        * A configurable reader with multiple viewers, reading directions and other settings.
+        * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi
+        * Categories to organize your library
+        * Light and dark themes
+        * Schedule updating your library for new chapters
+        * Create backups locally to read offline or to your desired cloud service
+IssueTracker: ""
+License: Apache-2.0
+Name: Aniyomi
+SourceCode: https://github.com/jmir1/aniyomi
+Summary: Unofficial fork of Tachiyomi for anime
+WebSite: ""

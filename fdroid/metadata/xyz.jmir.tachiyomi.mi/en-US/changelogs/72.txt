@@ -1,0 +1,18 @@
+changes:
+- many more bug fixes and other improvements
+- automatic tracker status change
+- tweaked theme colours
+- support for mpv as external player
+- fixed fullscreen mode in player for notch phones
+- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f
+| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5
+| armeabi-v7a | 5035e557bb9894b256b80884c8ea2754ff3b0daaca91c9e4f89a87edd7f830ca
+| x86 | e41368e3ab369a6c482d76017de09a9fba715a5a13cd2aa1b0489e3a25a4a4b0 |

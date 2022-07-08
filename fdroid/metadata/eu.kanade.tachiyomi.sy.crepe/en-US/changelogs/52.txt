@@ -1,0 +1,7 @@
+**Takoyomi v3.2.7**
+
+**Changes:**
+- Added theme Kinda Purple
+- Added auto split downloaded tall images from upstream
+- Added missing margin for page options header
+- Update library update intervals
