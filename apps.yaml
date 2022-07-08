@@ -362,3 +362,9 @@ WebDAV-Provider:
     - Internet
   description: WebDAV Provider is an Android app that can expose WebDAV storage to other apps through Android's Storage Access Framework (SAF).
 
+ShosetsuPreview:
+  git: https://github.com/shosetsuorg/shosetsu-preview
+  name: Shosetsu Preview
+  categories:
+    - Internet
+    - Multimedia
