@@ -381,9 +381,9 @@ TachiyomiSY:
     - Multimedia
     - Animanga
   description: >-
-     Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.
+    Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.
 
-        Features of Tachiyomi (original) include::
+    Features of Tachiyomi (original) include::
 
         * Online reading from a variety of sources
         * Local reading of downloaded content
@@ -444,14 +444,15 @@ TachiyomiSY:
         * Tsumino
 
 TachiyomiAZ:
-  - git: https://github.com/az4521/TachiyomiAZ
-  - summary: This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
-  - categories:
+  git: https://github.com/az4521/TachiyomiAZ
+  summary: This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
+  categories:
     - Internet
     - Multimedia
     - Animanga
   description: >-
     This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
+    
     Special Sources (integrated plus added features)::
 
         * E-Hentai/ExHentai
@@ -504,7 +505,7 @@ TachiyomiJ2K:
     - Animanga
   description: >-
     TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi
-    Features of Tachiyomi include:
+    Features of Tachiyomi include::
 
       * Online reading from a variety of sources
       * Local reading of downloaded content
@@ -515,7 +516,7 @@ TachiyomiJ2K:
       * Schedule updating your library for new chapters
       * Create backups locally to read offline or to your desired cloud service
 
-  Plus some new features in this fork such as:
+    Plus some new features in this fork such as::
 
       * New Manga details screens, themed by their manga covers
       * Combine 2 pages while reading into a single one for a better tablet experince
