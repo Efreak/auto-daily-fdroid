@@ -1,0 +1,12 @@
+AuthorName: shosetsuorg
+Categories:
+    - Internet
+    - Multimedia
+CurrentVersion: 2.0.0-2344
+CurrentVersionCode: 26
+IssueTracker: ""
+License: GPL-3.0
+Name: Shosetsu Preview
+SourceCode: https://github.com/shosetsuorg/shosetsu-preview
+Summary: Preview builds for shosetsu
+WebSite: ""

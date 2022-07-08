@@ -1,0 +1,21 @@
+r2344 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/e74a591cd26da170dfaa31a9b4bc671cd203f480
+
+**Release r2344**
+
+```
+New:
+- Navigation rail for tablet
+- Add themed icon support
+- Reimplement fragments
+
+Fixes:
+- Fixed novels not being faded out when already in the library
+
+Misc:
+- Update dependencies
+- Rearrange Backup view for better user clarity
+- Disable vertical paging
+- Disable volume scroll
+- Disable delete chapters on read
+- Use MenuProvider for menus
+```
