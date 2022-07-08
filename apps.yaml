@@ -224,6 +224,8 @@ Tachiyomi-Sorayami:
     Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so it can have issues. See Support and help if it happens.
   categories:
     - Internet
+    - Multimedia
+    - Animanga
   IssueTracker: https://github.com/Suwayomi/Tachidesk-Sorayami/issues
 
 AnimSearch:
@@ -232,6 +234,7 @@ AnimSearch:
   categories:
     - Reading
     - Internet
+    - Animanga
   summary: an App for searching Anime and Manga created with Flutter with data from Jikan API
   description: |-
     Features
@@ -368,3 +371,246 @@ ShosetsuPreview:
   categories:
     - Internet
     - Multimedia
+    - Animanga
+
+TachiyomiSY:
+  git: https://github.com/jobobby04/TachiyomiSY
+  summary: Fork of Tachiyomi via TachiyomiAZ.
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+     Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.
+
+        Features of Tachiyomi (original) include::
+
+        * Online reading from a variety of sources
+        * Local reading of downloaded content
+        * A configurable reader with multiple viewers, reading directions and other settings.
+        * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi support
+        * Categories to organize your library
+        * Light and dark themes
+        * Schedule updating your library for new chapters
+        * Create backups locally to read offline or to your desired cloud service
+
+    Features of TachiyomiSY include::
+
+        * Latest tab, store up to 5 sources where you can easily view the latest manga by viewing the tab
+        * Automatic webtoon detection, allowing the reader to switch to webtoon mode automatically when viewing one
+        * Manga recommendations, uses MAL and Anilist, as well as Neko Similar Manga for Mangadex manga (Thanks to Az, She11Shocked, Carlos, and Goldbattle)
+        * Lewd filter, hide the lewd manga in your library when you want to
+        * Tracking filter, filter your tracked manga so you can see them or see non-tracked manga, made by She11Shocked
+        * Search tracking status in library, made by She11Shocked
+        * Custom categories for sources, liked the pinned sources, but you can make your own versions and put any sources in them
+        * Manga info edit
+        * Manga Cover view + share and save
+        * Dynamic Categories, view the library in multiple ways
+        * Smart background for reading modes like LTR or Vertical, changes the background based on the page color
+        * Force disable webtoon zoom
+        * Continue reading button in library
+        * Hentai features enable/disable, in advanced settings
+        * Quick clean titles
+        * Source migration, migrate all your manga from one source to another
+        * Saving searches
+        * Autoscroll
+        * Page preload customization
+        * Customize image cache size
+        * Batch import of custom sources and featured extensions
+        * Automatic CAPTCHA solving
+        * Advanced source settings page, searching, enable/disable all
+        * Click tag for local search, long click tag for global search
+        * Merge multiple of the same manga from different sources
+        * Drag and drop library sorting
+        * Library search engine, includes exclude, quotes as absolute, and a bunch of other ways to search
+        * New E-Hentai/ExHentai features, such as language settings and watched list settings
+        * Enhanced views for internal and integrated sources
+        * Enhanced usability for internal and delegated sources
+
+    Custom sources::
+
+        * E-Hentai/ExHentai
+
+    Additional features for some extensions, features include custom description, opening in app, batch add to library, and a bunch of other things based on the source::
+
+        * 8Muses (EroMuse)
+        * HBrowse
+        * HentaiCafe (inside Foolside)
+        * Hitomi.la
+        * Mangadex
+        * NHentai
+        * PervEden (EN and IT)
+        * Puruin
+        * Tsumino
+
+TachiyomiAZ:
+  - git: https://github.com/az4521/TachiyomiAZ
+  - summary: This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
+  - categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
+    Special Sources (integrated plus added features)::
+
+        * E-Hentai/ExHentai
+        * nHentai
+        * Hitomi.la
+        * 8Muses
+        * HBrowse
+        * Perv Eden
+
+    Delegated Sources (Sources with added features if installed)::
+
+        * Puruin
+        * Tsumino
+        * HentaiCafe (Foolside)
+
+    From EH::
+
+        * Save Searches for use later
+        * AutoScroll
+        * Boost Page (force redownload page)
+        * Page download thread customization
+        * Predownload the whole chapter while reading (Optional)
+        * Retry immediately instead of wating for the rest of the preloaded pages to finish downloading
+        * Customize image cache size (how much space Tachiyomi has available to store future pages)
+        * Sync your favorites with your EHentai/ExHentai account
+        * Batch import E-Hentai/ExHentai URLs (import single URLs by pasting them into the source search box)
+        * Automatic CAPTCHA solving
+
+    From EH and fixed/changed::
+
+        * Auto Migration (Originally from EH, it was then improved in J2k, and we have reintegrated the J2k version)
+        * Merged Sources (Merge 2 or more versions of a manga to get chapters from all of them)
+        * App and notification lock with fingerprint and PIN unlock
+        * Fixed Tsumino and Hitomi
+        * Language filtering search options for nHentai
+        * Random bugfixes
+
+    Original AZ Features::
+
+        * Maintained hamburger navigation
+        * Grid view corner rounding configuration
+        * Manga recommendations
+
+TachiyomiJ2K:
+  git: https://github.com/Jays2Kings/tachiyomiJ2K
+  summary: TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi
+    Features of Tachiyomi include:
+
+      * Online reading from a variety of sources
+      * Local reading of downloaded content
+      * A configurable reader with multiple viewers, reading directions and other settings.
+      * MyAnimeList, AniList, Kitsu, and Shikimori support
+      * Categories to organize your library
+      * Automatic light and dark themes
+      * Schedule updating your library for new chapters
+      * Create backups locally to read offline or to your desired cloud service
+
+  Plus some new features in this fork such as:
+
+      * New Manga details screens, themed by their manga covers
+      * Combine 2 pages while reading into a single one for a better tablet experince
+      * Option for an expanded toolbar for easier one handed use
+      * Floating searchbar to easily start a search in youre library or while browsing
+      * Library redesigned as a single list view:: See categories listed in a vertical view, that can be collasped or expanded with a tap
+      * Staggered Library grid
+      * Drag & Drop Sorting in Library
+      * Dynamic Categories:: Group your library automatically by the tags, tracking status, source, and more
+      * New Recents page:: Providing quick access to newly added manga, new chapters, and to continue where you left on in a series
+      * New Themes
+      * Dynamic Shortcuts:: open the latest chapter of what you were last reading right from your homescreen
+      * New material snackbar:: Removing manga now auto deletes chapters and has an undo button in case you change your mind
+      * Batch Auto-Source Migration (taken from TachiyomiEH)
+      * Share sheets upgrade for Android 10
+      * View all chapters right in the reader
+      * A lot more Material Design You additions
+      * Android 12 features such as automatic extension and app updates
+
+Neko:
+  git: https://github.com/Jays2Kings/tachiyomiJ2K
+  summary: A Free, Open source unofficial manga reader for MangaDex
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This contains features specific to Mangadex that those versions cannot offer. It also features almost every feature that J2K has except for other sources,local sources, and editting manga.
+
+    Note:: This fork is for Android 7+
+    
+    Specific features::
+
+        * Supports native login to MangaDex and 2FA
+        * Use MDList as Tracker
+        * Similar Manga Recommendations
+        * Manually sync of Manga to and from Mangadex follows list
+        * Sync Followed Manga's read chapters from MangaDex into Neko automatically
+        * Filter by Scanlation Group in chapter list
+        * Look at an additional source for missing chapters not hosted on MangaDex
+        * Ability to attempt to merge missing chapters from MangaDex with another source
+        * And many more
+
+Animiru:
+  git: https://github.com/Quickdesh/Animiru
+  summary: Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    Animiru is an unofficial fork of Aniyomi, which is yet another unofficial fork of the free and open source manga reader Tachiyomi
+    Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
+    
+    Feature include everything you know and love about Tachiyomi but for anime::
+      * Watching anime from a variety of sources
+      * Local watching of downloaded content
+      * A configurable player with inbuilt PiP, Playback options and other settings.
+      * Tracker support:: MyAnimeList, AniList, Kitsu, Shikimori, and Bangumi
+      * Categories to organize your library
+      * Light and dark themes
+      * Schedule updating your library for new episodes
+      * Create backups locally to watch offline or to your desired cloud service
+
+Takoyomi:
+  git: https://github.com/CrepeTF/Takoyomi
+  summary: Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not.
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    This is all I've got::Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not.
+    No, I don't know what "Did or have not" means.
+    There's a fork of this repo as well over at https://github.com/suhan-paradkar/Takoyomi but that one doesn't have releases...
+
+Aniyomi:
+  git: https://github.com/jmir1/aniyomi
+  name: Aniyomi
+  summary: Unofficial fork of Tachiyomi for anime
+  categories:
+    - Internet
+    - Multimedia
+    - Animanga
+  description: >-
+    Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above.
+    Features include
+
+    Watching anime from a variety of sources
+    Everything you know and love about Tachiyomi
+        * Online reading from a variety of sources
+        * Local reading of downloaded content
+        * A configurable reader with multiple viewers, reading directions and other settings.
+        * Tracker support:: MyAnimeList, AniList, Kitsu, MangaUpdates, Shikimori, and Bangumi
+        * Categories to organize your library
+        * Light and dark themes
+        * Schedule updating your library for new chapters
+        * Create backups locally to read offline or to your desired cloud service
