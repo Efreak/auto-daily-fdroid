@@ -1,10 +1,6 @@
-changes:
-- many more bug fixes and other improvements
-- automatic tracker status change
-- tweaked theme colours
-- support for mpv as external player
-- fixed fullscreen mode in player for notch phones
-- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6
+This release just changes the default User-Agent so that Cloudflare sources work a bit better.
+
+The promised *actual* stable release is coming soon (TM)...
 
 ---
 
@@ -12,7 +8,7 @@ changes:
 
 | Variant | SHA-256 |
 | ------- | ------- |
-| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f
-| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5
-| armeabi-v7a | 5035e557bb9894b256b80884c8ea2754ff3b0daaca91c9e4f89a87edd7f830ca
-| x86 | e41368e3ab369a6c482d76017de09a9fba715a5a13cd2aa1b0489e3a25a4a4b0 |
+| Universal | ed5259c62b7fa7de8e5b33b1a9d320659ea756da9d03c21fe78e380cd0f726a2
+| arm64-v8a | c3e0cf7a2e16108b902af49c0f0999c97984b27c4ac39798cf153d25f244220a
+| armeabi-v7a | e088815762f43a40540393ea5559a39c15a53824359e6468cb6db65cf24904d2
+| x86 | 9b5f7648e1042806bf8e879978a3c87d24d02246e6750c0b7b2eee46d09731a5 |
