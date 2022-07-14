@@ -1,0 +1,25 @@
+## General
+* Based on Tachiyomi stable [0.13.5](https://github.com/tachiyomiorg/tachiyomi/releases/tag/v0.13.5)(from 0.13.4)
+
+## Library
+* Fix On Hiatus dynamic category
+* Fix group by tracking
+
+## Migration
+* Migrate custom covers
+* Improve sheet selection items
+
+## Reader
+* Use Tachiyomi Image decoder for double pages, fixes certain image types not loading for double pages
+* Only use auto-scroll when app is in focus
+
+## Sources
+### Merged
+* Stop ddos when updating a merge manga
+* Fix auto-downloading
+
+### Mangadex
+* Fix blocked uploaders
+
+### EHentai
+* Add visibility virtual tag, you can now search for expunged in the library

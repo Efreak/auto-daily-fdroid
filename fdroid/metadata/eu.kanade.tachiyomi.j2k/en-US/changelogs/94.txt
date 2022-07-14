@@ -1,0 +1,39 @@
+**Note:** This release has builds separated by device's architecture, if you're on a version older than v1.4.5, you will need to manually download the universal apk from the release page
+  
+## Additions
+* Added Lavender (@crepetf) / Violet (@osyx) theme 
+* When "show all categories" is disabled, you can now swipe horizontally to change categories
+* Migration list updates
+  * Migration list (in browse) now shows language + number of entries in each source
+  * Option to sort alphabetically (default), by most entries, or by obsolete/uninstalled sources
+  * Show if a source is obsolete or uninstalled in the extension list
+* Option to group library by author/artist
+* Add fallback for GitHub extensions (@arkon, @stevenyomi)
+
+## Changes
+* Update WebView user agent (@arkon)
+* Optimize split tall images (@antsylich)
+* Fast scroll in library now snaps to category headings
+* Rename navigation layout to tapzones (@arkon)
+* Mangaupdates fixes and improvements (@ghostbear)
+  * Fixed certain titles not being decoded properly
+  * Added decimal scoring
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fixed collapsed categories ignoring filters
+* Fixed searching collapsed categories when using single category mode
+
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.5.5...v1.5.6
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 3cb8e53aa3d777dd9494b7bee7106be054baa58c6ad5aa760d8d185b3a2265bc
+| arm64-v8a | 4cb667374669fde7085e4531f2f81325fe9aa576d0d9cc11807522e5ec25883c
+| armeabi-v7a | 682c36310f1c4b3bc465c0622225ab5f1699a77e5545212654b08cc6e4986883
+| x86 | 01f4516d975b9128047f53e0572f82671790f67651e61cd3e7ec978097e7fa9e |
