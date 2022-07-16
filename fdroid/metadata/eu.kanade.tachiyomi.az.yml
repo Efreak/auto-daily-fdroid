@@ -3,8 +3,8 @@ Categories:
     - Internet
     - Multimedia
     - Animanga
-CurrentVersion: v8.7.0-AZ
-CurrentVersionCode: 8700
+CurrentVersion: v8.7.1-AZ
+CurrentVersionCode: 8710
 Description: |-
     This fork is based off of TachiyomiEH. It has most features and fixes from Tachiyomi, as well as features from TachiyomiJ2K. It has decided to keep the hamburger menu style of navigation, compared to the other forks that are moving to the new bottom navigation style. Anime support is coming "soon™"
     Special Sources (integrated plus added features)::
