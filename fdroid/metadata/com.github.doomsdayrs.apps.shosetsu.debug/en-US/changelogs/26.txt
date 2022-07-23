@@ -1,21 +1,20 @@
-r2344 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/e74a591cd26da170dfaa31a9b4bc671cd203f480
-
-**Release r2344**
+r2363 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/05ec375ee443f8202a86c3003a552556f6adacd0
 
 ```
 New:
-- Navigation rail for tablet
-- Add themed icon support
-- Reimplement fragments
+- Add ACRA identification to AboutController
 
 Fixes:
-- Fixed novels not being faded out when already in the library
+- Fix qr scanner not being opened after leave it
+- Ensure bulk operations do not exceed 999 variables per query
+- Possibly fix migration from database 2 to 3, I will not test this.
+- Fix dual output not being respected
+- Launch certain views in single top mode to prevent crashes
 
 Misc:
-- Update dependencies
-- Rearrange Backup view for better user clarity
-- Disable vertical paging
-- Disable volume scroll
-- Disable delete chapters on read
-- Use MenuProvider for menus
+- Only update repositories when there are no extensions
+- Better handle errors
+- Update user agent
+- Specify mimeType when creating a backup
+- Code clean ups
 ```
