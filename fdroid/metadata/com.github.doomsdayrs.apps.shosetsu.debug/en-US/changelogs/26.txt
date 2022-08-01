@@ -1,20 +1,22 @@
-r2363 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/05ec375ee443f8202a86c3003a552556f6adacd0
+r2377 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/6d5ee59d245fade3865631b5a8e5a07f30ec8054
+
+Stable in August?
 
 ```
 New:
-- Add ACRA identification to AboutController
+- Add clicking a novel update notification to open up the new chapter
+- Re-add animations to navigation
 
-Fixes:
-- Fix qr scanner not being opened after leave it
-- Ensure bulk operations do not exceed 999 variables per query
-- Possibly fix migration from database 2 to 3, I will not test this.
-- Fix dual output not being respected
-- Launch certain views in single top mode to prevent crashes
+Fix:
+- Catalog filter button not having filter text
+- QRCode reader crashing when opening content
 
 Misc:
-- Only update repositories when there are no extensions
-- Better handle errors
-- Update user agent
-- Specify mimeType when creating a backup
-- Code clean ups
+- Hide filter button when there are no filters in a catalog
+- Improve restore UI
+- Minor logging improvements
+- Scanned QRCode is now auto added to match UI
+- Remove continuous scroll from settings
+- Use VerticalArrangment for spacing
+- Force reader bottom bar to be sharp
 ```
