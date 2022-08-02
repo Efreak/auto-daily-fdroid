@@ -1,28 +1,18 @@
 ### Changes
 
-- Updated more screens to Compose
-    - Expect a few problems, most can be solved by going to library and back 
-- Improved player UI
-    - More animations
-    - Option to change skip intro length
-    - Better tabs
-    - More settings
-    - Better time and duration options
-- More database migration
-- Fixed a few bugs 
-- Removed Tachiyomi global search (Thanks [@Patriarch9307](https://github.com/Patriarch9307) )
-- Added Simkl tracker
+- Properly removes the Manga Global Search Intent (Thanks again @Patriarch9307) 
+
 ---
 
 ### Checksums
 
 | Variant | SHA-256 |
 | ------- | ------- |
-| Universal | ef3d36b90599f2bb66e9755e8e487114f4efe9504047061af48e46ef4438340e |
-| arm64-v8a | 8e8d9adb312932b9164b2b9a0b2f03f674e0211b2c11a557ccccaf520f65fcee |
-| armeabi-v7a | 5d33527567bb38e5fac6dfd8d4de7588f84eafeb3213035fd6762ea83a6a7c82 |
-| x86 | 3d76383ee88d5de6d9cddec5fbddca6dd3aeedc429a1ab9be551d7f5dacbb87a |
-| x86_64 | 4c5e4b788f91fadbbde55d0b0511e5fd2c5e34053df8418c7f888068d5940b48 |
+| Universal | b7e937066791d48504685c61a1a5eafeba7b5552a5d3761991ed024bf86c819e |
+| arm64-v8a | c4695ed261a9e2ed8326d15172940bb8ad572e59a7ae634e0e4183313df95cec |
+| armeabi-v7a | 622de9225c82dde02e40a16652e87809b7313e9a01a08c39bbdb1718417c4d0d |
+| x86 | ee159d66ceae19ff61170bdba27a1aad5220513007814db427d292250a8846e5 |
+| x86_64 | 2f9f06dea1a0d4bf1debe814dff31ba007b16a8b3b57de251a3a3c6320436b8f |
 
 To find out the best version for you:-
 
