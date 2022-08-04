@@ -1,0 +1,27 @@
+AuthorName: CarlosEsco
+Categories:
+    - Internet
+    - Multimedia
+    - Animanga
+CurrentVersion: 2.9.4
+CurrentVersionCode: 146
+Description: |-
+    This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This contains features specific to Mangadex that those versions cannot offer. It also features almost every feature that J2K has except for other sources,local sources, and editting manga.
+    Note:: This fork is for Android 7+
+    Specific features::
+
+        * Supports native login to MangaDex and 2FA
+        * Use MDList as Tracker
+        * Similar Manga Recommendations
+        * Manually sync of Manga to and from Mangadex follows list
+        * Sync Followed Manga's read chapters from MangaDex into Neko automatically
+        * Filter by Scanlation Group in chapter list
+        * Look at an additional source for missing chapters not hosted on MangaDex
+        * Ability to attempt to merge missing chapters from MangaDex with another source
+        * And many more
+IssueTracker: ""
+License: Apache-2.0
+Name: Neko
+SourceCode: https://github.com/CarlosEsco/Neko
+Summary: Free, open source, unofficial MangaDex reader  for Android
+WebSite: ""

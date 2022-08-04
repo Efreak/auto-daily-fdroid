@@ -1,0 +1,16 @@
+## 🥳 New
+- Lavender theme (@Jays2Kings @crepetf @osyx)
+- Ability to delete downloads from library screen
+## 🏗️ Changes
+- Show "fetched x time ago" in grouped/all recents (@Jays2Kings)
+- using lower quality thumbnails now makes library manga use the same quality
+- Update default user agent string (@arkon)
+## 🐜 Fixes
+- download resume fab not showing (@Jays2Kings)
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | bcaf8979f57ffb9086698ffef9b82c84bac004542b6bea408da265227f006d45
+| arm64-v8a | 4e59155f6e67c480b8abe690add050061d94ec341c5d45c018f61fcfe23b4262
+| armeabi-v7a | 37172c9e4f6deb97a99a94f0d5415fc3dec4d4a12c1d07dacacb6407137f3493
+| x86 | 026f1060129e22ee2266873a928719bdda53ad8f10cf4d17970f26871656aa4d |
