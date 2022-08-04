@@ -537,7 +537,7 @@ TachiyomiJ2K:
       * Android 12 features such as automatic extension and app updates
 
 Neko:
-  git: https://github.com/Jays2Kings/tachiyomiJ2K
+  git: https://github.com/CarlosEsco/Neko
   summary: A Free, Open source unofficial manga reader for MangaDex
   categories:
     - Internet
