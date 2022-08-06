@@ -1,18 +1,22 @@
 ### Changes
 
-- Properly removes the Manga Global Search Intent (Thanks again @Patriarch9307) 
-
+- Fixed a UI bug in the compose bottom bar ( thanks @Diegopyl1209 )
+- Added two new features that trigger when adding to library
+    - Automatically open track menu ( Tracking tab )
+    - Automatically download first few episodes ( Downloads tab )
+- Added a feature to automatically download episodes ahead after watching one ( Downloads tab )
+- Fixed Simkl tracking not working
 ---
 
 ### Checksums
 
 | Variant | SHA-256 |
 | ------- | ------- |
-| Universal | b7e937066791d48504685c61a1a5eafeba7b5552a5d3761991ed024bf86c819e |
-| arm64-v8a | c4695ed261a9e2ed8326d15172940bb8ad572e59a7ae634e0e4183313df95cec |
-| armeabi-v7a | 622de9225c82dde02e40a16652e87809b7313e9a01a08c39bbdb1718417c4d0d |
-| x86 | ee159d66ceae19ff61170bdba27a1aad5220513007814db427d292250a8846e5 |
-| x86_64 | 2f9f06dea1a0d4bf1debe814dff31ba007b16a8b3b57de251a3a3c6320436b8f |
+| arm64-v8a | 4dad08236c3abd3ceb3a6516acab99b9a5cd587cbaeb256d3f827a999f9dfc33 |
+| armeabi-v7a | 7fd2fcdcca2e3a36f2ce5628406c1e35584727816265619cbd92598f02638133 |
+| universal | 45597b614a0b69508e1ad9e2fb3e5f8cdef1f79d3acb5e86f3820a48440fe791 |
+| x86 | 30116c98a501d77c07ea299b660b4d04e3b421643c15b35008eccc3e5760d68d |
+| x86_64 | 5c8610f648f93931f61642ee8043d65db7e3ff3c6da4cf5564bedaeda2d825b1 |
 
 To find out the best version for you:-
 
