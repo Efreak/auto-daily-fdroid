@@ -1,0 +1,1 @@
+- Draft will be cached and restored when the app is relaunched. (temporary solution/walk-around for #53 )

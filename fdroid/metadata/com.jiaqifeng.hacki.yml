@@ -2,8 +2,8 @@ AuthorName: Livinglist
 AuthorWebSite: https://livinglist.github.io/
 Categories:
     - Internet
-CurrentVersion: 0.2.29
-CurrentVersionCode: 72
+CurrentVersion: 0.2.30
+CurrentVersionCode: 73
 Description: |-
     Features:
     * Log in using your Hacker News account.
