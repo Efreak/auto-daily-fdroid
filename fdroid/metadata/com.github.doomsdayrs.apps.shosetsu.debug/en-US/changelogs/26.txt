@@ -1,22 +1,16 @@
-r2377 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/6d5ee59d245fade3865631b5a8e5a07f30ec8054
-
-Stable in August?
+r2411 Latest commit: https://github.com/shosetsuorg/shosetsu/commit/4a9e44d129f9ab16ac64544ae899c25699e673c8
 
 ```
 New:
-- Add clicking a novel update notification to open up the new chapter
-- Re-add animations to navigation
+- Option to enable / disable fullscreen
+- Option to match fullscreen with focus
 
-Fix:
-- Catalog filter button not having filter text
-- QRCode reader crashing when opening content
+Fixes:
+- Prevent downloading when there are no chapters
+- Prevent crashes from clicking two buttons at once
 
 Misc:
-- Hide filter button when there are no filters in a catalog
-- Improve restore UI
-- Minor logging improvements
-- Scanned QRCode is now auto added to match UI
-- Remove continuous scroll from settings
-- Use VerticalArrangment for spacing
-- Force reader bottom bar to be sharp
+- Improve UI performance (thanks @jobobby04)
+- Various UI/UX improvements (thanks @jobobby04)
+- Upgrade dependencies
 ```
