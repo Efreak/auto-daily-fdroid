@@ -11,7 +11,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for the following 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/Quickdesh/Animiru"><img src="fdroid/repo/icons/" alt="Animiru icon" width="36px" height="36px"></a> | [**Animiru**](https://github.com/Quickdesh/Animiru) | Unofficial fork of Tachiyomi for anime | 0.13.3.6 (81) |
+| <a href="https://github.com/Quickdesh/Animiru"><img src="fdroid/repo/icons/" alt="Animiru icon" width="36px" height="36px"></a> | [**Animiru**](https://github.com/Quickdesh/Animiru) | Unofficial fork of Tachiyomi for anime | 0.13.4.1 (81) |
 | <a href="https://github.com/ArizArmeidi/AnimSearch"><img src="fdroid/repo/icons/com.example.anim_search.2001.png" alt="AnimSearch icon" width="36px" height="36px"></a> | [**AnimSearch**](https://github.com/ArizArmeidi/AnimSearch) | Anime and Manga search app. created using Flutter and Jikan API | 1.0.0 (2001) |
 | <a href="https://github.com/jmir1/aniyomi"><img src="fdroid/repo/icons/" alt="Aniyomi icon" width="36px" height="36px"></a> | [**Aniyomi**](https://github.com/jmir1/aniyomi) | Unofficial fork of Tachiyomi for anime | 0.12.3.7 (72) |
 | <a href="https://github.com/iamtheblackunicorn/Buwa"><img src="fdroid/repo/icons/com.blackunicorn.buwa.4.png" alt="Black Unicorn Wallpapers icon" width="36px" height="36px"></a> | [**Black Unicorn Wallpapers**](https://github.com/iamtheblackunicorn/Buwa) | Sexy and beautiful wallpapers for your Android-powered device! :black_heart: | 1.3.0 (4) |

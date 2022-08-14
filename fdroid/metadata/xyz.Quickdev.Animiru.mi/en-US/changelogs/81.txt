@@ -1,22 +1,36 @@
 ### Changes
 
-- Fixed a UI bug in the compose bottom bar ( thanks @Diegopyl1209 )
-- Added two new features that trigger when adding to library
-    - Automatically open track menu ( Tracking tab )
-    - Automatically download first few episodes ( Downloads tab )
-- Added a feature to automatically download episodes ahead after watching one ( Downloads tab )
-- Fixed Simkl tracking not working
+- Internal player can now play DASH Streams
+- Fix add to library functions not working with category dialog
+- Added new Connections Tab in More
+- INTRODUCING, DISCORD RICH PRESENCE!
+    - The app redirects you to Discord's official page to sign in
+    - It uses the gateway to display your RPC
+    - Auto hides with incognito mode and NSFW sources
+
+Example of Discord RPC:
+
+![image](https://user-images.githubusercontent.com/36792807/184505483-f03916e0-899a-4097-9c74-ad9dfca44cd1.png)
+
+Discord Developers have allowed custom RPC , as shown below:
+
+https://www.reddit.com/r/discordapp/comments/833qn9/comment/reddit/
+
+&
+
+![N8ImGre](https://user-images.githubusercontent.com/36792807/184505472-e8e5d740-e3f9-47a5-8279-4025f125efb0.png)
+
 ---
 
 ### Checksums
 
 | Variant | SHA-256 |
 | ------- | ------- |
-| arm64-v8a | 4dad08236c3abd3ceb3a6516acab99b9a5cd587cbaeb256d3f827a999f9dfc33 |
-| armeabi-v7a | 7fd2fcdcca2e3a36f2ce5628406c1e35584727816265619cbd92598f02638133 |
-| universal | 45597b614a0b69508e1ad9e2fb3e5f8cdef1f79d3acb5e86f3820a48440fe791 |
-| x86 | 30116c98a501d77c07ea299b660b4d04e3b421643c15b35008eccc3e5760d68d |
-| x86_64 | 5c8610f648f93931f61642ee8043d65db7e3ff3c6da4cf5564bedaeda2d825b1 |
+| arm64-v8a | 66f084df6a9a26f75372d94f83699a2797568c0eb4b86b1a53425483d6b1f4bd |
+| armeabi-v7a | 3e4807a6adbc6c13e653703e9721d7fc28a8eef59fabc1ef7e29a05672075b94 |
+| universal | 0957044a915c26ae610e2c79ebc2d216063fddf723e3a5dc5a530c1e18e76bff |
+| x86 | 0501f6cda383c6ba4a6c1657e74fa91a0aa1ea10e2d94f947b404804dca190b6 |
+| x86_64 | 7f390d253fda4795f09837315e6b52b380fc107321356f1cf7e6ba123b5b1244 |
 
 To find out the best version for you:-
 
