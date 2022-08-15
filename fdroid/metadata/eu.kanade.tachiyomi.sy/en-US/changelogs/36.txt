@@ -1,0 +1,6 @@
+## General
+* Based on Tachiyomi stable [0.13.6](https://github.com/tachiyomiorg/tachiyomi/releases/tag/v0.13.6)(from 0.13.5)
+
+## Source
+* Update EH tags for auto-complete filter
+* Update supported MangaDex languages
