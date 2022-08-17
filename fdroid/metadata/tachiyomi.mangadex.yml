@@ -3,8 +3,8 @@ Categories:
     - Internet
     - Multimedia
     - Animanga
-CurrentVersion: 2.9.4
-CurrentVersionCode: 146
+CurrentVersion: 2.10.0
+CurrentVersionCode: 147
 Description: |-
     This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This contains features specific to Mangadex that those versions cannot offer. It also features almost every feature that J2K has except for other sources,local sources, and editting manga.
     Note:: This fork is for Android 7+

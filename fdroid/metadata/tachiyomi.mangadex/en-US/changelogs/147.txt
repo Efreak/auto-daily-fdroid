@@ -1,0 +1,37 @@
+## 🥳 New
+- Manga Details Screen has been completely rewritten in Compose.  This has brought along some long waited features, and more than likely some bugs.
+  - New UI with more things themed when theming based off cover (The new button block below the backdrop is horizontally scrollable)
+  - View/save/set/share artwork
+  - Set an Alternate title
+  - Links in descriptions are now clickable
+  - Merge search now shows clickable alternative titles to search with
+  - You can enable auto link tracking in settings per a tracker (MangaUpdates excluded) 
+- With the above change there were a few things that did not make the cut currently (unclear if they will be added back)
+  - search for a  chapter
+  - fast scroller
+  - mark range as
+## 🏗️ Changes
+  - return of the [END] tag for chapters
+  - still show missing chapter count, even if the manga is marked completed
+  - switch to fuzzy search to improve merge search results
+## 🐜 Fixes
+  - missing chapter count fix when the initial missing chapters are at the beginning
+  - change missing chapter logic
+  - pure dark mode text not visible on the about screen
+  - concurrent download (@f1998f1998)
+  - add better error handling for BiliBili bullshit 
+## 🛠️ Other
+- Update styfle/cancel-workflow-action action to v0.10.0 (@renovate[bot])
+- Update dependency org.jsoup:jsoup to v1.15.2 (@renovate[bot])
+- Update lifecycle_version to v2.5.0 (@renovate[bot])
+- Update dependency com.squareup.okio:okio to v3.2.0 (@renovate[bot])
+- Update DamianReeves/write-file-action action to v1.1 (#1042) (@renovate[bot])
+- Update eskatos/gradle-command-action action to v2.2.2 (#1041) (@renovate[bot])
+
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 3cc543f16d383b83b69bb979fdb6100a03dd97d310ec14b50643e67c12a44e5d
+| arm64-v8a | 38f385ef1542624e63559f0e7ac0f89c893f96d2e104ff49996c902c77f82551
+| armeabi-v7a | f01b11b3e453ba244ca17a18e7d743db0de787a9d84d76c4527a17cda4a2b8d3
+| x86 | 8fe12f68f98844672e3b519154ad81b857d13f0b595d9f076cb58d52579d52f8 |

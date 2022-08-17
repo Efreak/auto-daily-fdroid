@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1660536857" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="Efreak Repo" pubkey="308204fd308202e5a00302010202041eb45b05300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e301e170d3232303631313036343435395a170d3439313032373036343435395a302f3110300e060355040b1307462d44726f6964311b3019060355040313124c656e6f766f2e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009b4d9927b74c82487815a2477f295ddde085e093b8cfc412f91cac9254a1ea6d232f6a9ba592f965a3bcbc4ce437ccd4e8d4cc5f46ddf0b650c31b3b7eb4c0d7cf09f834e0f133252cb8485135c14e0ac39fa4bc1a194693ce4c5a8a87e0e090008cab7a38226fd61ee4a6d2e0b5d12938126080d3a5ca3984b5812f3f6db60adba6c5c4fb1d46e410257968dc3299e61d150a8d51c86d29e1bf49905b1e4527d5ce650b2698c8d9336cb355f784f1419f6b1292f700fa167a39faf0dea6e0467d73443dc0ee7b903106958e0efe0eb987efe1c5441fa5b6fafa03ceaaf1abbd2bb9d4c78b17e45e71a658db251df3398b6097e6d6db284abaca04eff2c141d68c1946e20348cd30bc8e7b7d3dd3cea10b77313f810c302167199f8a18f46b1a6712996c5aba8f648543c23220ef7b72a848856f8d5faf1f0ad573a1a578a7244bd594f2034be9aa73c820c02fb0dd18ae34a40ba2b28387608806cd05db21344e55b4db7343e5d4db583eb5f417d1571976e1965a97b7427482eb15edb88521029a9d81e58d1c89c391001c25828a616b3cd7fc772bf53dd1e2b4389604528a00cb69b92f42738544612013fbbd6fc12635b0c91303ea3f1e22c2fb1f07e4b434c964b045b569315c30bd8e4b3e48f6a73b8098e1d89b3910237bb417b817bafc195313267181cea76894dda02f8816defd0c7d1b8bd7c8f4147995a3ddc2370203010001a321301f301d0603551d0e041604140ffb04093ae62c86aaf0decc8a267ca3a2e4ff30300d06092a864886f70d01010b050003820201007f98a2b884e163790377c959dc081158ee35f0a17f86ced91e49896c72a168508042ea687f4bb347f759e43594a37788f036c7581ae2593002e78a0d22ba4b27fc27e0773cfd85f3840e859817ef7a464489f549e898c8d42608c91cdeceb3183d10385719bc88da6cadf4fdd3d7d36f00e173935ab574b41290f66a77d4ae882cef1bdedb6225e0a7192431182b1c6837549c4ec939553a144b6006cf8e28600292958b72bf34ddbaea144eae59dba0d17a0a8ba11f9ace10643582d04e06b1c9fb787018bd944216d824e208a0592c5693917d1fdb743541ee1ac3108c506787e44a1ab0a31548570a801e298d08f4e2bb9504202f8b89b9e71180e367f05dd7cecd0a1b24eadeadb549b22ab0ddc299833b9f3f1260234a4d035e7afbf1dea5d4302d0edeb727262c20c542d786e7e877ec308e99e138649128698b23dd9ce91e17cb18f6b8b70bd5f393b7edb5d05e5dac84ee6993d78472ec835d10c1780f72f9f77edf277d1c420038c9850c6d6f67f277bd036ec90d442516eddc1370ac5ff7ac825b485443a6c6e512ccf1cdef0f0e3f1dcf428cbbf4072bfdcbc373eaa711985460114f37fac27ac037fe3d9161385a73a8f85ff55d310ef37df499a0b7a4c6c58937ae74e6a73f2af3b5841e3338aacfc9303ac88cb40ebf1a6d62ba5aaad57440860b2a96a4f987e53e58f3fdc06d77565f3bdd5f91071dc8f040" timestamp="1660709685" url="https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.
 Included apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually.</description>
 	</repo>
 	<application id="xyz.Quickdev.Animiru.mi">
 		<id>xyz.Quickdev.Animiru.mi</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Animiru</name>
 		<summary>Unofficial fork of Tachiyomi for anime</summary>
 		<desc>Animiru is an unofficial fork of Aniyomi, which is yet another unofficial fork of the free and open source manga reader Tachiyomi Animiru strips the manga capabilities of Aniyomi, to make it an anime only app for Android 6.0+
@@ -37,7 +37,7 @@ Feature include everything you know and love about Tachiyomi but for anime::
 			<size>47073546</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>7a5c8b23ff2c19bff78f4a790bf59daa</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.shizuku.manager.permission.API_V23,xyz.Quickdev.Animiru.mi.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -45,8 +45,8 @@ Feature include everything you know and love about Tachiyomi but for anime::
 	</application>
 	<application id="com.example.anim_search">
 		<id>com.example.anim_search</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>AnimSearch</name>
 		<summary>Anime and Manga search app. created using Flutter and Jikan API</summary>
 		<icon>com.example.anim_search.2001.png</icon>
@@ -77,7 +77,7 @@ Possibly more features</desc>
 			<size>6638408</size>
 			<sdkver>19</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>cb9cfbaeb878d1943af7867a62c2c384</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -85,8 +85,8 @@ Possibly more features</desc>
 	</application>
 	<application id="xyz.jmir.tachiyomi.mi">
 		<id>xyz.jmir.tachiyomi.mi</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Aniyomi</name>
 		<summary>Unofficial fork of Tachiyomi for anime</summary>
 		<desc>Aniyomi is an unofficial fork of the free and open source manga reader Tachiyomi that adds anime capabilities! For Android 6.0 and above. Features include
@@ -116,7 +116,7 @@ Watching anime from a variety of sources Everything you know and love about Tach
 			<size>42310783</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -124,8 +124,8 @@ Watching anime from a variety of sources Everything you know and love about Tach
 	</application>
 	<application id="com.blackunicorn.buwa">
 		<id>com.blackunicorn.buwa</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Black Unicorn Wallpapers</name>
 		<summary>Sexy and beautiful wallpapers for your Android-powered device! :black_heart:</summary>
 		<icon>com.blackunicorn.buwa.4.png</icon>
@@ -147,7 +147,7 @@ Watching anime from a variety of sources Everything you know and love about Tach
 			<size>18769620</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>17317ffa12c61f45d3e4e03ca0b833e6</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,SET_WALLPAPER</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -160,7 +160,7 @@ Watching anime from a variety of sources Everything you know and love about Tach
 			<size>18466666</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>17317ffa12c61f45d3e4e03ca0b833e6</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,SET_WALLPAPER</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -168,8 +168,8 @@ Watching anime from a variety of sources Everything you know and love about Tach
 	</application>
 	<application id="com.fastaccess.github">
 		<id>com.fastaccess.github</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>FastHub (official)</name>
 		<summary>FastHub the ultimate GitHub client for Android.</summary>
 		<icon>com.fastaccess.github.461.png</icon>
@@ -261,7 +261,7 @@ built from scratch.
 			<size>7343324</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
@@ -273,15 +273,15 @@ built from scratch.
 			<size>8260922</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>64762f03f1aafb39d6c4ac383c7b3ed7</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.fastaccess.github.permission.C2D_MESSAGE,com.google.android.c2dm.permission.RECEIVE</permissions>
 		</package>
 	</application>
 	<application id="com.fastaccess.github.revival">
 		<id>com.fastaccess.github.revival</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>FastHub Re(vival)</name>
 		<summary>Revival Attempt for FastHub the ultimate GitHub client for Android.</summary>
 		<desc>This fork aim to attempt the revival of the awesome FastHub application. The code base is based on a set of changes done on the original FastHub repository by thermatk.
@@ -383,7 +383,7 @@ built from scratch.
 			<size>8903952</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>bf7523da929bda3668dbe1d3c643bde0</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -398,7 +398,7 @@ built from scratch.
 			<size>9057648</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>bf7523da929bda3668dbe1d3c643bde0</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,WRITE_EXTERNAL_STORAGE</permissions>
 			<uses-permission maxSdkVersion="28" name="android.permission.READ_EXTERNAL_STORAGE"/>
@@ -408,8 +408,8 @@ built from scratch.
 	</application>
 	<application id="com.onedreamers.musicplayer">
 		<id>com.onedreamers.musicplayer</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Flutter Music Player</name>
 		<summary>A complete music player in flutter with cool UI and design.</summary>
 		<icon>com.onedreamers.musicplayer.2006.png</icon>
@@ -450,7 +450,7 @@ Features
 			<size>9087776</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>4a94b5779241f7e67597eb4f2cca33a2</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.onedreamers.musicplayer.permission.C2D_MESSAGE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -458,8 +458,8 @@ Features
 	</application>
 	<application id="com.yourcompany.musicplayer">
 		<id>com.yourcompany.musicplayer</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Flutter Music Player</name>
 		<summary>A complete music player in flutter with cool UI and design.</summary>
 		<icon>com.yourcompany.musicplayer.5.png</icon>
@@ -500,7 +500,7 @@ Features
 			<size>7954552</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>4a94b5779241f7e67597eb4f2cca33a2</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>armeabi-v7a</nativecode>
@@ -513,7 +513,7 @@ Features
 			<size>8251437</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>27</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>191b37c891a71b9ba4072bfcb840cf80</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE,VIBRATE</permissions>
 			<uses-permission maxSdkVersion="17" name="android.permission.VIBRATE"/>
@@ -522,8 +522,8 @@ Features
 	</application>
 	<application id="com.varuns2002.sudoku">
 		<id>com.varuns2002.sudoku</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Flutter-Sudoku</name>
 		<summary>This is a fully fledged Sudoku game written in Dart using Flutter.</summary>
 		<icon>com.varuns2002.sudoku.2040.png</icon>
@@ -562,15 +562,15 @@ Features
 			<size>17734883</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>ce05811236899a25b19f94137168ef32</sig>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
 		</package>
 	</application>
 	<application id="com.jiaqifeng.hacki">
 		<id>com.jiaqifeng.hacki</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Hacki</name>
 		<summary>A Hacker News client made with Flutter that is just enough.</summary>
 		<desc>Features:
@@ -610,7 +610,7 @@ Features
 			<size>64226617</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -623,7 +623,7 @@ Features
 			<size>64079121</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -636,7 +636,7 @@ Features
 			<size>64079121</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>2c13e133d884af307fb8b208649a93a1</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,SCHEDULE_EXACT_ALARM,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -644,8 +644,8 @@ Features
 	</application>
 	<application id="tachiyomi.mangadex">
 		<id>tachiyomi.mangadex</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Neko</name>
 		<summary>Free, open source, unofficial MangaDex reader  for Android</summary>
 		<desc>This is a MangaDex specific fork of Tachiyomi and TachiyomiJ2K. This contains features specific to Mangadex that those versions cannot offer. It also features almost every feature that J2K has except for other sources,local sources, and editting manga.
@@ -668,8 +668,21 @@ Specific features::
 		<source>https://github.com/CarlosEsco/Neko</source>
 		<tracker></tracker>
 		<author>CarlosEsco</author>
-		<marketversion>2.9.4</marketversion>
-		<marketvercode>146</marketvercode>
+		<marketversion>2.10.0</marketversion>
+		<marketvercode>147</marketvercode>
+		<package>
+			<version>2.10.0</version>
+			<versioncode>147</versioncode>
+			<apkname>Neko_2.10.0.apk</apkname>
+			<hash type="sha256">38f385ef1542624e63559f0e7ac0f89c893f96d2e104ff49996c902c77f82551</hash>
+			<size>23500721</size>
+			<sdkver>24</sdkver>
+			<targetSdkVersion>30</targetSdkVersion>
+			<added>2022-08-17</added>
+			<sig>81688c90989dcd70e06a3951a90e102c</sig>
+			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BROADCAST_CLOSE_SYSTEM_DIALOGS,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,tachiyomi.mangadex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
+			<nativecode>arm64-v8a</nativecode>
+		</package>
 		<package>
 			<version>2.9.4</version>
 			<versioncode>146</versioncode>
@@ -678,7 +691,7 @@ Specific features::
 			<size>22882189</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>81688c90989dcd70e06a3951a90e102c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BROADCAST_CLOSE_SYSTEM_DIALOGS,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,tachiyomi.mangadex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -691,7 +704,7 @@ Specific features::
 			<size>22873997</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>81688c90989dcd70e06a3951a90e102c</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,BROADCAST_CLOSE_SYSTEM_DIALOGS,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,tachiyomi.mangadex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -699,8 +712,8 @@ Specific features::
 	</application>
 	<application id="com.arn.scrobble">
 		<id>com.arn.scrobble</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Pano Scrobbler</name>
 		<summary>A last.fm scrobbler and viewer for Android</summary>
 		<desc>* No ADs ever
@@ -747,7 +760,7 @@ Specific features::
 			<size>4119080</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>0fa119f1a45a03857a90b9bbf731ace9</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,com.android.vending.BILLING,com.arn.scrobble.MY_AWESOME_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -760,7 +773,7 @@ Specific features::
 			<size>4120464</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>32</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>0fa119f1a45a03857a90b9bbf731ace9</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,RECORD_AUDIO,com.android.vending.BILLING,com.arn.scrobble.MY_AWESOME_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -768,8 +781,8 @@ Specific features::
 	</application>
 	<application id="com.github.doomsdayrs.apps.shosetsu.debug">
 		<id>com.github.doomsdayrs.apps.shosetsu.debug</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Shosetsu Preview</name>
 		<summary>Preview builds for shosetsu</summary>
 		<icon>com.github.doomsdayrs.apps.shosetsu.debug.26.png</icon>
@@ -817,7 +830,7 @@ Community::
 			<size>27444734</size>
 			<sdkver>22</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>a88a613512ef7d11bea07089fa611cd6</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,FOREGROUND_SERVICE,INSTALL_SHORTCUT,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -825,8 +838,8 @@ Community::
 	</application>
 	<application id="com.example.music_player_fluttter">
 		<id>com.example.music_player_fluttter</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Stream Music Player with GetX</name>
 		<summary>Listen to music online with a clean GetX MVC architecture</summary>
 		<icon>com.example.music_player_fluttter.1.png</icon>
@@ -848,7 +861,7 @@ Community::
 			<size>17765698</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>d20300317204feb429006efc37e2aa1e</sig>
 			<permissions>INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -856,8 +869,8 @@ Community::
 	</application>
 	<application id="com.suwayomi.tachidesk_sorayomi">
 		<id>com.suwayomi.tachidesk_sorayomi</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Tachiyomi-Sorayami</name>
 		<summary>A free and open source manga reader based on Flutter to read manga from a Tac...</summary>
 		<desc>A free and open source manga reader based on Flutter to read manga from a Tachidesk-Server instance.
@@ -894,7 +907,7 @@ Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so
 			<size>22903479</size>
 			<sdkver>16</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>33c6e3a83e0f2c537d9a4ac46f4651a5</sig>
 			<permissions>INTERNET,READ_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
@@ -902,8 +915,8 @@ Keep in mind that Tachidesk-Sorayomi and Tachidesk-Server are alpha software, so
 	</application>
 	<application id="eu.kanade.tachiyomi.az">
 		<id>eu.kanade.tachiyomi.az</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>TachiyomiAZ</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<icon>eu.kanade.tachiyomi.az.8710.png</icon>
@@ -967,7 +980,7 @@ Original AZ Features::
 			<size>25091420</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>17a9272cf0980e407769c1b5608f4147</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -980,7 +993,7 @@ Original AZ Features::
 			<size>24698136</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>17a9272cf0980e407769c1b5608f4147</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -988,8 +1001,8 @@ Original AZ Features::
 	</application>
 	<application id="eu.kanade.tachiyomi.j2k">
 		<id>eu.kanade.tachiyomi.j2k</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>TachiyomiJ2K</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<desc>TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi Features of Tachiyomi include::
@@ -1039,7 +1052,7 @@ Plus some new features in this fork such as::
 			<size>25728270</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -1052,7 +1065,7 @@ Plus some new features in this fork such as::
 			<size>25695334</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -1060,8 +1073,8 @@ Plus some new features in this fork such as::
 	</application>
 	<application id="eu.kanade.tachiyomi.sy">
 		<id>eu.kanade.tachiyomi.sy</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>TachiyomiSY</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<desc>Tachiyomi is a free and open source manga reader for Android 6.0 and above. This version of Tachiyomi, TachiyomiSY was based off TachiyomiAZ. This version is meant to push forward in the ways of usability and features. TachiyomiSY tries to push forward where it can, but staying in a place where it can easily grab updates and features from the main app, it tries to make new features, or take features from other forks like J2K and Neko.
@@ -1141,7 +1154,7 @@ Additional features for some extensions, features include custom description, op
 			<size>52817124</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>65c001ff0feaed4bd40f348755a0c50e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -1154,7 +1167,7 @@ Additional features for some extensions, features include custom description, op
 			<size>52706492</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>65c001ff0feaed4bd40f348755a0c50e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -1167,7 +1180,7 @@ Additional features for some extensions, features include custom description, op
 			<size>52673564</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>65c001ff0feaed4bd40f348755a0c50e</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -1175,8 +1188,8 @@ Additional features for some extensions, features include custom description, op
 	</application>
 	<application id="eu.kanade.tachiyomi.sy.crepe">
 		<id>eu.kanade.tachiyomi.sy.crepe</id>
-		<added>2022-08-15</added>
-		<lastupdated>2022-08-15</lastupdated>
+		<added>2022-08-17</added>
+		<lastupdated>2022-08-17</lastupdated>
 		<name>Takoyomi</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<desc>This is all I've got::Tachiyomi is a free and open source manga reader for Android 6.0 and above. Takoyomi is a fork of TachiyomiSY which aims to implement UI changes which TachiyomiSY did or have not. No, I don't know what &quot;Did or have not&quot; means. There's a fork of this repo as well over at https://github.com/suhan-paradkar/Takoyomi but that one doesn't have releases...</desc>
@@ -1197,7 +1210,7 @@ Additional features for some extensions, features include custom description, op
 			<size>52771345</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>22ff682054b84d72a845bc48b8243638</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -1210,7 +1223,7 @@ Additional features for some extensions, features include custom description, op
 			<size>52772360</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-08-15</added>
+			<added>2022-08-17</added>
 			<sig>22ff682054b84d72a845bc48b8243638</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
