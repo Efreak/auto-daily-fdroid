@@ -28,7 +28,7 @@ jobs:
         run: |
          sudo add-apt-repository ppa:fdroid/fdroidserver
          sudo apt-get update
-         sudo apt-get install fdroidserver android-sdk-
+         sudo apt-get install fdroidserver apksigner android-sdk-
 
       - name: Set up repo secrets
         run: |
