@@ -12,6 +12,7 @@ jobs:
     if: "!contains(github.event.commits[0].message, '[skip ci]')"
     name: "Generate repo from apps listing"
     runs-on: ubuntu-latest
+    container: medzik/fdroidserver
 
     steps:
       - uses: actions/checkout@v2
@@ -25,6 +26,7 @@ jobs:
           git restore-mtime
 
       - name: Install F-Droid server software
+        if: "!contains(github.event.commits[0].message, 'dont use the apt repo...')"
         run: |
          sudo add-apt-repository ppa:fdroid/fdroidserver
          sudo apt-get update
